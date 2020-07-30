@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront Identity Manager 2010
+  description: A Microsoft Forefront Identity Manager 2010 a rögzített életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822279"
+name: Microsoft Forefront Identity Manager 2010
+summary: >+
+  A Microsoft Forefront Identity Manager 2010 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 10/10/2017
+  extendedEnd: 10/11/2022
+releases:
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 10/11/2022
+content: "\n\n> [!NOTE]\n> A Microsoft Forefront Identity Manager 2010 általános és kiterjesztett támogatása az látható módon bővül, hogy minden ügyfél számára a szokásos életciklus-átmenet ütemtervét biztosítsa."
