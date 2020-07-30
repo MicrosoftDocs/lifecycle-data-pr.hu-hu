@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SharePoint 2010 (internetes webhelyekhez)
+  description: A Microsoft SharePoint 2010 (internetes webhelyekhez) a Rögzített életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822241"
+name: Microsoft SharePoint 2010 (internetes webhelyekhez)
+summary: >+
+  A Microsoft SharePoint 2010 (internetes webhelyekhez) a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: az Internetes webhelyek vállalati verzió, az Internetes webhelyek szabvány esetében
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/15/2010
+  end: 10/13/2015
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 06/15/2010
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Linkek \n* [Termékdokumentáció](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Fejlesztői dokumentáció](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> A termék támogatási dátuma 2020. október 13-tól 2021.\n\n## <a name=\"editions\"></a>Kiadások \n* Internetes webhelyek nagyvállalati használatra\n* internetes webhelyek szabványa"
