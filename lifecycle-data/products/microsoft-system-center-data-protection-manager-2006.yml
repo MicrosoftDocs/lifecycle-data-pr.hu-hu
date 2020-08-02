@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft System Center Adatvédelmi menedzser 2006
+  description: A Microsoft System Center Data Protection 2006 a Rögzített életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e1d39ae874bd9d3a0491711fa466958ed75fae39
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822227"
+name: Microsoft System Center Adatvédelmi menedzser 2006
+summary: >+
+  A Microsoft System Center Data Protection 2006 a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/22/2005
+  end: 04/13/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 10/23/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 10/22/2005
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n* [Migrációs útmutató](https://blogs.technet.microsoft.com/dpm/2016/03/24/system-center-data-protection-manager-2006-end-of-support)"
