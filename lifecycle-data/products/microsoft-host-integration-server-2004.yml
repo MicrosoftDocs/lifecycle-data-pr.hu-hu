@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Host Integration Server 2004
+  description: A Microsoft Host Integration Server 2004 a Rögzített életciklus-szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 25028677f10f76293af0536c479e50a6996dfaf0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821958"
+name: Microsoft Host Integration Server 2004
+summary: "A Microsoft Host Integration Server 2004 a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.\n\nEz a következő kiadásokra vonatkozik: Fejlesztő, Nagyvállalati, Standard\n\n> [!IMPORTANT]\n> A termék támogatása véget ért. \n"
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/30/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Service Pack 1
+  startDate: 08/15/2007
+  endDate: 01/13/2015
+- version: Original Release
+  startDate: 10/30/2004
+  endDate: 07/14/2008
+content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Fejlesztő\n* Vállalati\n* Standard"
