@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft-megoldás a vendégül látott üzenetküldéshez és együttműködéshez 3.5
+  description: A Microsoft Megoldás az üzemeltetett üzenetküldéshez és együttműködéshez 3.5 a Rögzített életciklus-szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d7421b0e62de8f73f59e14a0986a880755bb6d59
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821680"
+name: Microsoft-megoldás a vendégül látott üzenetküldéshez és együttműködéshez 3.5
+summary: >+
+  A Microsoft Megoldás az üzemeltetett üzenetküldéshez és együttműködéshez 3.5 a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 02/26/2007
+  end: 07/12/2011
+releases:
+- version: Original Release
+  startDate: 02/26/2007
+  endDate: 07/12/2011
+content: ''

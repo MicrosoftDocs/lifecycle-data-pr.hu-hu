@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Szoftverlicencelési és -védelmi kiszolgáló
+  description: A szoftverlicencelési és -védelmi kiszolgáló a rögzített életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821666"
+name: Szoftverlicencelési és -védelmi kiszolgáló
+summary: >
+  A szoftverlicencelési és -védelmi kiszolgáló a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Enterprise, Standard
+
+
+  > [!IMPORTANT]
+
+  > A Szoftverlicencelési és -védelmi kiszolgáló (SLPS) elidegenítése miatt a Microsoft 2009.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Linkek \n* [Szoftverlicencelési és -védelmi kiszolgáló (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Vállalati\n* Standard"

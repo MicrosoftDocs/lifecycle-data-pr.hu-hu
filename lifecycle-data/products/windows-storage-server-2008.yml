@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2008
+  description: A Windows Storage Server 2008 a rögzített életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821617"
+name: Windows Storage Server 2008
+summary: >
+  A Windows Storage Server 2008 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Alapszintű, 32 bites, Alapszintű 64 bites, Alapszintű beágyazott, Alapszintű beágyazott 32 bites, Vállalati, Vállalati beágyazott, Szabványos, Szabványos beágyazott, Munkacsoport
+
+
+  > [!IMPORTANT]
+
+  > Ez a termék elérte a támogatás végét. Lásd alább a migrációs útmutatást.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+- version: Service Pack 2
+  startDate: 07/19/2009
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Kiszolgálófrissítési információ](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Alapvető\n* Alapszintű 32 bites\n* Alapszintű 64 bites\n* Egyszerű beágyazott\n* 32 bites beépített beépített\n* Vállalati\n* Vállalati beágyazott\n* Standard\n* Szabványos beágyazott\n* Munkacsoport"

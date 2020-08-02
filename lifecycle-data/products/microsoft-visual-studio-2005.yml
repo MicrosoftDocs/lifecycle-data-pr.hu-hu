@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual Studio 2005
+  description: A Microsoft Visual Studio 2005 a rögzített életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821665"
+name: Microsoft Visual Studio 2005
+summary: >+
+  A Microsoft Visual Studio 2005 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Professional, Standard, Standard Edition akadémiai licenc, Team Edition adatbázis-szakembereknek, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools for the Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Linkek \n* [Visual J# támogatási információk](https://msdn.microsoft.com/vstudio/bb188593)\n* [Migrációs útmutató](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio termékinformációi](https://www.VisualStudio.com)\n\n> [!NOTE]\n> A termék támogatása véget ért. Lásd alább a migrációs útmutatást.\n> [!NOTE]\n> A Microsoft Visual Studio 2005 Team Edition adatbázis-szakértőknek 2007.\n\n## <a name=\"editions\"></a>Kiadások \n* Szakmai\n* Standard\n* Standard Edition akadémiai licenc\n* Team Edition adatbázis-szakembereknek\n* Team Edition szoftvertervezőknek\n* Team Edition szoftverfejlesztőknek\n* Team Edition szoftvertesztelőknek\n* Csapat lakosztály\n* Csapatteszt terhelési ügynöke\n* Eszközök a Microsoft Office rendszerhez\n* VB Expressz\n* Vizuális C# Expressz\n* Vizuális C++ Expressz\n* Vizuális J# Expressz\n* Visual Web Developer Express"
