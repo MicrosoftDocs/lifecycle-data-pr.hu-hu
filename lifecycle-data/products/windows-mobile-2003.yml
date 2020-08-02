@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Mobile 2003
+  description: A Windows Mobile 2003 a rögzített életciklusra vonatkozó irányelvet követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822139"
+name: Windows Mobile 2003
+summary: >
+  A Windows Mobile 2003 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Pocket PC, okostelefonokra, Second Edition szoftver Pocket PC Telefonhoz, Second Edition szoftver okostelefonhoz
+
+
+  > [!IMPORTANT]
+
+  > A termék támogatása véget ért.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/31/2004
+  endDate: 07/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Pocket PC-hez\n* okostelefonokra\n* Second Edition szoftver Pocket PC telefonhoz\n* Second Edition szoftver okostelefonra"
