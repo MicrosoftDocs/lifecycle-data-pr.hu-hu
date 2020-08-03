@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Microsoft BizTalk gyorsító a HL7 1.0-hoz '
+  description: A Microsoft BizTalk Accelerator for HL7 1.0 a Rögzített életciklus-szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cef326653a2bc78d5b8b20c1dfb907827cd216d3
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822343"
+name: 'Microsoft BizTalk gyorsító a HL7 1.0-hoz '
+summary: >+
+  A Microsoft BizTalk Accelerator for HL7 1.0 a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Standard
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 05/27/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/27/2004
+  endDate: 07/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard"

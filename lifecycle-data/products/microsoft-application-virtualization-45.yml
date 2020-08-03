@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft alkalmazás virtualizáció4,5
+  description: A Microsoft Application Virtualization 4.5 a Rögzített életciklus-szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9280ac5223f15be20ed2c04fe29b25fd57417b6a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822356"
+name: Microsoft alkalmazás virtualizáció4,5
+summary: >
+  A Microsoft Application Virtualization 4.5 a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Terminálszolgáltatások, Windows asztali számítógépek esetén
+
+
+  > [!IMPORTANT]
+
+  > A termék támogatása véget ért. Lásd az áttelepítési útmutatót alább.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mivel az App-V 4.6 ügyfél az App-V 4.5 Server t használja, az App-V 4.5 Server továbbra is támogatott lesz az App-V 4.6 életciklusának megfelelően, ha a támogatott App-V 4.6 ügyféllel használja.\n\n## <a name=\"editions\"></a>Kiadások \n* terminálszolgáltatásokhoz\n* Windows asztali számítógépekhez"

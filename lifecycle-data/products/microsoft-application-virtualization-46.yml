@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft alkalmazás virtualizáció4,6
+  description: A Microsoft Application Virtualization 4.6 a Rögzített életciklus-szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822354"
+name: Microsoft alkalmazás virtualizáció4,6
+summary: >+
+  A Microsoft Application Virtualization 4.6 a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Távoli asztali szolgáltatások, Windows asztali számítógépek, Sequencer
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Linkek \n* [Termék- és áttelepítési információk](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Migrációs útmutató](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mivel az App-V 4.6 ügyfél az App-V 4.5 Server t használja, az App-V 4.5 Server továbbra is támogatott lesz az App-V 4.6 életciklusának megfelelően, ha a támogatott App-V 4.6 ügyféllel használja.\n\n## <a name=\"editions\"></a>Kiadások \n* távoli asztali szolgáltatásokhoz\n* Windows asztali számítógépekhez\n* Sequencer"
