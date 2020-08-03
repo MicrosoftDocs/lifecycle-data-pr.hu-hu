@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft iSCSI szoftveres cél 3.3
+  description: A Microsoft iSCSI Software Target 3.3 a komponenséletciklus-szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c8ae05506cdc5e83920e82e4cc6bcfef3c03863e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855843"
+name: Microsoft iSCSI szoftveres cél 3.3
+summary: >
+  A Microsoft iSCSI Software Target [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 3.3 a komponenséletciklus-szabályzatot követi.
+
+
+
+  > [!IMPORTANT]
+
+  > Az összetevő támogatása véget ért.
+products:
+- windows
+policyType: component
+supportDates:
+  start: 12/20/2010
+  end: 10/08/2019
+releases:
+- version: Original Release
+  startDate: 12/20/2010
+  endDate: 10/08/2019
+content: ''

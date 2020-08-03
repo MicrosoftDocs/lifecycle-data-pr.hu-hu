@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: A Visual Studio 2013 a rögzített életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856187"
+name: Visual Studio 2013
+summary: >+
+  A Visual Studio 2013 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Ügynökök, Minden, Közösség, Express for Web, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Team Explorer, Test Professional, Ultimate, Visual C++ Terjeszthető, Web Tools Extensions
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>Linkek \n* [Karbantartási információk](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Minden\n* Közösség\n* Expressz webes használatra\n* Expressz a Windows rendszerhez\n* Expressz a Windows Asztali verzióhoz\n* IntelliTrace gyűjtő\n* Modellezés SDK\n* Többbájtos MFC-könyvtár\n* Prémium\n* Szakmai\n* Kiadáskezelése\n* Távoli eszközök\n* Sdk\n* Shell (integrált)\n* Héj (izolált)\n* Csapatfelfedező\n* Teszt Szakmai\n* Végső\n* Visual C++ terjeszthető\n* Webes eszközök bővítményei"

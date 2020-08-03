@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2016
+  description: A Windows Storage Server 2016 a Rögzített életciklus-szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f29c2a9498dac1ce791c1b9f1967d132a0bdec98
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855911"
+name: Windows Storage Server 2016
+summary: >+
+  A Windows Storage Server 2016 a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Standard, Workgroup
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/15/2016
+  end: 01/11/2022
+  extendedEnd: 01/12/2027
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+content: "\n## <a name=\"links\"></a>Linkek \n* [Életciklus – gyakori kérdések – Windows-termékek](/lifecycle/faq/windows)\n* [Termékinformációk](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard\n* Munkacsoport"

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project Online asztali ügyfél
+  description: A Project Online asztali ügyfél a modern életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2d87e5120f17d4b087c13f5947f9c099d4ed52a5
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855806"
+name: Project Online asztali ügyfél
+summary: >+
+  A Project Online asztali ügyfél a [modern](/lifecycle/policies/modern) életciklusra vonatkozó szabályzatot követi.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>Linkek \n* [Rendszerkövetelmények](https://products.office.com/office-system-requirements)\n* [Karbantartási információk](https://technet.microsoft.com/library/mt584223.aspx)"

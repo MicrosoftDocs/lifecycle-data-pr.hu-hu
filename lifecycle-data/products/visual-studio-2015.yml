@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2015
+  description: A Visual Studio 2015 a rögzített életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855965"
+name: Visual Studio 2015
+summary: >+
+  A Visual Studio 2015 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Ügynökök, Közösség, Enterprise, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Test Professional, Visual C++ Terjeszthető
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/20/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Linkek \n* [Karbantartási információk](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Közösség\n* Vállalati\n* Expressz webes használatra\n* Expressz a Windows 10-hez\n* Expressz a Windows Asztali verzióhoz\n* Modellezés SDK\n* Szakmai\n* Kiadáskezelése\n* Távoli eszközök\n* Sdk\n* Shell (integrált)\n* Héj (izolált)\n* Teszt Szakmai\n* Visual C++ terjeszthető"

@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft System Center 2012 Orchestrator
+  description: A Microsoft System Center 2012 Orchestrator a Rögzített életciklus-szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d2e8d6efc8fa088c9eb3db033e371374b8e78d40
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855927"
+name: Microsoft System Center 2012 Orchestrator
+summary: >+
+  A Microsoft System Center 2012 Orchestrator a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/30/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 1
+  startDate: 12/15/2012
+  endDate: 07/12/2022
+- version: Original Release
+  startDate: 05/30/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n* [System Center dokumentáció](/system-center/#pivot=components&panel=components-all)\n* [Rendszerközpont-erőforrások](https://www.microsoft.com/system-center/resources)"
