@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Ezüstfény 5
+  description: A Silverlight 5 követi a rögzített életciklusra vonatkozó irányelveket.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870050"
+name: Ezüstfény 5
+summary: >+
+  A Silverlight 5 követi a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelveket.
+
+
+products:
+- silverlight
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2011
+  end: 10/12/2021
+releases:
+- version: Original Release
+  startDate: 12/09/2011
+  endDate: 10/12/2021
+content: "\n## <a name=\"links\"></a>Linkek \n* [A Silverlight 5 támogatja az itt felsorolt böngészőket 2021.10.10-én, vagy az alapul szolgáló böngészők életciklusán keresztül, attól függően, hogy melyik a rövidebb.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlight támogatás vége](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> A Microsoft legalább 12 hónapos értesítést küld az Eszközök támogatásának megszüntetése előtt."
