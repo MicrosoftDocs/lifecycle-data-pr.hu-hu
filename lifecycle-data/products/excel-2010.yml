@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Excel 2010
+  description: Az Excel 2010 a rögzített életciklusra vonatkozó irányelvet követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b87f39a5d41d37ea9ea0c6f9e9871319d92b89c9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822401"
+name: Excel 2010
+summary: >+
+  Az Excel 2010 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Home and Student, Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/DeployOffice/office-2010-end-support-roadmap)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Otthon és diák\n* Standard"

@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: InfoPath 2010
+  description: Az InfoPath 2010 a rögzített életciklusra vonatkozó irányelvet követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 89a24a2dbfa198829abde7e854cfb1a775c8f6e2
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822374"
+name: InfoPath 2010
+summary: >+
+  Az InfoPath 2010 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://support.microsoft.com/help/4086176/office-2010-approaching-end-of-extended-support)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard"

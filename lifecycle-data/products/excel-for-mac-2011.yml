@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Mac Excel 2011
+  description: A Mac Excel 2011 a Rögzített életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6fbc511fd70af039109ad1e301de765ad20e836c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822399"
+name: Mac Excel 2011
+summary: >+
+  A Mac Excel 2011 a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 10/10/2017
+content: "\n\n> [!NOTE]\n> A Microsoft Office for Mac 2011 általános támogatása az látható módon bővül, hogy az ügyfelek számára a szokásos életciklus-átmenet ütemtervét biztosítsa."
