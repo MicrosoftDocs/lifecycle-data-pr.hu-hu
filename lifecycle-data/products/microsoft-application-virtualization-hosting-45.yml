@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft alkalmazás virtualizációs tárhely 4.5 Windows asztali számítógépekhez
+  description: A Microsoft Application Virtualization Hosting 4.5 for Windows Asztali számítógépek a Rögzített életciklus-szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822349"
+name: Microsoft alkalmazás virtualizációs tárhely 4.5 Windows asztali számítógépekhez
+summary: >
+  A Microsoft Application Virtualization Hosting 4.5 for Windows Asztali számítógépek a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Windows asztali számítógépek esetén
+
+
+  > [!IMPORTANT]
+
+  > A termék támogatása véget ért. Lásd az áttelepítési információkat alább.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>Linkek \n* [Termék- és áttelepítési információk](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Windows asztali számítógépekhez"

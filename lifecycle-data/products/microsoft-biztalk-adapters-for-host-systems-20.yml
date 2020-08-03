@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk adapterek gazdarendszerekhez 2.0
+  description: A Microsoft BizTalk adapterek a Host Systems 2.0 rendszerhez a Rögzített életciklus-szabályzatot követik.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822331"
+name: Microsoft BizTalk adapterek gazdarendszerekhez 2.0
+summary: >+
+  A Microsoft BizTalk adapterek a Host Systems 2.0 rendszerhez a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követik.
+
+
+  Ez a következő kiadásokra vonatkozik: Fejlesztő, Standard
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/21/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Fejlesztő\n* Standard"

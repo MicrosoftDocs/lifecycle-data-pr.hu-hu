@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk gyorsító a SWIFT 2.0-hoz
+  description: A Microsoft BizTalk Accelerator for SWIFT 2.0 a Rögzített életciklus-szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 430961859e38f41832f860e11b1ed4a870f63869
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822341"
+name: Microsoft BizTalk gyorsító a SWIFT 2.0-hoz
+summary: >+
+  A Microsoft BizTalk Accelerator for SWIFT 2.0 a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Enterprise
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 09/25/2004
+  end: 10/13/2009
+  extendedEnd: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 09/25/2004
+  endDate: 10/14/2014
+content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Vállalati"
