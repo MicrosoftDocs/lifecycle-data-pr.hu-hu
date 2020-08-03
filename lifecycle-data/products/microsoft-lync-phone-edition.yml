@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Lync Phone Edition
+  description: A Microsoft Lync Phone Edition a Rögzített életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
+  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/31/2020
+  ms.locfileid: "879507"
+name: Microsoft Lync Phone Edition
+summary: >+
+  A Microsoft Lync Phone Edition a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/11/2023
+content: "\n## <a name=\"links\"></a>Linkek \n* [További információ](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> A Lync Server 2010 és a Lync Server 2013 támogatja a Lync Phone Edition alkalmazást. A Lync Phone Edition támogatási dátuma két évvel meghosszabbodott, hogy igazodjon a Lync Server 2013 életciklusához."
