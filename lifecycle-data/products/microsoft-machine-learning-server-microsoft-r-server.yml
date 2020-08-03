@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Machine Learning Server (Microsoft R Server)
+  description: A Microsoft Machine Learning Server (Microsoft R Server) a modern életciklus-szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 800ea9f3a33e2ea7ba45314ebd7986ebcb047bd8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855830"
+name: Microsoft Machine Learning Server (Microsoft R Server)
+summary: >+
+  A Microsoft Machine Learning Server (Microsoft R Server) a [modern](/lifecycle/policies/modern) életciklus-szabályzatot követi.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 01/01/2016
+releases:
+- version: Original Release
+  startDate: 01/01/2016
+content: "\n## <a name=\"links\"></a>Linkek \n* [Karbantartási információk](/machine-learning-server/resources-servicing-support)"

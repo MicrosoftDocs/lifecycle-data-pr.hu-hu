@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: A Windows Server 2016 Nano Server telepítési lehetősége
+  description: A Windows Server 2016 Nano Server telepítési lehetősége a modern életciklus-szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856173"
+name: A Windows Server 2016 Nano Server telepítési lehetősége
+summary: >+
+  A Windows Server 2016 Nano Server telepítési lehetősége a [modern](/lifecycle/policies/modern) életciklus-szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Datacenter, Standard
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/15/2016
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Linkek \n* [Karbantartási információk](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Életciklus – gyakori kérdések – Windows-termékek](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter\n* Standard"

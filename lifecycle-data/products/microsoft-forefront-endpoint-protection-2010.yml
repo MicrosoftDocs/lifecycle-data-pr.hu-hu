@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront endpoint protection 2010
+  description: A Microsoft Forefront Endpoint Protection 2010 a rögzített életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856025"
+name: Microsoft Forefront endpoint protection 2010
+summary: >
+  A Microsoft Forefront Endpoint Protection 2010 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+
+
+
+  > [!IMPORTANT]
+
+  > A támogatás véget ért. Lásd az áttelepítési útmutatót alább.
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/31/2011
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 03/31/2011
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Karbantartási információk](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Az ügyfeleknek naprakésznek kell maradniuk a kártevőirtó platform legújabb frissítésével, hogy teljes mértékben támogathatók legyenek. A Forefront Endpoint Protection 2010-re ugyanazok az életciklus-házirend vonatkozik, mint a System Center Configuration Manager 2007-re, mind az általános, mind a kiterjesztett támogatás esetében."

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 üzleti központ
+  description: A Dynamics 365 Business Central a modern életciklusra vonatkozó szabályzatot követi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855991"
+name: Dynamics 365 üzleti központ
+summary: >+
+  A Dynamics 365 Business Central a [modern](/lifecycle/policies/modern) életciklusra vonatkozó szabályzatot követi.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 11/01/2016
+releases:
+- version: Original Release
+  startDate: 11/01/2016
+content: "\n## <a name=\"links\"></a>Linkek \n* [A Microsoft Dynamics 365 ütemterve](https://aka.ms/businessappsreleasenotes)\n* [Karbantartási információk](/dynamics365/business-central/dev-itpro/faq)\n* [Rendszerkövetelmények](/dynamics365/business-central/product-requirements)"
