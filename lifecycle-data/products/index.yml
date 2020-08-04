@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: Keresés a termékek és szolgáltatások életciklusának adatai között (előzetes verzió)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Ez az oldal fejlesztés alatt áll. A Microsoft-termékek teljes listáját, valamint támogatási idővonalukat és adataikat a [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n\n\nA Microsoft Lifecycle egységes és kiszámítható irányelveket biztosít a termék teljes élettartama alatt nyújtott támogatáshoz, segítve az ügyfeleket informatikai befektetéseik és környezeteik kezelésében, miközben stratégiailag tervezi konkretizálják a jövőt.\n\n\nKeresse meg alább a Microsoft kereskedelmi termékeinek és szolgáltatásainak listáját, majd válassza ki az eredményt a támogatási és karbantartási határidők, a szükséges frissítések, az áttelepítési információk és a rendszerkövetelmények megkereséséhez."
+summary: "\n\n> [!IMPORTANT]\n> Ez az oldal fejlesztés alatt áll. A Microsoft-termékek teljes listáját, valamint támogatási idővonalukat és adataikat a [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Életciklus-adatok exportálása az [Életciklus exportálása](/lifecycle/export/products) lapról.\n\n\nA Microsoft Lifecycle egységes és kiszámítható irányelveket biztosít a termék teljes élettartama alatt nyújtott támogatáshoz, segítve az ügyfeleket informatikai befektetéseik és környezeteik kezelésében, miközben stratégiailag tervezi konkretizálják a jövőt.\n\n\nKeresse meg alább a Microsoft kereskedelmi termékeinek és szolgáltatásainak listáját, majd válassza ki az eredményt a támogatási és karbantartási határidők, a szükséges frissítések, az áttelepítési információk és a rendszerkövetelmények megkereséséhez."
 metadata:
-  ms.openlocfilehash: 6bb48cf842d75b6dec70a1d057d9a732e245a823
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
+  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "822377"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882439"
