@@ -1,30 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Analytics
-  description: A Windows Analytics a modern életciklusra vonatkozó szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4e35970134232ac66d6cae3e03ce5f0dcb3ceb0b
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: Windows-elemzés
+  description: A Windows Analytics követi a modern életciklus-házirendet.
+  ms.date: 08/11/2020
+  ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
+  ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870005"
-name: Windows Analytics
+  ms.lasthandoff: 08/11/2020
+  ms.locfileid: "887858"
+name: Windows-elemzés
 summary: >
-  A Windows Analytics a [modern](/lifecycle/policies/modern) életciklusra vonatkozó szabályzatot követi.
+  A Windows Analytics követi a [modern](/lifecycle/policies/modern) életciklus-házirendet.
 
 
 
   > [!IMPORTANT]
 
-  > A támogatás véget ért. Lásd az áttelepítési útmutatót alább.
+  > A támogatás véget ért. Lásd az áttelepítési útmutatást alább.
 products:
 - windows
 policyType: modern-on-prem
 supportDates:
   start: 03/02/2017
+  end: 01/31/2020
 releases:
 - version: Original Release
   startDate: 03/02/2017
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
+content: "\n## <a name=\"links\"></a>Linkek \n* [Áttelepítési útmutató](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
