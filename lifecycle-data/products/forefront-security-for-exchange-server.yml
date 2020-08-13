@@ -1,28 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Forefront biztonság az Exchange Server hez
-  description: Az Exchange Server előtér-biztonsága a rögzített életciklusra vonatkozó szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c3d1542acc20b211ef41984c07656ca0f74be61
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Forefront-biztonság az Exchange Serverhez
+  description: A Forefront Security for Exchange Server követi a rögzített életciklus-házirendet.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "822389"
-name: Forefront biztonság az Exchange Server hez
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893723"
+name: Forefront-biztonság az Exchange Serverhez
 summary: >
-  Az Exchange Server előtér-biztonsága a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Forefront Security for Exchange Server követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
 
 
 
   > [!IMPORTANT]
 
-  > A Forefront márkanév alatt található biztonsági termékek ütemterve megváltozott. Ez a termék 2015.
+  > Megváltozott a biztonsági termékekkel kapcsolatos ütemterv a Forefront brandben. Ez a szorzat az 2015 december 31-én megszűnt.
 products:
 - windows
 policyType: fixed
 supportDates:
   start: 03/08/2007
+  end: 12/31/2015
   extendedEnd: 12/31/2015
 releases:
 - version: Service Pack 2
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>Linkek \n* [Áttelepítési útmutató](https://www.microsoft.com/security/business/explore/cybersecurity)"

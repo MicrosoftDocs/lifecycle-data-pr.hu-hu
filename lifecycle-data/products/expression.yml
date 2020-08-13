@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Kifejezés
-  description: A kifejezés a rögzített életciklus-szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee3c7cfc6f62fb00775e13137084c8e509ac5d8c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: A kifejezés a rögzített életciklus-házirendet követi.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867368"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893390"
 name: Kifejezés
-summary: "A kifejezés a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.\n\nEz a következő kiadásokra vonatkozik: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> A termék támogatása véget ért. \n"
+summary: "A kifejezés a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.\n\nEz a következő kiadásokra vonatkozik: Blend, design, kódoló, Studio\n\n> [!IMPORTANT]\n> Lejárt a termékek támogatása. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Az Expression Blend kezdő dátuma 2007. \n\n## <a name=\"editions\"></a>Kiadások \n* Keverék\n* Design\n* Kódoló\n* Studio"
+content: "\n\n> [!NOTE]\n> A kifejezéshez tartozó blende kezdési dátuma 2007 július 13. \n\n## <a name=\"editions\"></a>Kiadások \n* Keverék\n* Design\n* Kódoló\n* Studio"
