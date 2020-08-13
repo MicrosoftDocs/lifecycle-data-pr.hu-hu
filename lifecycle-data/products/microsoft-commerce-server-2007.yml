@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Commerce Server 2007
-  description: A Microsoft Commerce Server 2007 a rögzített életciklusra vonatkozó szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 456c3a4b3430312ba8c2a1e949f1c5b7bb820ee9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: A Microsoft Commerce Server 2007 a rögzített életciklus-házirendet követi.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 428d4ea2be6f7edfd13e14a297a4795d02575ed7
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "822306"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893464"
 name: Microsoft Commerce Server 2007
 summary: >
-  A Microsoft Commerce Server 2007 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Microsoft Commerce Server 2007 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Fejlesztő, Nagyvállalati, Standard
+  Ez a következő kiadásokra vonatkozik: fejlesztő, nagyvállalati, standard
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért.
+  > Lejárt a termékek támogatása.
 products:
 - microsoft-servers
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Fejlesztő\n* Vállalati\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag-házirend](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Fejlesztő\n* Nagyvállalati\n* Standard"

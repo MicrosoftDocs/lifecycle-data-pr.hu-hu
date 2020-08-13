@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 9
-  description: Az Internet Explorer 9 a komponenséletciklus-szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Az Internet Explorer 9 a komponens életciklusára vonatkozó házirendet követi.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855867"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893612"
 name: Internet Explorer 9
 summary: >+
-  Az Internet Explorer [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 9 a komponenséletciklus-szabályzatot követi.
+  Az Internet Explorer 9 a [komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) életciklusára vonatkozó házirendet követi.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://www.microsoft.com/itpro/microsoft-edge)\n* [Gyakori kérdések az Internet Explorer életciklus-irányelveiről](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 2016. január 12-től csak a támogatott operációs rendszerekhez elérhető Internet Explorer legújabb verziója kap technikai támogatást és biztonsági frissítéseket."
+content: "\n## <a name=\"links\"></a>Linkek \n* [Áttelepítési útmutató](https://www.microsoft.com/itpro/microsoft-edge)\n* [Az Internet Explorer életciklusára vonatkozó irányelvek – gyakori kérdések](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Január 12-én kezdődően az 2016 csak az Internet Explorer legújabb verzióját támogatja a támogatott operációs rendszerek számára, technikai támogatási és biztonsági frissítéseket fog kapni."
