@@ -1,27 +1,27 @@
 ---
 title: Termékek exportálása
 description: A termékek életciklusával kapcsolatos információk exportálása
-ms.date: 08/13/2020
-ms.openlocfilehash: 392fea55e33da62de142ddf7fe2d70e1aec3e0da
-ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+ms.date: 08/17/2020
+ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
+ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "893316"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "899805"
 ---
-# <a name="export"></a><span data-ttu-id="85b12-103">Exportálás</span><span class="sxs-lookup"><span data-stu-id="85b12-103">Export</span></span>
+# <a name="export"></a><span data-ttu-id="c69d5-103">Exportálás</span><span class="sxs-lookup"><span data-stu-id="c69d5-103">Export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="85b12-104">Ez a lap a fejlesztés alatt áll.</span><span class="sxs-lookup"><span data-stu-id="85b12-104">This page is under development.</span></span>
+> <span data-ttu-id="c69d5-104">Ez a lap a fejlesztés alatt áll.</span><span class="sxs-lookup"><span data-stu-id="c69d5-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="85b12-105">Az összes termék exportálása</span><span class="sxs-lookup"><span data-stu-id="85b12-105">Export All Products</span></span>
-<span data-ttu-id="85b12-106">A szűrők nélkül exportálja az összes terméket.</span><span class="sxs-lookup"><span data-stu-id="85b12-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="c69d5-105">Az összes termék exportálása</span><span class="sxs-lookup"><span data-stu-id="c69d5-105">Export All Products</span></span>
+<span data-ttu-id="c69d5-106">A szűrők nélkül exportálja az összes terméket.</span><span class="sxs-lookup"><span data-stu-id="c69d5-106">Export all products without any filters.</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="85b12-107">Az összes termék exportálása</span><span class="sxs-lookup"><span data-stu-id="85b12-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="c69d5-107">Az összes termék exportálása</span><span class="sxs-lookup"><span data-stu-id="c69d5-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="85b12-108">Termékek exportálása kategória szerint</span><span class="sxs-lookup"><span data-stu-id="85b12-108">Export Products by Category</span></span>
-<span data-ttu-id="85b12-109">Jelölje ki az exportálni kívánt csoportot:</span><span class="sxs-lookup"><span data-stu-id="85b12-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-category"></a><span data-ttu-id="c69d5-108">Termékek exportálása kategória szerint</span><span class="sxs-lookup"><span data-stu-id="c69d5-108">Export Products by Category</span></span>
+<span data-ttu-id="c69d5-109">Jelölje ki az exportálni kívánt csoportot:</span><span class="sxs-lookup"><span data-stu-id="c69d5-109">Select a grouping to export:</span></span>
 
 > [!div class="op_multi_selector" title1="Családi" title2="Csoport"]
 > - [(.NET | Minden](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "893316"
 > - [(Windows | Biztonsági](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="85b12-167">Termékek exportálása a támogatási év végéig</span><span class="sxs-lookup"><span data-stu-id="85b12-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="85b12-168">Az adott évben kiválasztott termékek exportálása:</span><span class="sxs-lookup"><span data-stu-id="85b12-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="c69d5-167">Termékek exportálása a támogatási év végéig</span><span class="sxs-lookup"><span data-stu-id="c69d5-167">Export Products by End of Support Year</span></span>
+<span data-ttu-id="c69d5-168">Az adott évben kiválasztott termékek exportálása:</span><span class="sxs-lookup"><span data-stu-id="c69d5-168">Select a year to export products ending service in that year:</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
