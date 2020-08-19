@@ -1,27 +1,27 @@
 ---
-title: Termékek exportálása
+title: Életciklus-alapú adatexportálás
 description: A termékek életciklusával kapcsolatos információk exportálása
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899805"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902405"
 ---
-# <a name="export"></a>Exportálás
+# <a name="lifecycle-data-export"></a>Életciklus-alapú adatexportálás
 
 > [!IMPORTANT]
 > Ez a lap a fejlesztés alatt áll.
 
 ## <a name="export-all-products"></a>Az összes termék exportálása
-A szűrők nélkül exportálja az összes terméket.
+Az életciklusra vonatkozó összes termék exportálása az alábbi elemekre kattintva:
 
 > [!div class="nextstepaction"]
 > [Az összes termék exportálása](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Termékek exportálása kategória szerint
-Jelölje ki az exportálni kívánt csoportot:
+## <a name="export-products-by-family-and-group"></a>Termékek exportálása család és csoport szerint
+Jelöljön ki egy családot, majd egy exportálni kívánt csoportot. Megjegyzés: az Exportálás akkor kezdődik, ha a csoport érték van kijelölve. 
 
 > [!div class="op_multi_selector" title1="Családi" title2="Csoport"]
 > - [(.NET | Minden](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ Jelölje ki az exportálni kívánt csoportot:
 > - [(Windows | Biztonsági](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Termékek exportálása a támogatási év végéig
-Az adott évben kiválasztott termékek exportálása:
+## <a name="export-products-by-end-of-support-date"></a>Termékek exportálása a támogatási dátum lejárta után
+Jelöljön ki egy évet a támogatás megszűnését elérő termékek megtekintéséhez. Megjegyzés: az Exportálás akkor kezdődik, ha az év érték van kijelölve.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
