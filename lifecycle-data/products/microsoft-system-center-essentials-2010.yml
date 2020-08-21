@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Essentials 2010
-  description: A Microsoft System Center Essentials 2010 a rögzített életciklusra vonatkozó szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c657d727b62f52b45ba09ee02472b1d5e5c133bb
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: A Microsoft System Center Essentials 2010 a rögzített életciklus-házirendet követi.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 469c101b597227f04b8e412e71b888037fc38577
+  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821824"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906252"
 name: Microsoft System Center Essentials 2010
 summary: >+
-  A Microsoft System Center Essentials 2010 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Microsoft System Center Essentials 2010 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
 
+
+  Ez a következő kiadásokra érvényes: az összes alkalmazható, wSQL
 
 products:
 - msc
@@ -25,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/28/2010
   endDate: 10/13/2020
-content: ''
+content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Minden alkalmazható\n* wSQL"
