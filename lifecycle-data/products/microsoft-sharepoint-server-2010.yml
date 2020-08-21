@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SharePoint Server 2010
-  description: A Microsoft SharePoint Server 2010 a Rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Microsoft SharePoint Server 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821676"
 name: Microsoft SharePoint Server 2010
 summary: >+
-  A Microsoft SharePoint Server 2010 a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Microsoft SharePoint Server 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Access Services, All applicable, Excel Services, Performance Point Services
+  A következő kiadásokra vonatkozik: Access Services, Összes alkalmazható, Excel Services, Performance Point Services
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Linkek \n* [Támogatási bővítmény](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Migrációs útmutató](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> A termék támogatási dátuma 2020. október 13-tól 2021.\n\n## <a name=\"editions\"></a>Kiadások \n* Hozzáférési szolgáltatások\n* Minden vonatkozó\n* Excel-szolgáltatások\n* Teljesítménypont-szolgáltatások"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Támogatási bővítmény](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Áttelepítési útmutató](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> A termék végső támogatási dátuma 2020. október 13-áról 2021. április 13-ára tolódott ki.\n\n## <a name=\"editions\"></a>Kiadások \n* Access Services\n* Összes alkalmazható\n* Excel Services\n* Performance Point Services"

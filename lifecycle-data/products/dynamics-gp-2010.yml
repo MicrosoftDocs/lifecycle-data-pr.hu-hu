@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics GP 2010
-  description: A Dynamics GP 2010 a rögzített életciklusra vonatkozó irányelvet követi.
+  description: A Dynamics GP 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82eb406f32eb22016a6f4e97fa3d802c6d1dd896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822409"
 name: Dynamics GP 2010
 summary: >+
-  A Dynamics GP 2010 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+  A Dynamics GP 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 10/09/2012
-content: "\n## <a name=\"links\"></a>Linkek \n* [További információk és áttelepítési útmutató](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Termékinformációk](/dynamics-gp/)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [További információk és áttelepítési útmutató](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Termékinformációk](/dynamics-gp/)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)"

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2008 for Windows Essential Server megoldások
-  description: A Windows Server 2008 for Windows Essential Server Solutions a Rögzített életciklus-szabályzatot követi.
+  title: Windows Server 2008 for Windows Essential Server Solutions
+  description: A Windows Server 2008 for Windows Essential Server Solutions a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: a0f008702c636963333da20217a32768124fe020
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822134"
-name: Windows Server 2008 for Windows Essential Server megoldások
+name: Windows Server 2008 for Windows Essential Server Solutions
 summary: >
-  A Windows Server 2008 for Windows Essential Server Solutions a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A Windows Server 2008 for Windows Essential Server Solutions a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Standard, Hyper-V nélkül
+  A következő kiadásokra vonatkozik: Standard, Hyper-V nélkül
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért. Lásd az áttelepítési útmutatót alább.
+  > A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/18/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://aka.ms/AA1ovn4)\n* [Termékinformációk](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard\n* Hyper-V nélkül"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://aka.ms/AA1ovn4)\n* [Termékinformációk](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard\n* Hyper-V nélkül"

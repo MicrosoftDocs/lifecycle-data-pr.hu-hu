@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft-előrejelző 7.0
-  description: A Microsoft Forecaster 7.0 a Rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Microsoft Forecaster 7.0
+  description: A Microsoft Forecaster 7.0 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822283"
-name: Microsoft-előrejelző 7.0
+name: Microsoft Forecaster 7.0
 summary: >+
-  A Microsoft Forecaster 7.0 a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Microsoft Forecaster 7.0 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Az előrejelző támogatása a megadott dátummal ér véget, kivéve, ha dynamics termék összetevőjeként terjesztik. Dynamics-termékkel történő terjesztés esetén a Dynamics életciklus-dátuma felülírja az előrejelzési dátumot."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Az Forecaster támogatás a megadott napon ér véget, kivéve, ha Dynamics termék komponenseként kínálják. Dynamics termékkel történő forgalmazás esetén a Dynamics életciklus dátuma felülírja a Forecaster dátumát."

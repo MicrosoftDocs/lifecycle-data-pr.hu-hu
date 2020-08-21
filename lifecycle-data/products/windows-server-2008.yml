@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2008
-  description: A Windows Server 2008 a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Windows Server 2008 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822505"
 name: Windows Server 2008
 summary: >
-  A Windows Server 2008 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Windows Server 2008 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Adatközpont, Adatközpont Hyper-V nélkül, Enterprise, Enterprise Hyper-V nélkül, Itanium-alapú rendszerekhez, Alapzat, Standard, Standard Hyper-V nélkül, Web
+  A következő kiadásokra vonatkozik: Datacenter, Datacenter Hyper-V nélkül, Enterprise, Enterprise Hyper-V nélkül, Itanium-alapú rendszerekhez, Foundation, Standard, Standard Hyper-V nélkül, Web
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért. Lásd az áttelepítési útmutatót alább.
+  > A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://aka.ms/AA1ovn4)\n* [Kiszolgálófrissítési információ](/windows-server/upgrade/upgrade-overview)\n* [Kiterjesztett biztonsági frissítési program (ESU)](/lifecycle/faq/extended-security-updates)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A kiterjesztett biztonsági frissítések (ESU) a termékkiadások Datacenter, Standard, Enterprise és Embedded kiadásainak meghatározott mennyiségi licencelési programjain keresztül érhetők el, a támogatás megszűnése után további három évig. További információért forduljon Microsoft-partneréhez vagy partnercsapatához. \n\nKiadás-------------------------------Kezdés dátuma----Befejezési dátuma\n\nKiterjesztett biztonsági frissítés év 3---01/11/2022---01/10/2023\n\nKiterjesztett biztonsági frissítés év 2---01/12/2021---01/11/2022\n\nBővített biztonsági frissítés éve---01/14/2020---01/12/2021\n> [!NOTE]\n> A Windows Server 2008 Foundation 2009.\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter\n* Adatközpont Hyper-V nélkül\n* Vállalati\n* Vállalat Hyper-V nélkül\n* Itanium-alapú rendszerekhez\n* Alapítvány\n* Standard\n* Standard Hyper-V nélkül\n* Web"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://aka.ms/AA1ovn4)\n* [Kiszolgáló Frissítési információ](/windows-server/upgrade/upgrade-overview)\n* [A Kiterjesztett biztonsági frissítési program (ESU)](/lifecycle/faq/extended-security-updates)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A termék Datacenter, Standard, Enterprise és Embedded kiadásához a támogatás végétől további három évig kiterjesztett biztonsági frissítések (ESU) érhetők el speciális mennyiségi licencprogramokkal. További tudnivalókért vegye fel a kapcsolatot Microsoft partnerével vagy fiók csoportjával. \n\nKiadás-------------------------------Kezdés dátuma----Befejezési dátuma\n\nKiterjesztett biztonsági frissítés 3. év---2022/01/11---2023/01/10\n\nKiterjesztett biztonsági frissítés 2. év---2021/01/12---2022/01/11\n\nBővített biztonsági frissítés 1. év---2020/01/14---2021/01/12\n> [!NOTE]\n> A Windows Server 2008 Foundation 2009. május 21-én került kiadásra\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter\n* Datacenter Hyper-V nélkül\n* Enterprise\n* Enterprise Hyper-V nélkül\n* Itanium-alapú rendszerekhez\n* Foundation\n* Standard\n* Standard Hyper-V nélkül\n* Web"

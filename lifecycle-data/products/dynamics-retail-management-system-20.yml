@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics kiskereskedelmi felügyeleti rendszer 2.0
-  description: A Dynamics Retail Management System 2.0 a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Dynamics Retail Management System 2.0
+  description: A Dynamics Retail Management System 2.0 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: e587a27011a62b298f9003be9805c2e01b146057
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821971"
-name: Dynamics kiskereskedelmi felügyeleti rendszer 2.0
-summary: >+
-  A Dynamics Retail Management System 2.0 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
-
-
-  Ez a következő kiadásokra vonatkozik: Központ, Áruházi műveletek
-
+name: Dynamics Retail Management System 2.0
+summary: "A Dynamics Retail Management System 2.0 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi. \n\nA következő kiadásokra vonatkozik: Központ, Áruházi műveletek\n\n"
 products:
 - dynamics
 policyType: fixed
@@ -39,4 +34,4 @@ releases:
 - version: Service Pack 1
   startDate: 07/31/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Központja\n* Áruházi műveletek"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Központ\n* Áruházi műveletek"

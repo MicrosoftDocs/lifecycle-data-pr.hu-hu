@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics AX 2009
-  description: A Dynamics AX 2009 a rögzített életciklusra vonatkozó irányelvet követi.
+  description: A Dynamics AX 2009 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 20756fcbadc2386830d4eecb9129443bef1a2bc2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821726"
 name: Dynamics AX 2009
-summary: >+
-  A Dynamics AX 2009 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
-
-
+summary: "A Dynamics AX 2009 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi. \n\n\n"
 products:
 - dynamics
 policyType: fixed
@@ -28,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 08/14/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Dynamics 365 áttelepítési program](https://dynamics.microsoft.com/migration-program/)\n* [További életciklus-információk](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Az általános támogatás az ábrán látható módon bővült."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Dynamics 365 Áttelepítési Program](https://dynamics.microsoft.com/migration-program/)\n* [További Életciklus-információk](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Alapvető technikai támogatásunkat az itt látható módon kiterjesztettük."

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008
-  description: A Windows Storage Server 2008 a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Windows Storage Server 2008 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821617"
 name: Windows Storage Server 2008
 summary: >
-  A Windows Storage Server 2008 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Windows Storage Server 2008 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Alapszintű, 32 bites, Alapszintű 64 bites, Alapszintű beágyazott, Alapszintű beágyazott 32 bites, Vállalati, Vállalati beágyazott, Szabványos, Szabványos beágyazott, Munkacsoport
+  A következő kiadásokra vonatkozik: Basic, Basic 32-Bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
 
-  > Ez a termék elérte a támogatás végét. Lásd alább a migrációs útmutatást.
+  > A termék támogatása megszűnt. Lásd alább az áttelepítési útmutatót.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Kiszolgálófrissítési információ](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Alapvető\n* Alapszintű 32 bites\n* Alapszintű 64 bites\n* Egyszerű beágyazott\n* 32 bites beépített beépített\n* Vállalati\n* Vállalati beágyazott\n* Standard\n* Szabványos beágyazott\n* Munkacsoport"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Kiszolgáló Frissítési információ](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Basic\n* Basic 32-Bit\n* Basic 64-bit\n* Basic Embedded\n* Basic Embedded 32-bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Munkacsoport"
