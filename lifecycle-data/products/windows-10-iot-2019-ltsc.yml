@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT 2019 LTSC
-  description: A Windows 10 IoT 2019 LTSC a rögzített életciklus-szabályzatot követi.
+  description: A Windows 10 IoT 2019 LTSC a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870012"
 name: Windows 10 IoT 2019 LTSC
 summary: >+
-  A Windows 10 IoT 2019 LTSC a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A Windows 10 IoT 2019 LTSC a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Core, Enterprise
+  A következő kiadásokra vonatkozik: Core, Vállalati
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Linkek \n* [Windows 10 IoT alapvető szolgáltatások](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [2018. november 13-án újra kiadták a Windows 10 októberi frissítését (1809-es verzió). A támogatási dátumokat ennek megfelelően módosították.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows mint szolgáltatás (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC – gyakori kérdések](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Windows 10 hosszú távú karbantartási csatorna\n\n## <a name=\"editions\"></a>Kiadások \n* Core\n* Vállalati"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Windows 10 IoT Core szolgáltatások](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [A Windows 10 októberi frissítését (1809-es verzió) 2018. november 13-án újra kibocsátották. A támogatási dátumok ennek megfelelően módosultak.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [A Windows, mint szolgáltatás (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC GYIK](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Windows 10 hosszú távú karbantartási csatorna\n\n## <a name=\"editions\"></a>Kiadások \n* Core\n* Enterprise"

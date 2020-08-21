@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 Business Central helyszíni (modern irányelv)
-  description: A Dynamics 365 Business Central helyszíni (modern irányelv) a modern életciklusra vonatkozó szabályzatot követi.
+  title: Dynamics 365 Business Central, helyszíni (Modern Irányelv)
+  description: A Dynamics 365 Business Central, helyszíni (Modern Irányelv) a Modern Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869978"
-name: Dynamics 365 Business Central helyszíni (modern irányelv)
+name: Dynamics 365 Business Central, helyszíni (Modern Irányelv)
 summary: >+
-  A Dynamics 365 Business Central helyszíni (modern irányelv) a [modern](/lifecycle/policies/modern) életciklusra vonatkozó szabályzatot követi.
+  A Dynamics 365 Business Central, helyszíni (Modern Irányelv) a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: 2019 release wave 2, version 15.x
   startDate: 10/01/2019
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Linkek \n* [Karbantartási információk](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [A Microsoft Dynamics 365 ütemterve](https://aka.ms/businessappsreleasenotes)\n* [Rendszerkövetelmények](/dynamics365/business-central/product-requirements)\n* [GYIK](/dynamics365/business-central/dev-itpro/faq)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Karbantartási információ](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [A Microsoft Dynamics 365 ütemterve](https://aka.ms/businessappsreleasenotes)\n* [Rendszer követelmények](/dynamics365/business-central/product-requirements)\n* [GYIK](/dynamics365/business-central/dev-itpro/faq)"
