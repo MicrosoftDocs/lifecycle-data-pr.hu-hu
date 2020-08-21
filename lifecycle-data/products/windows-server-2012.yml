@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012
-  description: A Windows Server 2012 a rögzített életciklus-szabályzatot követi.
+  description: A Windows Server 2012 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856174"
 name: Windows Server 2012
 summary: >+
-  A Windows Server 2012 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A Windows Server 2012 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
+  A következő kiadásokra vonatkozik: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/windows-server/upgrade/upgrade-overview)\n* [Termékinformációk](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> A termék általános és kiterjesztett támogatása bővült, hogy az ügyfelek számára a szokásos életciklus-átmenet ütemtervét biztosítsa. 2013. január 2-án jelent meg a Windows Server Essentials.\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter\n* Legfontosabb kifejezések\n* beágyazott rendszerekhez\n* Alapítvány\n* Standard"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/windows-server/upgrade/upgrade-overview)\n* [Termékinformációk](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> A termék általános és kiterjesztett támogatása bővült, hogy az ügyfelek számára a standard életciklus átmenet ütemtervét biztosítsa. 2013. január 2-án jelent meg a Windows Server Essentials.\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter\n* Alapverzió\n* Beágyazott rendszerekhez\n* Foundation\n* Standard"

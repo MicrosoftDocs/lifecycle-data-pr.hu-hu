@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: A Microsoft Office for Mac 2011
-  description: A Microsoft Office for Mac 2011 a Rögzített életciklusra vonatkozó szabályzatot követi.
+  title: A Microsoft Office Mac 2011-re
+  description: A Mac Microsoft Office 2011 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855815"
-name: A Microsoft Office for Mac 2011
+name: A Microsoft Office Mac 2011-re
 summary: >+
-  A Microsoft Office for Mac 2011 a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Mac Microsoft Office 2011 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Akadémiai, Otthoni és Üzleti, Otthoni és Üzleti Otthoni használat Program, Otthoni és Diák, Standard
+  A következő kiadásokra vonatkozik: Iskolai, Otthoni és kisvállalati verzió, Otthoni és kisvállalati verzió Otthoni használat program, Otthoni és diákverzió, Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A Microsoft Office for Mac 2011 általános támogatása az látható módon bővül, hogy minden ügyfél számára biztosítsa a szokásos életciklus-átmenet ütemtervét.\n\n## <a name=\"editions\"></a>Kiadások \n* Tudományos\n* Otthon és üzlet\n* Otthoni és üzleti otthoni használatra program\n* Otthon és diák\n* Standard"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A Mac Microsoft Office 2011 általános támogatása az ábrán látható módon bővül, hogy minden ügyfél számára biztosítsa a standard életciklus átmenet ütemtervét.\n\n## <a name=\"editions\"></a>Kiadások \n* Iskolai\n* Home and Business\n* Otthoni és kisvállalati verzió Otthoni használat program\n* Otthoni és diák\n* Standard"

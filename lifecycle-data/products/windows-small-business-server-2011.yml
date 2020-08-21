@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Kisvállalati kiszolgáló 2011
-  description: A Windows Small Business Server 2011 a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Windows Small Business Server 2011
+  description: A Windows Small Business Server 2011 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855913"
-name: Windows Kisvállalati kiszolgáló 2011
+name: Windows Small Business Server 2011
 summary: >
-  A Windows Small Business Server 2011 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Windows Small Business Server 2011 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Essentials, Premium Add-On, Standard
+  A következő kiadásokra vonatkozik: Essentials, Premium Add-On, Standard
 
 
   > [!IMPORTANT]
 
-  > A termékcsomag támogatási dátumát az egyes alkatrésztermék életciklusa határozza meg. Kérjük, tekintse át az egyes összetevő termékek életciklusát, hogy meghatározza a támogatás hosszát.
+  > A termékcsomag támogatási dátumát az egyes összetevő termékének életciklusa határozza meg. Kérjük, tekintse át az egyes összetevő termékek életciklusát, hogy meghatározza a támogatás hosszát.
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/09/2011
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://aka.ms/AA1ovn4)\n* [A Windows Small Business Server 2011 standard áttelepítése a Windows Server Essentials rendszerre](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Legfontosabb kifejezések\n* Prémium bővítmény\n* Standard"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://aka.ms/AA1ovn4)\n* [A Windows Small Business Server 2011 Standard áttelepítése a Windows Server Essentials rendszerre](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Alapverzió\n* Premium Add-On (Prémium bővítmény)\n* Standard"

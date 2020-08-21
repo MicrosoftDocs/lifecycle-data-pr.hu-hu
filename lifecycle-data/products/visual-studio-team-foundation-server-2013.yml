@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2013
-  description: A Visual Studio Team Foundation Server 2013 a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Visual Studio Team Foundation Server 2013 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856096"
 name: Visual Studio Team Foundation Server 2013
 summary: >+
-  A Visual Studio Team Foundation Server 2013 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Visual Studio Team Foundation Server 2013 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: All, Release Management
+  A következő kiadásokra vonatkozik: Összes, Kiadáskezelés
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Linkek \n* [Termékinformáció](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Karbantartási információk](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A TFS 2013 release management kiszolgálója esetén a 4.\n\n## <a name=\"editions\"></a>Kiadások \n* Minden\n* Kiadáskezelése"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termék információ](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Karbantartási információk](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Service Pack Szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A TFS 2013 Release Management Servernél, a 4. Frissítés a szabályozási útmutató szerint 2024/09/04-ig lesz támogatott. \n\n## <a name=\"editions\"></a>Kiadások \n* Minden\n* Kiadáskezelés"

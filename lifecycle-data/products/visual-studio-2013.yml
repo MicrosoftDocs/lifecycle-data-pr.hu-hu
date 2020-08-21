@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2013
-  description: A Visual Studio 2013 a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Visual Studio 2013 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856187"
 name: Visual Studio 2013
 summary: >+
-  A Visual Studio 2013 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Visual Studio 2013 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Ügynökök, Minden, Közösség, Express for Web, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Team Explorer, Test Professional, Ultimate, Visual C++ Terjeszthető, Web Tools Extensions
+  A következő kiadásokra vonatkozik: Agents, összes, Community, Express for Web, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modellező SDK, Multibyte MFC Library, Premium, Professional, Kiadáskezelés, Távirányító eszközök, SDK, Rendszerhéj (Integrált), Rendszerhéj (Izolált), Team Explorer, Test Professional, Ultimate, Visual C++ Újra terjeszthető csomag, Webeszközök bővítményei
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Linkek \n* [Karbantartási információk](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Minden\n* Közösség\n* Expressz webes használatra\n* Expressz a Windows rendszerhez\n* Expressz a Windows Asztali verzióhoz\n* IntelliTrace gyűjtő\n* Modellezés SDK\n* Többbájtos MFC-könyvtár\n* Prémium\n* Szakmai\n* Kiadáskezelése\n* Távoli eszközök\n* Sdk\n* Shell (integrált)\n* Héj (izolált)\n* Csapatfelfedező\n* Teszt Szakmai\n* Végső\n* Visual C++ terjeszthető\n* Webes eszközök bővítményei"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Karbantartási információk](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Minden\n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Modellező SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Kiadáskezelés\n* Távirányító eszközök\n* SDK\n* Rendszerhéj (Integrált)\n* Rendszerhéj (Izolált)\n* Team Explorer\n* Test Professional\n* Ultimate\n* A Visual C++ Terjeszthető\n* Webeszközök bővítményei"
