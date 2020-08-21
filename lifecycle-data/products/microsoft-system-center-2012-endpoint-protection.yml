@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 végpontvédelem
-  description: A Microsoft System Center 2012 Endpoint Protection a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Microsoft System Center 2012 Endpoint Protection
+  description: A Microsoft System Center 2012 Endpoint Protection a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855929"
-name: Microsoft System Center 2012 végpontvédelem
+name: Microsoft System Center 2012 Endpoint Protection
 summary: >+
-  A Microsoft System Center 2012 Endpoint Protection a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Microsoft System Center 2012 Endpoint Protection a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Mac esetén
+  Ez a következő kiadásokra vonatkozik: Mac-re
 
 products:
 - msc
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Linkek \n* [Karbantartási információk](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Migrációs útmutató](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n* [System Center dokumentáció](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Az ügyfeleknek naprakésznek kell maradniuk a kártevőirtó platform legújabb frissítésével, hogy teljes mértékben támogathatók legyenek.\n\n## <a name=\"editions\"></a>Kiadások \n* Mac-hez"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Karbantartási információk](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Áttelepítési útmutató](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n* [System Center Dokumentáció](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Az ügyfeleknek naprakésznek kell lenniük a vírusírtó platform legújabb frissítésével, hogy teljes mértékben támogathatók legyenek.\n\n## <a name=\"editions\"></a>Kiadások \n* Mac-re"

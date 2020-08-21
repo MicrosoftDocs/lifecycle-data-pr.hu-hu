@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 alkalmazásvezérlő
-  description: A Microsoft System Center 2012 alkalmazásvezérlő a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Microsoft System Center 2012 App Controller
+  description: A Microsoft System Center 2012 App Controller a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855932"
-name: Microsoft System Center 2012 alkalmazásvezérlő
+name: Microsoft System Center 2012 App Controller
 summary: >+
-  A Microsoft System Center 2012 alkalmazásvezérlő a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Microsoft System Center 2012 App Controller a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Linkek \n* [A rendszerközpont adatai](/system-center/#pivot=components&panel=components-all)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A Microsoft System Center 2012 összetevőkből áll: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [System Center információ](/system-center/#pivot=components&panel=components-all)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A Microsoft System Center 2012 a következő összetevőkből áll: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation"

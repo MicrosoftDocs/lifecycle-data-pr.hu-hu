@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008 R2
-  description: A Windows Storage Server 2008 R2 a Rögzített életciklus-szabályzatot követi.
+  description: A Windows Storage Server 2008 R2 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856082"
 name: Windows Storage Server 2008 R2
 summary: >
-  A Windows Storage Server 2008 R2 a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A Windows Storage Server 2008 R2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Essentials, Standard
+  A következő kiadásokra vonatkozik: Alapverzió, Standard
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért. Lásd az áttelepítési útmutatót alább.
+  > A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Linkek \n* [A támogatási információk megszűnése](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Migrációs útmutató](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Bővített biztonsági frissítés – gyakori kérdések](/lifecycle/faq/extended-security-updates)\n* [Kiszolgálófrissítési információ](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Essentials kiadás megjelent június 28-án, 2011.\n\n## <a name=\"editions\"></a>Kiadások \n* Legfontosabb kifejezések\n* Standard"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Információ a támogatás megszűnéséről](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Áttelepítési útmutató](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [A kiterjesztett biztonsági frissítéssel kapcsolatos GYIK](/lifecycle/faq/extended-security-updates)\n* [Kiszolgáló Frissítési információ](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Az Essentials kiadás 2011. június 28-án jelent meg.\n\n## <a name=\"editions\"></a>Kiadások \n* Alapverzió\n* Standard"

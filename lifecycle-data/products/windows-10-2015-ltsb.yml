@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 2015 LTSB
-  description: A Windows 10 2015 LTSB a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Windows 10 2015 LTSB a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 191d7db0755e317ae2faadd116b46046b90cd071
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856123"
 name: Windows 10 2015 LTSB
 summary: >+
-  A Windows 10 2015 LTSB a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Windows 10 2015 LTSB a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Enterprise
+  A következő kiadásokra vonatkozik: Enterprise
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Linkek \n* [Windows mint szolgáltatás (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC – gyakori kérdések](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [A Windows 10 októberi frissítése (1809-es verzió) újrakiadása](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Vállalati"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Windows, mint szolgáltatás (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC GYIK](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10 októberi frissítés (1809-es verzió) újbóli kiadás](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise"

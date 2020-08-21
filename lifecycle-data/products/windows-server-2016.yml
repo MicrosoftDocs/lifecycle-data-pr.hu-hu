@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2016
-  description: A Windows Server 2016 a rögzített életciklus-szabályzatot követi.
+  description: A Windows Server 2016 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 26492abfdd2f901d069e6209da505c6296004961
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856167"
 name: Windows Server 2016
 summary: >+
-  A Windows Server 2016 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A Windows Server 2016 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Datacenter, Essentials, MultiPoint Premium, Standard
+  A következő kiadásokra vonatkozik: Datacenter, Essentials, MultiPoint Premium, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Linkek \n* [Termékinformációk](/windows-server/get-started/server-basics)\n* [Életciklus – gyakori kérdések – Windows-termékek](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter\n* Legfontosabb kifejezések\n* MultiPoint Prémium verzió\n* Standard"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termékinformációk](/windows-server/get-started/server-basics)\n* [Életciklus GYIK – Windows termékek](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter\n* Alapverzió\n* MultiPoint Prémium verzió\n* Standard"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2012
-  description: A Microsoft SQL Server 2012 a Rögzített életciklus-szabályzatot követi.
+  description: A Microsoft SQL Server 2012 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855811"
 name: Microsoft SQL Server 2012
 summary: >+
-  A Microsoft SQL Server 2012 a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A Microsoft SQL Server 2012 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Üzleti intelligencia, Fejlesztő, Enterprise, Enterprise Core, Express, Beágyazott rendszerekhez, Standard, Web
+  A következő kiadásokra vonatkozik: Üzleti intelligencia, Developer, Enterprise, Enterprise Core, Express, Beágyazott rendszerekhez, Standard, Web
 
 products:
 - sql-server
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Üzleti intelligencia\n* Fejlesztő\n* Vállalati\n* Vállalati alap\n* Express\n* beágyazott rendszerekhez\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Üzleti intelligencia\n* Developer\n* Enterprise\n* Enterprise Core\n* Expressz\n* Beágyazott rendszerekhez\n* Standard\n* Web"

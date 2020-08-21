@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT Core
-  description: A Windows 10 IoT Core a modern életciklus-szabályzatot követi.
+  description: A Windows 10 IoT Core a Modern Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856008"
 name: Windows 10 IoT Core
 summary: >
-  A Windows 10 IoT Core a [modern](/lifecycle/policies/modern) életciklus-szabályzatot követi.
+  A Windows 10 IoT Core a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
 
@@ -40,4 +40,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Linkek \n* [Termékinformáció](/windows/iot-core/windows-iot-core)\n* [A Windows életciklusának adatlapja](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows mint szolgáltatás (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Életciklus – gyakori kérdések – Windows-termékek](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Hacsak nem halasztják el, a Windows 10 féléves csatorna további funkciófrissítései az általános támogatási dátum megadott vége előtt telepíthetők."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termék információ](/windows/iot-core/windows-iot-core)\n* [A Windows életciklusának adatlapja](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [A Windows, mint szolgáltatás (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Életciklus GYIK – Windows termékek](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Hacsak nem történik halasztás, a Windows 10 féléves csatorna funkciójának ezt követő frissítései az Alapvető technikai támogatás közzétett záró dátuma előtt telepíthetők."

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2014
-  description: Az SQL Server 2014 a rögzített életciklus-szabályzatot követi.
+  description: Az SQL Server 2014 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: e0e209968b254d731dcf393a09d7353899d837ef
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856139"
 name: SQL Server 2014
 summary: >+
-  Az SQL Server 2014 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  Az SQL Server 2014 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Üzleti intelligencia, Fejlesztő, Enterprise, Enterprise Core, Express, Standard, Web
+  A következő kiadásokra vonatkozik: Üzleti intelligencia, Developer, Enterprise, Enterprise Core, Express, Standard, Web
 
 products:
 - sql-server
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Üzleti intelligencia\n* Fejlesztő\n* Vállalati\n* Vállalati alap\n* Express\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Üzleti intelligencia\n* Developer\n* Enterprise\n* Enterprise Core\n* Expressz\n* Standard\n* Web"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Phone 8.1
-  description: A Windows Phone 8.1 a rögzített életciklusra vonatkozó irányelveket követi.
+  description: A Windows Phone 8.1 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856006"
 name: Windows Phone 8.1
 summary: >
-  A Windows Phone 8.1 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelveket követi.
+  A Windows Phone 8.1 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért.
+  > A termék támogatása lejárt.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2014
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Linkek \n* [Gyakori kérdések a Windows Phone 8.1-ről](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> A Microsoft az életciklus kezdő dátumát követően legalább 36 hónapig elérhetővé teszi az operációs rendszer frissítéseit, beleértve a biztonsági frissítéseket is. Ezek a frissítések növekményesek lesznek, és minden frissítés az azt megelőző frissítésre épül. Az ügyfeleknek minden frissítést telepíteniük kell ahhoz, hogy továbbra is támogatottak maradjanak. A növekményes frissítések terjesztését a mobilszolgáltató vagy a telefon gyártója szabályozhatja, amelytől a telefont vásárolta, és a telepítéshez a telefonnak előzetes frissítéseket kell igényelnie. A frissítések elérhetősége országonként, régiónként és hardverenként is eltérő lehet."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Windows Phone 8.1 GYIK](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> A Microsoft az életciklus kezdő dátumát követő minimum 36 hónapig elérhetővé teszi az operációs rendszer frissítéseit, beleértve a biztonsági frissítéseket is. Ezek a frissítések növekményesek lesznek, és minden frissítés az azt megelőző frissítésre épül. Az ügyfeleknek telepíteniük kell miden egyes frissítést, hogy továbbra is támogatottak maradjanak. A növekményes frissítések terjesztését a mobilszolgáltató vagy a telefon gyártója szabályozhatja, akitől a telefont vásárolta, és a telepítéshez az szükséges, hogy a telefon valamilyen előzetes frissítéssel rendelkezzen. A frissítések elérhetősége országonként, régiónként és hardverképességenként is eltérő lesz."

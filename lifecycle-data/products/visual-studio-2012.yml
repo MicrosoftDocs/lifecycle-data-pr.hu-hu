@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Stúdió 2012
-  description: A Visual Studio 2012 a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Visual Studio 2012
+  description: A Visual Studio 2012 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855917"
-name: Visual Stúdió 2012
+name: Visual Studio 2012
 summary: >+
-  A Visual Studio 2012 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Visual Studio 2012 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Ügynökök, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ terjeszthető, Web Tools Extensions
+  A következő kiadásokra vonatkozik: Ügynökök, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Eszközök, Premium, Professional, Távirányító eszközök, Rendszerhéj (Integrált), Rendszerhéj (Izolált), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Terjeszthető, Webeszközök Bővítményei
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Linkek \n* [Visual Studio termékéletciklusa és karbantartása](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Közösség 2013\n* Expressz webes használatra\n* Expressz a Windows 8 rendszerhez\n* Expressz a Windows Asztali verzióhoz\n* IntelliTrace gyűjtő\n* Microsoft Azure-eszközök\n* Prémium\n* Szakmai\n* Távoli eszközök\n* Shell (integrált)\n* Héj (izolált)\n* SQL Server adateszközök\n* Csapatfelfedező\n* Teszt Szakmai 2013\n* Végső\n* Visual C++ terjeszthető\n* Webes eszközök bővítményei"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Visual Studio termék életciklus és karbantartás](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Community 2013\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure eszközök\n* Premium\n* Professional\n* Távirányító eszközök\n* Rendszerhéj (Integrált)\n* Rendszerhéj (Izolált)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* A Visual C++ Terjeszthető\n* Webeszközök bővítményei"

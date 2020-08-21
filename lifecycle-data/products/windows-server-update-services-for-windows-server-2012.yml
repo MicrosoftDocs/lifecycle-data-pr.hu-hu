@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server Update Services for Windows Server 2012
-  description: A Windows Server 2012 Windows Server Update Services szolgáltatása a komponenséletciklus-szabályzatot követi.
+  title: Windows Server Frissítési Szolgáltatások Windows Server 2012-re
+  description: A Windows Server 2012 Windows Server Update Services szolgáltatása a Komponens Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4c901f9ed6f882c8009f8c6ea1df3cf55ac81d7c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856083"
-name: Windows Server Update Services for Windows Server 2012
+name: Windows Server Frissítési Szolgáltatások Windows Server 2012-re
 summary: >+
-  A Windows Server 2012 Windows Server [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Update Services szolgáltatása a komponenséletciklus-szabályzatot követi.
+  A Windows Server 2012 Windows Server Update Services szolgáltatása a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 content: >-
   > [!TIP]
 
-  > Ez az összetevő a szülőtermék, a Windows Server 2012 életciklusát követi.
+  > Ez az összetevő követi származtató terméke, a Windows Server 2012 életciklusát.
