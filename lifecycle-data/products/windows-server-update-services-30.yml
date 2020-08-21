@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server Update Services 3.0
-  description: A Windows Server Update Services 3.0 a Rögzített életciklus-szabályzatot követi.
+  title: Windows Server Update Services  3.0
+  description: A Windows Server Update Services 3.0 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822503"
-name: Windows Server Update Services 3.0
+name: Windows Server Update Services  3.0
 summary: >
-  A Windows Server Update Services 3.0 a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A Windows Server Update Services 3.0 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > A támogatás véget ért. Lásd az áttelepítési útmutatót alább.
+  > A támogatás véget ért. Lásd lejjebb az áttelepítési útmutatót.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A támogatást 2017.07.7-ről 2020.14.1-re bővítették."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A támogatást 2017/7/11-től 2020/1/14-ig meghosszabbították."

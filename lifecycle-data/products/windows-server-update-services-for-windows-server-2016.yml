@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server Update Services for Windows Server 2016
-  description: A Windows Server 2016 Windows Server Update Services szolgáltatása a komponenséletciklus-szabályzatot követi.
+  title: Windows Server Update Services Windows Server 2016-ra
+  description: A Windows Server Update Services Windows Server 2016-ra a Komponens Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 939c37245a4ed7263f746a3baac45b3105d89eda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821785"
-name: Windows Server Update Services for Windows Server 2016
+name: Windows Server Update Services Windows Server 2016-ra
 summary: >+
-  A Windows Server 2016 Windows Server [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Update Services szolgáltatása a komponenséletciklus-szabályzatot követi.
+  A Windows Server Update Services Windows Server 2016-ra a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "> [!TIP]\n> Ez az összetevő a szülőtermék, a Windows Server 2016 életciklusát követi.\n\n## <a name=\"links\"></a>Linkek \n* [Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)"
+content: "> [!TIP]\n> Ez az összetevő követi szülőterméke, a Windows Server 2016 életciklusát.\n\n## <a name=\"links\"></a>Hivatkozások \n* [Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)"

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk Server 2009
-  description: A BizTalk Server 2009 a rögzített életciklusra vonatkozó irányelvet követi.
+  description: A BizTalk Server 2009 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822551"
 name: BizTalk Server 2009
 summary: >
-  A BizTalk Server 2009 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+  A BizTalk Server 2009 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Fiók, Fejlesztő, Nagyvállalati, Standard
+  A következő kiadásokra vonatkozik: Branch, Developer, Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért. Lásd az áttelepítési útmutatót alább.
+  > A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót.
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Verzióadatok](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ág\n* Fejlesztő\n* Vállalati\n* Standard"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Verzió információ](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Branch\n* Developer\n* Enterprise\n* Standard"

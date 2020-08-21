@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2008 for Mac
-  description: A Microsoft Office 2008 for Mac a Rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Mac Microsoft Office 2008
+  description: A Mac Microsoft Office 2008 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821938"
-name: Microsoft Office 2008 for Mac
-summary: "A Microsoft Office 2008 for Mac a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.\n\nEz a következő kiadásokra vonatkozik: Business, Home and Student, Special Media Editon\n\n> [!IMPORTANT]\n> A termék támogatása véget ért. \n"
+name: Mac Microsoft Office 2008
+summary: "A Mac Microsoft Office 2008 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi. \n\nA következő kiadásokra vonatkozik: Üzleti, Otthoni és Diák, Speciális Média Kiadás\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2008
   endDate: 10/19/2009
-content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A Mac Office 2008 különleges médiakiadásának kezdő dátuma 2008.\n\n## <a name=\"editions\"></a>Kiadások \n* Vállalat\n* Otthon és diák\n* Speciális média szerkesztés"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A Mac Office 2008 Speciális Média Kiadásának kezdő dátuma 2008. március 12. \n\n## <a name=\"editions\"></a>Kiadások \n* Vállalati\n* Otthoni és diák\n* Speciális média kiadás"

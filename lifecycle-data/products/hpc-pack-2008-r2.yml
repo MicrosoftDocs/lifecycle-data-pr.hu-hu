@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: HPC Csomag 2008 R2
-  description: A HPC Pack 2008 R2 a rögzített életciklusra vonatkozó irányelvet követi.
+  title: HPC Pack 2008 R2
+  description: A HPC Pack 2008 R2 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 85ea9272f46481e504a5c283c962a8ef7f5ace53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822383"
-name: HPC Csomag 2008 R2
+name: HPC Pack 2008 R2
 summary: >
-  A HPC Pack 2008 R2 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+  A HPC Pack 2008 R2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért. Lásd az áttelepítési útmutatót alább.
+  > A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót.
 products:
 - windows
 policyType: fixed
@@ -41,4 +41,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2010
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Linkek \n* [Windows Server áttelepítése](https://azure.microsoft.com/migration/windows-server/)\n* [Migrációs útmutató](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Windows Server áttelepítés](https://azure.microsoft.com/migration/windows-server/)\n* [Áttelepítési útmutató](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)"

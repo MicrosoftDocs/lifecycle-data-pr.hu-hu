@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 7
-  description: A Windows 7 követi a rögzített életciklus-szabályzatot.
+  description: A Windows 7 követi a Rögzített Életciklus Szabályzatot.
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821639"
 name: Windows 7
-summary: "A Windows 7 követi a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot.\n\nEz a következő kiadásokra vonatkozik: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> A termék támogatása véget ért. Lásd az áttelepítési útmutatót alább. \n"
+summary: "A Windows 7 követi a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot.\n\nA következő kiadásokra vonatkozik: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót. \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> '* A kiterjesztett biztonsági frissítések (ESU) a termék Windows 7 Professional, Enterprise és Professional for Embedded Systems kiadásainak meghatározott mennyiségi licencelési programjain keresztül érhetők el, a támogatás megszűnése után további három évig. További információért forduljon Microsoft-partneréhez vagy partnercsapatához. \n\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://support.microsoft.com/help/4057281)\n* [Frissítés Windows 7-ről Windows 10-re](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Kiterjesztett biztonsági frissítési program (ESU)](/lifecycle/faq/extended-security-updates)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Vállalati\n* Nagyvállalati N\n* Főoldal Alap\n* Főoldal Prémium\n* Főoldal Prémium N\n* Szakmai\n* Professzionális beágyazott rendszerekhez\n* Szakmai N\n* Starter\n* Kezdő N\n* Végső\n* Ultimate beágyazott rendszerekhez\n* Végső N"
+content: "> [!TIP]\n> '* A Windows 7 Professional, Enterprise és Professional for Embedded Systems kiadásához a támogatás végétől további három évig kiterjesztett biztonsági frissítések (Extended Security Update, ESU) érhetők el speciális mennyiségi licencprogramokkal. További tudnivalókért vegye fel a kapcsolatot Microsoft partnerével vagy fiók csoportjával. \n\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://support.microsoft.com/help/4057281)\n* [Frissítés Windows 7 rendszerről Windows 10 rendszerre](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [A Kiterjesztett biztonsági frissítési program (ESU)](/lifecycle/faq/extended-security-updates)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional Beágyazott Rendszerekhez\n* Professional N\n* Indító\n* Indító N\n* Ultimate\n* Ultimate Beágyazott Rendszerekhez\n* Ultimate N"

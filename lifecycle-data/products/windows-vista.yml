@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Vista
-  description: A Windows Vista a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Windows Vista a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821782"
 name: Windows Vista
 summary: >
-  A Windows Vista a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Windows Vista a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64 bites, Home Basic N, Home Basic N 64 bites, Home Premium, Home Premium 64 bites, Starter, Ultimate, Ultimate 64 bites
+  A következő kiadásokra vonatkozik: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért, az áttelepítési információkért lásd alább.
+  > A termék támogatása véget ért, lásd lejjebb az áttelepítési információkat.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [A Windows frissítésével és áttelepítésével kapcsolatos szempontok](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Vállalat\n* Üzleti N\n* Vállalati\n* Nagyvállalati X64\n* Főoldal Alap\n* Kezdőlap Alap 64 bites\n* Főoldal Basic N\n* Kezdőlap Alap N 64 bites\n* Főoldal Prémium\n* Home Premium 64 bites\n* Starter\n* Végső\n* Ultimate 64 bites"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [A Windows frissítésével és áttelepítésével kapcsolatos tudnivalók](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Vállalati\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium 64-bit\n* Indító\n* Ultimate\n* Ultimate 64-bit"

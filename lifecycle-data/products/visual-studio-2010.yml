@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Stúdió 2010
-  description: A Visual Studio 2010 a rögzített életciklusra vonatkozó irányelvet követi.
+  title: Visual Studio 2010
+  description: A Visual Studio 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821798"
-name: Visual Stúdió 2010
+name: Visual Studio 2010
 summary: >+
-  A Visual Studio 2010 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+  A Visual Studio 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Ügynökök, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrated), Shell (Elszigetelt), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, & Visual
+  A következő kiadásokra vonatkozik: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Eszközök az Irodai Rendszerhez 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Minden\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Futási idő\n* Laborkezelés\n* Teljesítményeszközök\n* Prémium\n* Szakmai\n* Távoli hibakereső\n* Sdk\n* Shell (integrált)\n* Héj (izolált)\n* Csapat ügynökök\n* Csapatfelfedező\n* Teszt Szakmai\n* Eszközök az Office System 4.0 futásidejéhez\n* Végső\n* VB Expressz\n* Vizuális C# Expressz\n* Vizuális C++ Expressz\n* Visual Web Developer Express\n* Képi megjelenítés & modellezési SDK"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Agents\n* Minden\n* ASP .NET MVC 4\n* Expressz\n* F# 2.0 Futtatókörnyezet\n* Lab Management\n* Teljesítménynövelő eszközök\n* Prémium verzió\n* Professional\n* Távoli Hibakereső\n* SDK\n* Rendszerhéj (Integrált)\n* Rendszerhéj (Izolált)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Eszközök az Office System 4.0 futtatókörnyezetéhez\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Vizualizáció és modellezés SDK"

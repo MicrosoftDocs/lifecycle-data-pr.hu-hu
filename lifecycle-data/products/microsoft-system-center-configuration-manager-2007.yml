@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Configuration Manager 2007
-  description: A Microsoft System Center Configuration Manager 2007 a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Microsoft System Center Configuration Manager 2007 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822229"
 name: Microsoft System Center Configuration Manager 2007
 summary: >
-  A Microsoft System Center Configuration Manager 2007 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Microsoft System Center Configuration Manager 2007 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért. Lásd az áttelepítési útmutatót alább.
+  > A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót.
 products:
 - msc
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Termékinformációk](/mem/configmgr/core/understand/introduction)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Termékinformációk](/mem/configmgr/core/understand/introduction)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)"

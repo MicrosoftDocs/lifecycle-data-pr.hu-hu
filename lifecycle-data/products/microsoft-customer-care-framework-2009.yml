@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft ügyfélszolgálati keretrendszer 2009
-  description: A Microsoft Customer Care Framework 2009 a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Microsoft Vevőszolgálati Keretrendszer 2009
+  description: A Microsoft Customer Care Framework 2009 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 07cce0f3cd5c2fc54a88defb59031e3e9f8f04e8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822292"
-name: Microsoft ügyfélszolgálati keretrendszer 2009
+name: Microsoft Vevőszolgálati Keretrendszer 2009
 summary: >
-  A Microsoft Customer Care Framework 2009 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Microsoft Customer Care Framework 2009 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > A támogatás véget ért. Lásd az áttelepítési útmutatót alább.
+  > A támogatás véget ért. Lásd lejjebb az áttelepítési útmutatót.
 products:
 - customer-care-framework
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2008
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Plus! Windows XP rendszerhez
-  description: Microsoft Plus! Windows XP esetén a Rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Microsoft Plus! Windows XP-re
+  description: Microsoft Plus! Windows XP esetén a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9969a2f2dff3c92df44160d15a0e6934e5625a7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822182"
-name: Microsoft Plus! Windows XP rendszerhez
+name: Microsoft Plus! Windows XP-re
 summary: >+
-  Microsoft Plus! Windows XP esetén a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  Microsoft Plus! Windows XP esetén a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:

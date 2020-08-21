@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft alkalmazás virtualizációs tárhely 4.5 Windows asztali számítógépekhez
-  description: A Microsoft Application Virtualization Hosting 4.5 for Windows Asztali számítógépek a Rögzített életciklus-szabályzatot követi.
+  title: Microsoft Application Virtualization Hosting 4.5 Windows asztali gépekre
+  description: A Microsoft Application Virtualization Hosting 4.5 Windows asztali gépekre a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822349"
-name: Microsoft alkalmazás virtualizációs tárhely 4.5 Windows asztali számítógépekhez
+name: Microsoft Application Virtualization Hosting 4.5 Windows asztali gépekre
 summary: >
-  A Microsoft Application Virtualization Hosting 4.5 for Windows Asztali számítógépek a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A Microsoft Application Virtualization Hosting 4.5 Windows asztali gépekre a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Windows asztali számítógépek esetén
+  Ez a következő kiadásokra vonatkozik: Windows asztali gépekre
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért. Lásd az áttelepítési információkat alább.
+  > A termék támogatása lejárt. Lásd lejjebb az áttelepítési információt.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Linkek \n* [Termék- és áttelepítési információk](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Windows asztali számítógépekhez"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termék- és áttelepítési információk](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Windows asztali számítógépek esetén"
