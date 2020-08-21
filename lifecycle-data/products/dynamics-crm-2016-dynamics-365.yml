@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics CRM 2016 (Dynamics 365)
-  description: A Dynamics CRM 2016 (Dynamics 365) a rögzített életciklus-szabályzatot követi.
+  description: A Dynamics CRM 2016 (Dynamics 365) a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/30/2020
   ms.openlocfilehash: 8beedf478a2c2a00e1ade51fabd10be809909489
   ms.sourcegitcommit: e1941880c1a05c5950b0aa216448eba49d88be22
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "878784"
 name: Dynamics CRM 2016 (Dynamics 365)
 summary: >+
-  A Dynamics CRM 2016 (Dynamics 365) a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A Dynamics CRM 2016 (Dynamics 365) a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release (ver 8.0)
   startDate: 11/30/2015
   endDate: 07/10/2018
-content: "\n## <a name=\"links\"></a>Linkek \n* [Dynamics 365 áttelepítési program](https://dynamics.microsoft.com/migration-program/)\n* [Támogatási információk](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Dynamics 365 Áttelepítési Program](https://dynamics.microsoft.com/migration-program/)\n* [Támogatási információk](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)"

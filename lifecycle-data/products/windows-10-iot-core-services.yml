@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT Core szolgáltatások
-  description: A Windows 10 IoT Core szolgáltatások a modern életciklus-szabályzatot követik.
+  description: A Windows 10 IoT Core szolgáltatások a Modern Életciklus Szabályzatot követik.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870009"
 name: Windows 10 IoT Core szolgáltatások
 summary: >+
-  A Windows 10 IoT Core szolgáltatások a [modern](/lifecycle/policies/modern) életciklus-szabályzatot követik.
+  A Windows 10 IoT Core szolgáltatások a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követik.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Linkek \n* [Windows 10 IoT alapvető szolgáltatások](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> A Windows 10 IoT Core Services egy előfizetéses szolgáltatás, amely szoftvertámogatást nyújt, beleértve az Eszközfrissítési központtal való frissítésvezérlést és a jobb biztonságot az Eszközállapot-igazolással, amennyiben a Windows 10 IoT Core szoftver támogatott verzióját futtatja."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Windows 10 IoT Core szolgáltatások](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> A Windows 10 IoT Core szolgáltatások egy előfizetéses szolgáltatás, amely szoftvertámogatást nyújt, beleértve az Eszközfrissítési központtal történő frissítés vezérlést és a megnövelt biztonságot az Eszközállapot-igazolással, mindaddig ameddig a Windows 10 IoT Core szoftver támogatott verzióját futtatja."
