@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'A Microsoft PlayReady Server Software Development Kit csomag '
+  description: A Microsoft PlayReady Server Software Development Kit a rögzített életciklus-házirendet követi.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: ad1436e285d41225be4fd96438e78cecfe455916
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "908024"
+name: 'A Microsoft PlayReady Server Software Development Kit csomag '
+summary: >+
+  A Microsoft PlayReady Server Software Development Kit a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/15/2009
+  end: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 07/15/2009
+  endDate: 10/14/2014
+content: ''
