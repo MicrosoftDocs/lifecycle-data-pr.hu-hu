@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediaroom
+  description: A Microsoft Mediaroom követi a rögzített életciklus-házirendet.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907293"
+name: Microsoft Mediaroom
+summary: >+
+  A Microsoft Mediaroom követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+
+
+  Ez a következő kiadásokra érvényes: Application Services 1,0, Client 2,0, Client 2,1, Server 2,0, Server 2,1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Az Ericsson megszerezte a Microsoft Mediaroom-termékeket az 2013-ben. További információért olvassa el a [sajtóközleményt](http://www.ericsson.com/news/1691160). A támogatást igénylő ügyfeleink számára kérjük, hogy [ide](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx)lépjenek.\n> [!NOTE]\n> A Microsoft Mediaroom Client 2,1 a 2011 december 27-én jelent meg. \n\n## <a name=\"editions\"></a>Kiadások \n* Application Services 1,0\n* Ügyfél 2,0\n* Ügyfél 2,1\n* Server 2,0\n* Server 2,1"
