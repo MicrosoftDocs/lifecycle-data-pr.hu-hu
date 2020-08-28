@@ -2,19 +2,19 @@
 metadata:
   title: Visual Studio 2017
   description: A Visual Studio 2017 a Rögzített Életciklus Szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 5393d8d0a5210f109a1bdfd96a90aeceed2c9d7e
+  ms.sourcegitcommit: b125c146eb503d123a9ec7f50c08922926fb7f0e
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870021"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907106"
 name: Visual Studio 2017
 summary: >+
   A Visual Studio 2017 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Agents, Buildépítő eszközök, Community, Enterprise, Ügyfél visszajelzés, Mac-re, IntelliTrace Különálló Collector, Teljesítménynövelő eszközök, Professional, Távirányító eszközök, Team Explorer, Test Professional, Visual C++ Újra terjeszthető csomag
+  A következő kiadásokra vonatkozik: Agents, Build eszközök, Community, Enterprise, ESM, Ügyfél visszajelzés, Mac-re, IntelliTrace Különálló Collector, Teljesítményfokozó eszközök, Professional, PSM, Távirányító eszközök, Team Explorer, Test Professional, Visual C++ Újraterjeszthető csomag
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Bejelentés](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Karbantartási információk](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Buildkészítő eszközök\n* Community\n* Enterprise\n* Ügyfél visszajelzés\n* Mac-re\n* IntelliTrace Különálló Collector\n* Teljesítménynövelő eszközök\n* Professional\n* Távirányító eszközök\n* Team Explorer\n* Test Professional\n* A Visual C++ Terjeszthető"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Bejelentés](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Karbantartási információk](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Buildkészítő eszközök\n* Community\n* Enterprise\n* ESM\n* Ügyfél visszajelzés\n* Mac-re\n* IntelliTrace Különálló Collector\n* Teljesítménynövelő eszközök\n* Professional\n* PSM\n* Távirányító eszközök\n* Team Explorer\n* Test Professional\n* A Visual C++ Terjeszthető"

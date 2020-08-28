@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Azure Pack (Server 2012 R2)
+  description: A Windows Azure Pack (Server 2012 R2) a Komponens Életciklus Szabályzatot követi.
+  ms.date: 08/13/2020
+  ms.openlocfilehash: e5e578924beb6eada37c05ac523dbcdf48445841
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "894008"
+name: Windows Azure Pack (Server 2012 R2)
+summary: >+
+  A Windows Azure Pack (Server 2012 R2) a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
+
+
+  Ez a következő kiadásokra vonatkozik: Windows Server 2012 R2
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 01/14/2014
+  end: 07/12/2022
+releases:
+- version: on Windows Server 2012 R2
+  startDate: 01/14/2014
+  endDate: 07/12/2022
+- version: V2 Web Sites
+  startDate: 01/14/2014
+  endDate: 07/12/2022
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Windows Azure Pack Web Sites V2 támogatja az Életciklus dátumokat](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Windows Azure Pack a Windows Server termék információhoz](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Kiadások \n* Windows Server 2012 R2 verzión"
