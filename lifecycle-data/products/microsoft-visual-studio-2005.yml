@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft Visual Studio 2005
   description: A Microsoft Visual Studio 2005 a Rögzített Életciklus Szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 3d7b18b9c262c1ac5f159250ef8a1746f79221eb
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821665"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893168"
 name: Microsoft Visual Studio 2005
 summary: >+
   A Microsoft Visual Studio 2005 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Visual J# támogatási információk](https://msdn.microsoft.com/vstudio/bb188593)\n* [Áttelepítési útmutató](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio termék információ](https://www.VisualStudio.com)\n\n> [!NOTE]\n> A termék támogatása lejárt. Lásd alább az áttelepítési útmutatót.\n> [!NOTE]\n> A Microsoft Visual Studio 2005 Team Edition Adatbázis szakemberek részére 2007. március 2-án került kiadásra.\n\n## <a name=\"editions\"></a>Kiadások \n* Professional\n* Standard\n* Standard Edition akadémiai licenc\n* Team Edition Adatbázis szakemberek részére\n* Team Edition Szoftver tervezőknek\n* Team Edition Szoftver fejlesztőknek\n* Team Edition Szoftver tesztelőknek\n* Team Suite\n* Team terheléstesztelő ügynök\n* Microsoft Office System eszközök\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual J# támogatási információk](https://msdn.microsoft.com/vstudio/bb188593)\n* [Visual Studio termék információ](https://www.VisualStudio.com)\n\n> [!NOTE]\n> A termék támogatása lejárt. Lásd alább az áttelepítési útmutatót.\n> [!NOTE]\n> A Microsoft Visual Studio 2005 Team Edition Adatbázis szakemberek részére 2007. március 2-án került kiadásra.\n\n## <a name=\"editions\"></a>Kiadások \n* Professional\n* Standard\n* Standard Edition akadémiai licenc\n* Team Edition Adatbázis szakemberek részére\n* Team Edition Szoftver tervezőknek\n* Team Edition Szoftver fejlesztőknek\n* Team Edition Szoftver tesztelőknek\n* Team Suite\n* Team terheléstesztelő ügynök\n* Microsoft Office System eszközök\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
