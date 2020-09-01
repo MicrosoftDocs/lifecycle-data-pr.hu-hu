@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: 3. kifejezés
-  description: A 3.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: A 3-as kifejezés a rögzített életciklus-házirendet követi.
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio,Web
+  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821714"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930753"
 name: 3. kifejezés
 summary: >+
-  A 3. [Fixed](/lifecycle/policies/fixed)
+  A 3-as kifejezés a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Design, Encoder, Studio, Web
+  Ez a következő kiadásokra vonatkozik: tervezés, kódoló, stúdió, web
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Az Expression Design 3 kezdő dátuma 2009. \n\n## <a name=\"editions\"></a>Kiadások \n* Design\n* Kódoló\n* Studio\n* Web"
+content: "\n\n> [!NOTE]\n> A Expression design 3 kezdő dátuma a 2009 november 19. \n\n## <a name=\"editions\"></a>Kiadások \n* Design\n* Kódoló\n* Studio\n* Web"

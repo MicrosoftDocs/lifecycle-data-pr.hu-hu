@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel 2013
-  description: Az Excel 2013 a Rögzített életciklusra vonatkozó szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a8420acbf87b6c3035713e5085c07f3b9db9c88f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Az Excel 2013 a rögzített életciklus-házirendet követi.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: a61ea8a7812cf8f0588cedf137009800c888809c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856048"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931530"
 name: Excel 2013
 summary: >+
-  Az Excel 2013 a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  Az Excel 2013 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Standard
+  A következő kiadásokra vonatkozik: Standard
 
 products:
 - office
