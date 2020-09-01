@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Word 2013
-  description: A Word 2013 a rögzített életciklusra vonatkozó irányelvet követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e7c96fe1f740c49274802ccde5dcafb29c8d96be
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: A Word 2013 a rögzített életciklus-házirendet követi.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: b08705b30333f7f619339b95da3aafc1d047f7de
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855795"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938671"
 name: Word 2013
 summary: >+
-  A Word 2013 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+  A Word 2013 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Standard
+  A következő kiadásokra vonatkozik: Standard
 
 products:
 - office
