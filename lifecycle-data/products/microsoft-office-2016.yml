@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2016
-  description: A Microsoft Office 2016 a Rögzített életciklusra vonatkozó szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0862856c981f0887a99cd499275edcda6f18533b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: A Microsoft Office 2016 követi a rögzített életciklus-házirendet.
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
+  ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856158"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930494"
 name: Microsoft Office 2016
 summary: >+
-  A Microsoft Office 2016 a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Microsoft Office 2016 követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
 
 
-  Ez a következő kiadásokra vonatkozik: Otthoni és üzleti, Otthoni és diák, Személyes, Szakmai, Professional Plus, Standard
+  Ez a következő kiadásokra érvényes: otthoni és kisvállalati verzió, otthoni és iskolai verzió, személyes, Professional, Professional Plus, standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Otthon és üzlet\n* Otthon és diák\n* Személyes\n* Szakmai\n* Professzionális Plusz\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Home and Business\n* Otthoni és diák\n* Personal\n* Professional\n* Professional Plus\n* Standard"
