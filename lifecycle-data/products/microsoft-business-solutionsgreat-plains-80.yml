@@ -1,25 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Üzleti megoldások - Great Plains 8.0
-  description: A Microsoft Business Solutions - A Great Plains 8.0 a rögzített életciklusra vonatkozó irányelveket követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Business Solutions – nagy síkságok 8,0
+  description: Microsoft Business Solutions – a nagy síkságok 8,0 a rögzített életciklus-házirendet követi.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "822321"
-name: Microsoft Üzleti megoldások - Great Plains 8.0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934675"
+name: Microsoft Business Solutions – nagy síkságok 8,0
 summary: >
-  A Microsoft Business Solutions - A Great Plains 8.0 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelveket követi.
+  Microsoft Business Solutions – a nagy síkságok 8,0 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Standard
+  A következő kiadásokra vonatkozik: Standard
 
 
   > [!IMPORTANT]
 
-  > Támogatás a termék véget ért október 13, 2009
+  > Az alábbi termékek támogatása befejeződött október 13., 2009
 products:
 - dynamics
 policyType: fixed-mainstream-only
