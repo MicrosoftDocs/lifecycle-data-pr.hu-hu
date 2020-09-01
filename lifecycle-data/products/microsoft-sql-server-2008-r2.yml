@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft SQL Server 2008 R2
   description: A Microsoft SQL Server 2008 R2 a Rögzített Életciklus Szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Datacenter,Developer,Enterprise,Express,Express with Advanced Services,for Embedded Systems,Standard,Standard Edition for Small Business,Web,Workgroup
+  ms.openlocfilehash: 338c0e474c0c8f93d36dd3c165920ef49f89f4ec
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821819"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937709"
 name: Microsoft SQL Server 2008 R2
 summary: "A Microsoft SQL Server 2008 R2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi. \n\nA következő kiadásokra vonatkozik: Datacenter, Developer, Vállalati, Expressz, Expressz speciális szolgáltatásokkal, Beágyazott rendszerekhez, Standard, Standard kiadás kisvállalatoknak, Web, Munkacsoport\n\n"
 products:

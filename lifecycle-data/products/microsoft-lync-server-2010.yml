@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Lync Server 2010
   description: A Microsoft Lync Server 2010 a Rögzített Életciklus Szabályzatot követi.
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
-  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.date: 09/01/2020
+  keywords: Enterprise,Group Chat Software Development Kit,SDK,Standard
+  ms.openlocfilehash: 9095849697c158ed1ff78a7a1bdd940cbfc8170f
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/31/2020
-  ms.locfileid: "879454"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936932"
 name: Microsoft Lync Server 2010
 summary: >+
   A Microsoft Lync Server 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
@@ -22,9 +23,9 @@ policyType: fixed
 supportDates:
   start: 01/25/2011
   end: 04/10/2018
-  extendedEnd: 04/13/2021
+  extendedEnd: 04/11/2023
 releases:
 - version: Original Release
   startDate: 01/25/2011
-  endDate: 04/13/2021
+  endDate: 04/11/2023
 content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> A Lync Server 2010 és a Lync Server 2013 támogatja a Lync Phone Edition alkalmazást. A Lync Phone Edition támogatási dátuma két évvel meghosszabbodott, hogy igazodjon a Lync Server 2013 életciklusához.\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise\n* Csoportos csevegés szoftverfejlesztő készlet\n* SDK\n* Standard"

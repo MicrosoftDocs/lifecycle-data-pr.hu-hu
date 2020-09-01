@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: A Microsoft 365 a modern életciklusra vonatkozó szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 305fc57c897c1f8b2eb95b170d5b8403e1ea35ee
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: A Microsoft 365 követi a modern életciklus-házirendet.
+  ms.date: 09/01/2020
+  keywords: Business,Education,Enterprise,Government
+  ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856117"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935970"
 name: Microsoft 365
 summary: >+
-  A Microsoft 365 a [modern](/lifecycle/policies/modern) életciklusra vonatkozó szabályzatot követi.
+  A Microsoft 365 követi a [modern](/lifecycle/policies/modern) életciklus-házirendet.
 
 
-  Ez a következő kiadásokra vonatkozik: Üzleti, Oktatási, Vállalkozási, Kormányzati
+  Ez a következő kiadásokra vonatkozik: üzleti, oktatási, nagyvállalati, kormányzati
 
 products:
 - office
@@ -24,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Linkek \n* [A Microsoft 365 ütemterve](https://www.microsoft.com/microsoft-365/roadmap)\n* [Rendszerkövetelmények](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Vállalat\n* Oktatás\n* Vállalati\n* Kormány"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Microsoft 365-útiterv](https://www.microsoft.com/microsoft-365/roadmap)\n* [Rendszer követelmények](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Vállalati\n* Oktatás\n* Enterprise\n* Kormányzati"
