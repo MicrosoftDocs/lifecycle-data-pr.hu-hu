@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2013
-  description: Az Outlook 2013 a rögzített életciklusra vonatkozó szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a666f76eeb2a19624b18d542c735fd3d5279899c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Az Outlook 2013 a rögzített életciklus-házirendet követi.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 2678d0bb53f3c29f23028aa934729776d1c73d7c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856146"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926794"
 name: Outlook 2013
 summary: >+
-  Az Outlook 2013 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  Az Outlook 2013 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Standard
+  A következő kiadásokra vonatkozik: Standard
 
 products:
 - office
