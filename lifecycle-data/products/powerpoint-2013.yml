@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerPoint 2013
-  description: A PowerPoint 2013 a rögzített életciklusra vonatkozó szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0fedb46f520e61546bca7e664f1bcb0f04d5b10d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: A PowerPoint 2013 a rögzített életciklus-házirendet követi.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 04ce16dd515217f7697f3cf2cc1a0ad22cd3ea19
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856141"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926942"
 name: PowerPoint 2013
 summary: >+
-  A PowerPoint 2013 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A PowerPoint 2013 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Standard
+  A következő kiadásokra vonatkozik: Standard
 
 products:
 - office
