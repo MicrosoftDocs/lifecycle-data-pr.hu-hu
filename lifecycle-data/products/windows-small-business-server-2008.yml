@@ -2,13 +2,14 @@
 metadata:
   title: Windows Small Business Server 2008
   description: A Windows Small Business Server 2008 a Rögzített Életciklus Szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Premium,Standard
+  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821786"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939189"
 name: Windows Small Business Server 2008
 summary: "A Windows Small Business Server 2008 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.\n\nA következő kiadásokra vonatkozik: Premium, Standard\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. \n\nA termékcsomag támogatási dátumát az egyes összetevő termékének életciklusa határozza meg. Kérjük, tekintse át az egyes összetevő termékek életciklusát, hogy meghatározza a támogatás hosszát.\n"
 products:

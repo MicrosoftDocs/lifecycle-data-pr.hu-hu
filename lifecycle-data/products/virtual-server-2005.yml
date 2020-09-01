@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtuális kiszolgáló 2005
-  description: A Virtual Server 2005 a rögzített életciklusra vonatkozó szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 23b86f98da1cbf486ae6b21eefca8d06eaf1361c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Virtual Server 2005
+  description: A Virtual Server 2005 követi a rögzített életciklus-házirendet.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Management Pack,Standard
+  ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821805"
-name: Virtuális kiszolgáló 2005
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937894"
+name: Virtual Server 2005
 summary: >+
-  A Virtual Server 2005 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Virtual Server 2005 követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
 
 
-  Ez a következő kiadásokra vonatkozik: Enterprise, Management Pack, Standard
+  Ez a következő kiadásokra érvényes: Enterprise, Management Pack, standard
 
 products:
 - windows
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Vállalati\n* Felügyeleti csomag\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise\n* Felügyeleti csomag\n* Standard"
