@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2004 for Mac
-  description: A Microsoft Office 2004 for Mac a Rögzített életciklusra vonatkozó szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14513bc7089568baf86dfe8f775cc25658cda7f4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Office 2004 Mac rendszerhez
+  description: A Mac Microsoft Office 2004 követi a rögzített életciklus-házirendet.
+  ms.date: 09/01/2020
+  keywords: Professional,Standard,Student and Teacher
+  ms.openlocfilehash: 12b63fa73b4b6a4bfc393cc62234147382a6d46a
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821697"
-name: Microsoft Office 2004 for Mac
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936846"
+name: Microsoft Office 2004 Mac rendszerhez
 summary: >+
-  A Microsoft Office 2004 for Mac a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Mac Microsoft Office 2004 követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
 
 
-  Ez a következő kiadásokra vonatkozik: Szakmai, Standard, Diák és Tanár
+  Ez a következő kiadásokra érvényes: profi, normál, tanuló és tanár
 
 products:
 - office
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/13/2004
   endDate: 01/10/2012
-content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Szakmai\n* Standard\n* Diák és tanár"
+content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Professional\n* Standard\n* Diák és tanár"

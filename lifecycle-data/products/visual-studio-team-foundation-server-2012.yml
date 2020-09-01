@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2012
-  description: A Visual Studio Team Foundation Server 2012 a rögzített életciklusra vonatkozó szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: fd163f4af7e1f56e537990c97f59aa03cbb323c2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: A Visual Studio Team Foundation Server 2012 a rögzített életciklus-házirendet követi.
+  ms.date: 09/01/2020
+  keywords: All
+  ms.openlocfilehash: 010d56498bce5718034fa1af505e985ed93f40ce
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856097"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937339"
 name: Visual Studio Team Foundation Server 2012
 summary: >+
-  A Visual Studio Team Foundation Server 2012 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Visual Studio Team Foundation Server 2012 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
 
 
-  Ez a következő kiadásokra vonatkozik:
+  A következő kiadásokra vonatkozik: Minden
 
 products:
 - vs
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/13/2015
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/azure/devops/server/upgrade/get-started?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Minden"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/azure/devops/server/upgrade/get-started?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Minden"
