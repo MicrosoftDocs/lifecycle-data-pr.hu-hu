@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Class Server 3.0
-  description: A Microsoft Class Server 3.0 a Rögzített életciklus-szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d393a373e1a6b59165567eab05a2f777bdddece9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Class Server 3,0
+  description: A Microsoft Class Server 3,0 a rögzített életciklus-házirendet követi.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 1d14c56151ecf68d4493cea9a79047eee7df4bd2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "822312"
-name: Microsoft Class Server 3.0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934638"
+name: Microsoft Class Server 3,0
 summary: >+
-  A Microsoft Class Server 3.0 a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A Microsoft Class Server 3,0 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Standard
+  A következő kiadásokra vonatkozik: Standard
 
 products:
 - office
