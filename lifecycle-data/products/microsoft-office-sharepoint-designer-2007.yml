@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office SharePoint Designer 2007
-  description: A Microsoft Office SharePoint Designer 2007 a Rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Microsoft Office SharePoint Designer 2007 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: e0224051cc3edc793e7c87b5c5cefdc0f9f95153
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822253"
 name: Microsoft Office SharePoint Designer 2007
 summary: >+
-  A Microsoft Office SharePoint Designer 2007 a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Microsoft Office SharePoint Designer 2007 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/office/troubleshoot/support/office-2007-not-support)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/office/troubleshoot/support/office-2007-not-support)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)"

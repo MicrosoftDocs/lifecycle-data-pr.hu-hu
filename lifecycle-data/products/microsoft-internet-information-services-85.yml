@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Internet Information Services 8.5
-  description: A Microsoft Internet Information Services 8.5 a komponenséletciklus-szabályzatot követi.
+  description: A Microsoft Internet Information Services 8.5 a Komponens Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8493b959c25c256d639ec366055a2d2759849eb0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821703"
 name: Microsoft Internet Information Services 8.5
 summary: >+
-  A Microsoft Internet Information Services [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 8.5 a komponenséletciklus-szabályzatot követi.
+  A Microsoft Internet Information Services 8.5 a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "> [!TIP]\n> Ezt a kiadást összetevőnek nevezzük, amely a fő termékszülő termék, a Windows Server 2012 R2 és a Windows 8.1 támogatási életciklusát követi.\n\n## <a name=\"links\"></a>Linkek \n* [Windows 8.1](/lifecycle/products/windows-81)\n* [Windows Server 2012 R2](/lifecycle/products/windows-server-2012-r2)"
+content: "> [!TIP]\n> Ezt a kiadást komponensnek nevezzük, amely közismert szülőtermékének, a Windows Server 2012 R2-nek és a Windows 8.1-nek a támogatási életciklusát követi.\n\n## <a name=\"links\"></a>Hivatkozások \n* [Windows 8.1](/lifecycle/products/windows-81)\n* [Windows Server 2012 R2](/lifecycle/products/windows-server-2012-r2)"

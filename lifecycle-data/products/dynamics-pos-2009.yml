@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics POS 2009
-  description: A Dynamics POS 2009 a rögzített életciklusra vonatkozó irányelvet követi.
+  description: A Dynamics POS 2009 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a1ad92ea731fb673d0cc7dd8d4abf893986f5da
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821974"
 name: Dynamics POS 2009
 summary: >+
-  A Dynamics POS 2009 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+  A Dynamics POS 2009 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/17/2009
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://community.dynamics.com/rms/b/rmssupport/archive/2014/07/17/pos-2009-end-of-mainstream-support)\n* [Termékinformációk](https://dynamics.microsoft.com/en-us/?&WT.srch)\n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://community.dynamics.com/rms/b/rmssupport/archive/2014/07/17/pos-2009-end-of-mainstream-support)\n* [Termékinformációk](https://dynamics.microsoft.com/en-us/?&WT.srch)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)"
