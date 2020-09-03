@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SoftGrid alkalmazás virtualizálása
-  description: SoftGrid alkalmazás virtualizálás követi a rögzített életciklus-szabályzat.
+  title: SoftGrid Application Virtualization
+  description: A SoftGrid Application Virtualization a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821650"
-name: SoftGrid alkalmazás virtualizálása
+name: SoftGrid Application Virtualization
 summary: >
-  SoftGrid alkalmazás virtualizálás követi a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzat.
+  A SoftGrid Application Virtualization a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: 4.1 asztali számítógépekhez, 4.2 asztali számítógépekhez, Terminálszolgáltatások 4.1 esetén
+  A következő kiadásokra vonatkozik: 4.1 for Desktops, 4.2 for Desktops, for Terminal Services 4.1
 
 
   > [!IMPORTANT]
 
-  > A támogatás véget ért. Lásd az áttelepítési útmutatót alább.
+  > A támogatás véget ért. Lásd lejjebb az áttelepítési útmutatót.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Kiadások \n* 4.1 asztali számítógépekhez\n* 4.2 asztali számítógépekhez\n* terminálszolgáltatások esetén 4.1"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Kiadások \n* 4.1 for Desktops\n* 4.2 for Desktops\n* for Terminal Services 4.1"

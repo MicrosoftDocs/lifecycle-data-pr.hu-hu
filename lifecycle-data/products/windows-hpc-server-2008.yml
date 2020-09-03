@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows HPC Server 2008
-  description: A Windows HPC Server 2008 a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Windows HPC Server 2008 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822143"
 name: Windows HPC Server 2008
 summary: >
-  A Windows HPC Server 2008 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Windows HPC Server 2008 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Standard, Hyper-V nélkül
+  Ez a következő kiadásokra vonatkozik: Standard Hyper-V nélkül
 
 
   > [!IMPORTANT]
 
-  > A támogatás véget ért. Lásd az áttelepítési útmutatót alább.
+  > A támogatás véget ért. Lásd lejjebb az áttelepítési útmutatót.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard\n* Hyper-V nélkül"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard\n* Hyper-V nélkül"

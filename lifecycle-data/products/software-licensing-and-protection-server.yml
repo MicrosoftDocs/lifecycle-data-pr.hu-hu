@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821666"
 name: Szoftverlicencelési és -védelmi kiszolgáló
 summary: >
-  A szoftverlicencelési és -védelmi kiszolgáló a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A szoftverlicencelési és -védelmi kiszolgáló a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
 
 
   Ez a következő kiadásokra vonatkozik: Enterprise, Standard
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > A Szoftverlicencelési és -védelmi kiszolgáló (SLPS) elidegenítése miatt a Microsoft 2009.
+  > A Szoftverlicencelési és -védelmi kiszolgáló (SLPS) elidegenítése miatt a Microsoft 2009. szeptember 24-ig támogatta az SLPS-t.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Linkek \n* [Szoftverlicencelési és -védelmi kiszolgáló (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Vállalati\n* Standard"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szoftverlicencelési és -védelmi kiszolgáló (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise\n* Standard"

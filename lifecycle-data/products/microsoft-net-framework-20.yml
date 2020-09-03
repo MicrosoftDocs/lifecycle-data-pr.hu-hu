@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .
-  description: A Microsoft .
+  title: Microsoft .NET-keretrendszer 2.0
+  description: A Microsoft .NET Framework 2.0 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6d186410b904b018d0d12029387bf88ac0784fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822269"
-name: Microsoft .
+name: Microsoft .NET-keretrendszer 2.0
 summary: >+
-  A Microsoft . [Fixed](/lifecycle/policies/fixed)
+  A Microsoft .NET Framework 2.0 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/17/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linkek \n* [Életciklus – gyakori kérdések – .NET keretrendszer](/lifecycle/faq/dotnet-framework)\n* [Termékinformáció](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> 2011. július 12-én véget ért a .NET Framework 2.0 támogatása."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Életciklus GYIK – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Termék információ](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> 2011. július 12-én véget ért a .NET Framework 2.0 támogatása."

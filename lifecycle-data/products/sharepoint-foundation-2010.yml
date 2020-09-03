@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Foundation 2010
-  description: A SharePoint Foundation 2010 a rögzített életciklusra vonatkozó irányelvet követi.
+  description: A SharePoint Foundation 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4e1bc498432d215ea8f84140c068054cf6c9c5cc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821653"
 name: SharePoint Foundation 2010
 summary: >+
-  A SharePoint Foundation 2010 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+  A SharePoint Foundation 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Támogatási bővítmény](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> A termék támogatási dátuma 2020. október 13-tól 2021."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Támogatási bővítmény](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> A termék végső támogatási dátuma 2020. október 13-áról 2021. április 13-ára tolódott ki."

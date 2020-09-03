@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 8
-  description: Az Internet Explorer 8 a komponenséletciklus-szabályzatot követi.
+  description: Az Internet Explorer 8 a Komponens Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 829f271edf5fe7984b750209a89f0f40efc6a3c3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822367"
 name: Internet Explorer 8
 summary: >+
-  Az Internet Explorer [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 8 a komponenséletciklus-szabályzatot követi.
+  Az Internet Explorer 8 a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/17/2009
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://www.microsoft.com/itpro/microsoft-edge)\n* [Gyakori kérdések az Internet Explorer életciklus-irányelveiről](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 2016. január 12-től csak a támogatott operációs rendszerekhez elérhető Internet Explorer legújabb verziója kap technikai támogatást és biztonsági frissítéseket."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://www.microsoft.com/itpro/microsoft-edge)\n* [Gyakori kérdések az Internet Explorer életciklus szabályzatáról](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 2016. január 12-től csak a támogatott operációs rendszerekhez elérhető Internet Explorer legújabb verziója kap technikai támogatást és biztonsági frissítéseket."

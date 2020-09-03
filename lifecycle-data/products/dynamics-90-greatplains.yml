@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 9.0 Nagysíkságok
-  description: A Dynamics 9.0 GreatPlains a rögzített életciklusra vonatkozó irányelvet követi.
+  title: Dynamics 9.0 GreatPlains
+  description: A Dynamics 9.0 GreatPlains a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821729"
-name: Dynamics 9.0 Nagysíkságok
+name: Dynamics 9.0 GreatPlains
 summary: >
-  A Dynamics 9.0 GreatPlains a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+  A Dynamics 9.0 GreatPlains a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért.
+  > A termék támogatása lejárt.
 products:
 - dynamics
 policyType: fixed
