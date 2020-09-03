@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk Server 2010
-  description: A BizTalk Server 2010 követi a rögzített életciklus-házirendet.
+  description: A BizTalk Server 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 08/19/2020
   ms.openlocfilehash: cf79175dea88682f0ace56ab69a2dc9e933ccc58
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903693"
 name: BizTalk Server 2010
 summary: >+
-  A BizTalk Server 2010 követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  A BizTalk Server 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: ág, fejlesztő, nagyvállalati, nagyvállalati RFID, standard
+  A következő kiadásokra vonatkozik: Branch, Developer, Enterprise, Enterprise RFID, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Linkek \n* [Áttelepítési útmutató](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Verziós adatok](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ág\n* Fejlesztő\n* Nagyvállalati\n* Nagyvállalati RFID\n* Standard"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Verzió információ](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Branch\n* Developer\n* Enterprise\n* Enterprise RFID\n* Standard"

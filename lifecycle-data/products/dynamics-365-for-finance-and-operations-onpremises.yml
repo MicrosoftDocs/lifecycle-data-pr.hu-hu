@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 for Finance and Operations (helyszíni)
-  description: A Dynamics 365 for Finance and Operations (helyszíni) a modern életciklusra vonatkozó szabályzatot követi.
+  title: Dynamics 365 pénzügyi és működési célokra (helyszíni)
+  description: A Dynamics 365 for Finance and Operations (helyszíni) a Modern Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 026c1a37c7e772e8a9982c4c0190ae4d44e24ea3
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869972"
-name: Dynamics 365 for Finance and Operations (helyszíni)
+name: Dynamics 365 pénzügyi és működési célokra (helyszíni)
 summary: >+
-  A Dynamics 365 for Finance and Operations (helyszíni) a [modern](/lifecycle/policies/modern) életciklusra vonatkozó szabályzatot követi.
+  A Dynamics 365 for Finance and Operations (helyszíni) a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Enterprise
+  A következő kiadásokra vonatkozik: Enterprise
 
 products:
 - dynamics
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/15/2017
-content: "\n## <a name=\"links\"></a>Linkek \n* [Karbantartási információk](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [Rendszerkövetelmények](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Vállalati"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Karbantartási információk](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [Rendszer követelmények](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise"

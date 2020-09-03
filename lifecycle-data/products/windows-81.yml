@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 8,1
-  description: A Windows 8,1 követi a rögzített életciklus-házirendet.
+  title: Windows 8.1
+  description: A Windows 8.1 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 08/21/2020
   ms.openlocfilehash: 42fc7e148a73c5583047b7bed3862484dea56340
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906659"
-name: Windows 8,1
+name: Windows 8.1
 summary: >+
-  A Windows 8,1 követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  A Windows 8.1 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: nagyvállalati, nagyvállalati N, N, Pro és Media Center, Professional, Professional N, SL
+  A következő kiadásokra vonatkozik: Enterprise, Enterprise N, N, Media Centert tartalmazó Pro, Professional, Professional N, SL
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Linkek \n* [Életciklussal kapcsolatos gyakori kérdések – Windows termékek](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Nagyvállalati\n* Nagyvállalati verzió\n* N\n* Pro a Media Center segítségével\n* Professional\n* Profi N\n* SL"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Életciklus GYIK – Windows termékek](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise\n* Enterprise N\n* N\n* Media Centert tartalmazó Pro\n* Professional\n* Professional N\n* SL"
