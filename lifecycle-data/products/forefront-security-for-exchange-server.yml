@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Forefront-biztonság az Exchange Serverhez
-  description: A Forefront Security for Exchange Server követi a rögzített életciklus-házirendet.
+  title: Forefront Security for Exchange Server
+  description: A Forefront Security for Exchange Server a Rögzített Életciklus Szabályzatot követi.
   ms.date: 08/12/2020
   ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893723"
-name: Forefront-biztonság az Exchange Serverhez
+name: Forefront Security for Exchange Server
 summary: >
-  A Forefront Security for Exchange Server követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  A Forefront Security for Exchange Server a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > Megváltozott a biztonsági termékekkel kapcsolatos ütemterv a Forefront brandben. Ez a szorzat az 2015 december 31-én megszűnt.
+  > A Forefront márkanév alatt található biztonsági termékek ütemterve megváltozott. A termék támogatása 2015. december 31-től megszűnik.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linkek \n* [Áttelepítési útmutató](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://www.microsoft.com/security/business/explore/cybersecurity)"

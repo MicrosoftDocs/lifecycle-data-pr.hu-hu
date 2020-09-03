@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8,1-ipar
-  description: A Windows Embedded 8,1 iparága követi a rögzített életciklus-házirendet.
+  title: Windows Embedded 8.1 Industry
+  description: A Windows Embedded 8.1 Industry a Rögzített Életciklus Szabályzatot követi.
   ms.date: 08/21/2020
   ms.openlocfilehash: f18f36a1692ef77948c82bce5d1b0a0208c3dc9d
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906918"
-name: Windows Embedded 8,1-ipar
+name: Windows Embedded 8.1 Industry
 summary: >+
-  A Windows Embedded 8,1 iparága követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  A Windows Embedded 8.1 Industry a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra érvényes: Enterprise, Pro, sideloading
+  Ez a következő kiadásokra vonatkozik: Enterprise, Pro, Sideloading
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Linkek \n* [Életciklussal kapcsolatos gyakori kérdések – Windows termékek](https://support.microsoft.co/help/18581)\n* [Windows Embedded 8,1 – gyakori kérdések](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Nagyvállalati\n* Pro\n* Sideloading"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Életciklus GYIK – Windows termékek](https://support.microsoft.co/help/18581)\n* [Windows Embedded 8.1 GYIK](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise\n* Pro\n* Tesztcélú telepítés"

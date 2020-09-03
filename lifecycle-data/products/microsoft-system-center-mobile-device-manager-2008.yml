@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Mobile Device Manager 2008
-  description: A Microsoft System Center Mobile Device Manager 2008 a rögzített életciklus-házirendet követi.
+  description: A Microsoft System Center Mobile Device Manager 2008 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906284"
 name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  A Microsoft System Center Mobile Device Manager 2008 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A Microsoft System Center Mobile Device Manager 2008 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra érvényes: az összes alkalmazható, wSQL
+  Ez a következő kiadásokra vonatkozik: Összes alkalmazható, wSQL
 
 products:
 - msc
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Linkek \n* [Áttelepítési útmutató](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Szervizcsomag-házirend](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Minden alkalmazható\n* wSQL"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Összes alkalmazható\n* wSQL"

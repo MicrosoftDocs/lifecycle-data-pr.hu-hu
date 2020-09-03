@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2010
-  description: A Visual Studio Team Foundation Server 2010 a rögzített életciklus-házirendet követi.
+  description: A Visual Studio Team Foundation Server 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 08/21/2020
   ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906801"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
-  A Visual Studio Team Foundation Server 2010 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A Visual Studio Team Foundation Server 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra érvényes: az összes alkalmazható, külső összekötő
+  Ez a következő kiadásokra vonatkozik: Összes alkalmazható, Külső csatlakozó
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Linkek \n* [Áttelepítési útmutató](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Minden alkalmazható\n* Külső összekötő"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Összes alkalmazható\n* Külső csatlakozó"

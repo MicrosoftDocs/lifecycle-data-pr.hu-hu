@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .
-  description: A Microsoft .
+  title: Microsoft .NET-keretrendszer 4,8
+  description: A Microsoft .NET Framework 4.8 a Komponens Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: df883bbb34d446d8dfe0ba2635a781778f510841
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870077"
-name: Microsoft .
+name: Microsoft .NET-keretrendszer 4,8
 summary: >+
-  A Microsoft . [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  A Microsoft .NET Framework 4.8 a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 04/18/2019
-content: "\n## <a name=\"links\"></a>Linkek \n* [Termékinformációk](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [A .NET-keretrendszer életciklusának gyakori kérdések](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> A .NET Framework a Windows operációs rendszer egyik összetevője. Az összetevők ugyanolyan támogatást kapnak, mint a szülőtermékük vagy platformjuk."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termékinformációk](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework életciklus gyakori kérdések](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> A .NET Framework a Windows operációs rendszer egyik összetevője. Az összetevők azonos támogatásban részesülnek azzal a termékkel vagy platformmal, amely alatt működnek."
