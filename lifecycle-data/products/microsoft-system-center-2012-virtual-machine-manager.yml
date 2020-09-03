@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 virtuálisgép-kezelő
-  description: A Microsoft System Center 2012 Virtual Machine Manager a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Microsoft System Center 2012 Virtual Machine Manager
+  description: A Microsoft System Center 2012 Virtual Machine Manager a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 09642342cee1a3d9fbe2ccab2f193a34364664bd
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856147"
-name: Microsoft System Center 2012 virtuálisgép-kezelő
+name: Microsoft System Center 2012 Virtual Machine Manager
 summary: >+
-  A Microsoft System Center 2012 Virtual Machine Manager a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Microsoft System Center 2012 Virtual Machine Manager a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n* [System Center dokumentáció](/system-center/#pivot=components&panel=components-all)\n* [Rendszerközpont-erőforrások](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n* [System Center Dokumentáció](/system-center/#pivot=components&panel=components-all)\n* [System Center Erőforrások](https://www.microsoft.com/system-center/resources)"

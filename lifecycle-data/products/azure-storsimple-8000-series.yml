@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure StorSimple 8000 sorozat
+  title: Azure StorSimple 8000-es Sorozat
   description: Az Azure StorSimple 8000 sorozat a rögzített életciklus-szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855724"
-name: Azure StorSimple 8000 sorozat
+name: Azure StorSimple 8000-es Sorozat
 summary: >+
-  Az Azure StorSimple 8000 sorozat a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  Az Azure StorSimple 8000 sorozat a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>Linkek \n* [StorSimple megoldás támogatása](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Migrációs útmutató](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Az Azure StorSimple 8000 sorozat támogatása a szokásos életciklus-ütemterv biztosítása érdekében bővül. A kiterjesztett támogatás csak a hardvercsere és a biztonsági frissítéseket tartalmazza."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [StorSimple megoldás támogatása](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Áttelepítési útmutató](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Az Azure StorSimple 8000 sorozat támogatását az itt közölt módon kiterjesztettük, hogy ügyfeleink számára biztosítsuk a standard életciklus-folyamatot. A kiterjesztett támogatás csak a hardvercserére és a biztonsági frissítésekre vonatkozik."

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows MultiPoint Server 2011
-  description: A Windows MultiPoint Server 2011 a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Windows MultiPoint Server 2011 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 002686168c27c03c0b513a06c0b73754b9559a3c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855952"
 name: Windows MultiPoint Server 2011
 summary: >+
-  A Windows MultiPoint Server 2011 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Windows MultiPoint Server 2011 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Premium, Standard
+  A következő kiadásokra vonatkozik: Premium, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/12/2011
   endDate: 07/13/2021
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/windows-server/get-started/installation-and-upgrade)\n* [Termékinformációk](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Prémium\n* Standard"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/windows-server/get-started/installation-and-upgrade)\n* [Termékinformációk](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Premium\n* Standard"

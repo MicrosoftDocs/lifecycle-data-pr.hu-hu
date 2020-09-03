@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics AX 2012 R2
-  description: A Dynamics AX 2012 R2 a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Dynamics AX 2012 R2 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0c416b7a522ce30abd5dc690132e3daa91db99ba
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855987"
 name: Dynamics AX 2012 R2
 summary: >+
-  A Dynamics AX 2012 R2 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Dynamics AX 2012 R2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2013
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365 áttelepítési program](https://dynamics.microsoft.com/migration-program/)\n* [További életciklus-információk](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Az általános támogatás az ábrán látható módon bővült."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365 Áttelepítési Program](https://dynamics.microsoft.com/migration-program/)\n* [További Életciklus-információk](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Alapvető technikai támogatásunkat az itt látható módon kiterjesztettük."

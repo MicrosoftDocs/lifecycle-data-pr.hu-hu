@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .
-  description: A Microsoft .
+  title: Microsoft .NET Framework 4.6
+  description: A Microsoft .NET Framework 4.6 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1505b81ae5333b02ddda8778583baea94b516a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855826"
-name: Microsoft .
+name: Microsoft .NET Framework 4.6
 summary: >+
-  A Microsoft . [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  A Microsoft .NET Framework 4.6 a [Rögzített](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 07/29/2015
-content: "\n## <a name=\"links\"></a>Linkek \n* [A .NET-keretrendszer életciklusának gyakori kérdések](/lifecycle/faq/dotnet-framework)\n* [Termékinformációk](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-46)\n\n> [!NOTE]\n> A .NET Framework a Windows operációs rendszer egyik összetevője. Az összetevők ugyanolyan támogatást kapnak, mint a szülőtermékük vagy platformjuk."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [.NET Framework életciklus gyakori kérdések](/lifecycle/faq/dotnet-framework)\n* [Termékinformációk](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-46)\n\n> [!NOTE]\n> A .NET Framework a Windows operációs rendszer egyik összetevője. Az összetevők azonos támogatásban részesülnek azzal a termékkel vagy platformmal, amely alatt működnek."
