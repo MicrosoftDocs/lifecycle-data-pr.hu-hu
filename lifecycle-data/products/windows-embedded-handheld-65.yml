@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows beágyazott kézi 6.5
-  description: A Windows Embedded Handheld 6.5 a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Windows Embedded Handheld 6,5
+  description: A Windows Embedded Handheld 6.5 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71c30eb001e204d63d06c5292d491587d580b83b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856179"
-name: Windows beágyazott kézi 6.5
+name: Windows Embedded Handheld 6,5
 summary: >
-  A Windows Embedded Handheld 6.5 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Windows Embedded Handheld 6.5 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > A támogatás véget ért. Lásd az áttelepítési útmutatót alább.
+  > A támogatás véget ért. Lásd lejjebb az áttelepítési útmutatót.
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 12/17/2010
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Windows IoT dokumentációhoz](/windows/iot-core/)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Windows IoT dokumentációhoz](/windows/iot-core/)"

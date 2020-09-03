@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Phone 7.8
-  description: A Windows Phone 7.8 a rögzített életciklusra vonatkozó irányelveket követi.
+  description: A Windows Phone 7.8 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856178"
 name: Windows Phone 7.8
 summary: >
-  A Windows Phone 7.8 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelveket követi.
+  A Windows Phone 7.8 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért.
+  > A termék támogatása lejárt.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> A Microsoft az életciklus kezdő dátumát követő 18 hónapig elérhetővé teszi a frissítéseket a telefon operációs rendszeréhez, beleértve a biztonsági frissítéseket is. A frissítések terjesztését a mobilszolgáltató vagy az a telefongyártó szabályozhatja, amelytől a telefont vásárolta. A frissítések elérhetősége országonként, régiónként és hardverenként is eltérő lehet."
+content: "\n\n> [!NOTE]\n> A Microsoft az életciklus kezdő dátumát követő 18 hónapig elérhetővé teszi telefonján az operációs rendszer frissítéseit, beleértve a biztonsági frissítéseket is. A frissítések terjesztését a mobilszolgáltató vagy az a telefongyártó szabályozhatja, amelyiktől a telefont vásárolta. A frissítések elérhetősége országonként, régiónként és hardverképességenként is eltérő lesz."

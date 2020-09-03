@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics GP 2013 R2
-  description: A Dynamics GP 2013 R2 a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Dynamics GP 2013 R2 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f760e7be272e419aebd422e96136ef24fff52d9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856073"
 name: Dynamics GP 2013 R2
 summary: >+
-  A Dynamics GP 2013 R2 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Dynamics GP 2013 R2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 08/21/2014
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Linkek \n* [További információk és áttelepítési útmutató](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Termékinformációk](/dynamics-gp/)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [További információk és áttelepítési útmutató](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Termékinformációk](/dynamics-gp/)"
