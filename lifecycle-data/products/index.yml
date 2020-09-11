@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Keresés a termékek és szolgáltatások életciklusának adatai között (előzetes verzió)
+title: Keresés a termékek és szolgáltatások életciklusának adatai között
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Ez az oldal fejlesztés alatt áll, és szeptember 2-án lesz teljesen működőképes. Addig is megtekintheti a Microsoft-termékek teljes listáját a támogatási ütemtervekkel és a részletekkel itt: [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Életciklus-adatok exportálása az [Életciklus exportálása](/lifecycle/export/products) lapról.\n\n\nA Microsoft Lifecycle egységes és kiszámítható irányelveket biztosít a termék teljes élettartama alatt nyújtott támogatáshoz, segítve az ügyfeleket informatikai befektetéseik és környezeteik kezelésében, miközben stratégiailag tervezi a jövőt.\n\n\nKeresse meg alább a Microsoft kereskedelmi termékeinek és szolgáltatásainak listáját, majd válassza ki az eredményt a támogatási és karbantartási határidők, a szükséges frissítések, az áttelepítési információk és a rendszerkövetelmények megkereséséhez."
+summary: "\n> [!NOTE]\n> Életciklus-adatok exportálása az [Életciklus exportálása](/lifecycle/products/export) lapról.\n\n\nA Microsoft Lifecycle egységes és kiszámítható irányelveket biztosít a termék teljes élettartama alatt nyújtott támogatáshoz, segítve az ügyfeleket informatikai befektetéseik és környezeteik kezelésében, miközben stratégiailag tervezi a jövőt.\n\n\nKeresse meg alább a Microsoft kereskedelmi termékeinek és szolgáltatásainak listáját, majd válassza ki az eredményt a támogatási és karbantartási határidők, a szükséges frissítések, az áttelepítési információk és a rendszerkövetelmények megkereséséhez."
 metadata:
-  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
-  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
+  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "899842"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "943036"

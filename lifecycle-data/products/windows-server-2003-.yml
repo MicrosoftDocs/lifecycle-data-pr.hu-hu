@@ -2,13 +2,14 @@
 metadata:
   title: 'Windows Server 2003 '
   description: A Windows Server 2003 a Rögzített Életciklus Szabályzatot követi.
-  ms.date: 08/13/2020
-  ms.openlocfilehash: 3558caf5ca1df8b303629236184460220b5a76e5
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web
+  ms.openlocfilehash: c11990954fd21dad1b968cf849bc9359008c9c07
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "894007"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939596"
 name: 'Windows Server 2003 '
 summary: >+
   A Windows Server 2003 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
@@ -33,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/28/2003
   endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Windows Server 2003 gépek áttelepítésre előkészítése](/azure/migrate/prepare-windows-server-2003-migration)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n* [A Windows Server 2003 rendszerről a Windows Server 2008 rendszerre történő frissítés támogatott elérési útjai](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n\n> [!NOTE]\n> Itanium-alapú rendszerek kezdési időpontja 2003. június 19.\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter (32 bites x86)\n* Datacenter (x64)\n* Datacenter Itanium-alapú rendszerekhez\n* Enterprise (32 bites x86)\n* Enterprise Itanium-alapú rendszerekhez\n* Enterprise X64\n* Standard(32 bites x86)\n* Web"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Windows Server 2003 rendszerről a Windows Server 2008 rendszerre történő frissítés támogatott elérési útjai](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n* [A Windows Server 2003 gépek áttelepítésre előkészítése](/azure/migrate/prepare-windows-server-2003-migration)\n\n> [!NOTE]\n> Itanium-alapú rendszerek kezdési időpontja 2003. június 19.\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter (32 bites x86)\n* Datacenter (x64)\n* Datacenter Itanium-alapú rendszerekhez\n* Enterprise (32 bites x86)\n* Enterprise Itanium-alapú rendszerekhez\n* Enterprise X64\n* Standard(32 bites x86)\n* Web"
