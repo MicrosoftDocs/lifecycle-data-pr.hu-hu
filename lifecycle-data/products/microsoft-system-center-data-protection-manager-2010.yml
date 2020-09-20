@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Adatvédelmi Menedzser 2010
-  description: A Microsoft System Center Data Protection 2010 a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Microsoft System Center Data Protection Manager 2010
+  description: A Microsoft System Center Data Protection Manager 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7534f6aceaf0d1bb13a70109e9df6b5dd07c1153
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822225"
-name: Microsoft System Center Adatvédelmi Menedzser 2010
+name: Microsoft System Center Data Protection Manager 2010
 summary: >+
-  A Microsoft System Center Data Protection 2010 a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Microsoft System Center Data Protection Manager 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"
