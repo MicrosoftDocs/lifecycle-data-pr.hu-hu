@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 6,5
-  description: A Windows Mobile 6,5 a rögzített életciklus-házirendet követi.
+  title: Windows Mobile 6.5
+  description: A Windows Mobile 6.5 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 33efcc83ffb0f417751ab3b65937ba480a5d0ac7
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939744"
-name: Windows Mobile 6,5
+name: Windows Mobile 6.5
 summary: >
-  A Windows Mobile 6,5 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A Windows Mobile 6.5 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
   A következő kiadásokra vonatkozik: Professional, Standard

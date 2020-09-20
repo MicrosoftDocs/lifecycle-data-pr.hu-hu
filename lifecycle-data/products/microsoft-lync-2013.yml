@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Lync 2013
-  description: A Lync 2013 a rögzített életciklus-házirendet követi.
+  description: A Lync 2013 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: SDK,Standard
   ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933343"
 name: Lync 2013
 summary: >+
-  A Lync 2013 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A Lync 2013 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra érvényes: SDK, standard
+  A következő kiadásokra vonatkozik: SDK, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> A Skype vállalati verzió 2015 ügyfélprogramja a Lync 2013 ügyfélprogram frissítése, és ugyanezt a terméket életciklusra fogja követni.\nA Lync 2013 SDK kezdő dátuma február 23., 2013. \n\n## <a name=\"editions\"></a>Kiadások \n* SDK\n* Standard"
+content: "\n\n> [!NOTE]\n> A Skype for Business 2015 Client kiadása a Lync 2013 Client frissítése, és ugyanazt a termékéletciklust követi.\nA Lync 2013 SDK kezdő dátuma 2013. február 23. \n\n## <a name=\"editions\"></a>Kiadások \n* SDK\n* Standard"

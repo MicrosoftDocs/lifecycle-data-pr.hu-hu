@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communicator 2005
-  description: A Microsoft Office Communicator 2005 a rögzített életciklus-házirendet követi.
+  description: A Microsoft Office Communicator 2005 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936266"
 name: Microsoft Office Communicator 2005
-summary: "A Microsoft Office Communicator 2005 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.\n\nA következő kiadásokra vonatkozik: Standard\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. \n"
+summary: "A Microsoft Office Communicator 2005 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.\n\nA következő kiadásokra vonatkozik: Standard\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. \n"
 products:
 - office
 policyType: fixed

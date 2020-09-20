@@ -1,27 +1,27 @@
 ---
 title: Életciklus-alapú adatexportálás
 description: A termékek életciklusával kapcsolatos információk exportálása
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008467"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025032"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="408c9-103">Életciklus-alapú adatexportálás</span><span class="sxs-lookup"><span data-stu-id="408c9-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="d9181-103">Életciklus-alapú adatexportálás</span><span class="sxs-lookup"><span data-stu-id="d9181-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="408c9-104">Ez a lap a fejlesztés alatt áll.</span><span class="sxs-lookup"><span data-stu-id="408c9-104">This page is under development.</span></span>
+> <span data-ttu-id="d9181-104">Ez a lap a fejlesztés alatt áll.</span><span class="sxs-lookup"><span data-stu-id="d9181-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="408c9-105">Az összes termék exportálása</span><span class="sxs-lookup"><span data-stu-id="408c9-105">Export all products</span></span>
-<span data-ttu-id="408c9-106">Az életciklusra vonatkozó összes termék exportálása az alábbi elemekre kattintva:</span><span class="sxs-lookup"><span data-stu-id="408c9-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="d9181-105">Az összes termék exportálása</span><span class="sxs-lookup"><span data-stu-id="d9181-105">Export all products</span></span>
+<span data-ttu-id="d9181-106">Az életciklusra vonatkozó összes termék exportálása az alábbi elemekre kattintva:</span><span class="sxs-lookup"><span data-stu-id="d9181-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="408c9-107">Az összes termék exportálása</span><span class="sxs-lookup"><span data-stu-id="408c9-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="d9181-107">Az összes termék exportálása</span><span class="sxs-lookup"><span data-stu-id="d9181-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="408c9-108">Termékek exportálása család és csoport szerint</span><span class="sxs-lookup"><span data-stu-id="408c9-108">Export products by Family and Group</span></span>
-<span data-ttu-id="408c9-109">Jelöljön ki egy családot, majd egy exportálni kívánt csoportot.</span><span class="sxs-lookup"><span data-stu-id="408c9-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="408c9-110">Megjegyzés: az Exportálás akkor kezdődik, ha a csoport érték van kijelölve.</span><span class="sxs-lookup"><span data-stu-id="408c9-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="d9181-108">Termékek exportálása család és csoport szerint</span><span class="sxs-lookup"><span data-stu-id="d9181-108">Export products by Family and Group</span></span>
+<span data-ttu-id="d9181-109">Jelöljön ki egy családot, majd egy exportálni kívánt csoportot.</span><span class="sxs-lookup"><span data-stu-id="d9181-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="d9181-110">Megjegyzés: az Exportálás akkor kezdődik, ha a csoport érték van kijelölve.</span><span class="sxs-lookup"><span data-stu-id="d9181-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Családi" title2="Csoport"]
 > - [(.NET | Minden](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -83,8 +83,8 @@ ms.locfileid: "1008467"
 > - [(Windows | Biztonsági](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="408c9-171">Termékek exportálása a támogatási dátum lejárta után</span><span class="sxs-lookup"><span data-stu-id="408c9-171">Export products by end of support date</span></span>
-<span data-ttu-id="408c9-172">Jelöljön ki egy évet a támogatás megszűnését elérő termékek megtekintéséhez.</span><span class="sxs-lookup"><span data-stu-id="408c9-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="408c9-173">Megjegyzés: az Exportálás akkor kezdődik, ha az év érték van kijelölve.</span><span class="sxs-lookup"><span data-stu-id="408c9-173">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="d9181-171">Termékek exportálása a támogatási dátum lejárta után</span><span class="sxs-lookup"><span data-stu-id="d9181-171">Export products by end of support date</span></span>
+<span data-ttu-id="d9181-172">Jelöljön ki egy évet a támogatás megszűnését elérő termékek megtekintéséhez.</span><span class="sxs-lookup"><span data-stu-id="d9181-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="d9181-173">Megjegyzés: az Exportálás akkor kezdődik, ha az év érték van kijelölve.</span><span class="sxs-lookup"><span data-stu-id="d9181-173">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
