@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio eszközök a Microsoft Office System 2003-as verziójához
-  description: A Visual Studio Tools for the Microsoft Office System 2003 verziója a Rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Visual Studio Tools for the Microsoft Office System, 2003-as verzió
+  description: A Visual Studio Tools for the Microsoft Office System, 2003-as verzió a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: b877fed2caa81c31462f70f8db36b2ea28ef67e5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821794"
-name: Visual Studio eszközök a Microsoft Office System 2003-as verziójához
+name: Visual Studio Tools for the Microsoft Office System, 2003-as verzió
 summary: >+
-  A Visual Studio Tools for the Microsoft Office System 2003 verziója a Rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Visual Studio Tools for the Microsoft Office System, 2003-as verzió a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:

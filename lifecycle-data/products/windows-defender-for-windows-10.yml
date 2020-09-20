@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Defender windows 10-hez
-  description: A Windows Defender for Windows 10 a komponenséletciklus-szabályzatot követi.
+  title: Windows Defender Windows 10-re
+  description: A Windows Defender Windows 10-re a Komponens Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4bebd1c04c81844b3d0dde309f7fd75b1856fdf6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822164"
-name: Windows Defender windows 10-hez
+name: Windows Defender Windows 10-re
 summary: >+
-  A Windows Defender for Windows [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 10 a komponenséletciklus-szabályzatot követi.
+  A Windows Defender Windows 10-re a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Linkek \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> Ezt a kiadást összetevőnek nevezzük, amely a szülő termék, a Windows 10 életciklusát követi."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> Ezt a kiadást komponensként ismerjük, amely a szülő termékének, a Windows 10-nek az életciklusát követi."

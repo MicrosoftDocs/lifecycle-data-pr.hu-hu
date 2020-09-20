@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: A Windows alapvető alapjai az örökölt számítógépekhez
-  description: A Windows örökölt számítógépekre vonatkozó alapjai a Rögzített életciklus-szabályzatot követik.
+  title: Windows Fundamentals örökölt számítógépekhez
+  description: A Windows Fundamentals örökölt számítógépekre a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821628"
-name: A Windows alapvető alapjai az örökölt számítógépekhez
+name: Windows Fundamentals örökölt számítógépekhez
 summary: >+
-  A Windows örökölt számítógépekre vonatkozó alapjai a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követik.
+  A Windows Fundamentals örökölt számítógépekre a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2006
   endDate: 10/12/2010
-content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ez a termék ugyanazt a támogatási életciklusra vonatkozó irányelvet követi, mint a Windows XP."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ez a termék ugyanazt a Támogatási Életciklus Szabályzatot követi, mint a Windows XP."
