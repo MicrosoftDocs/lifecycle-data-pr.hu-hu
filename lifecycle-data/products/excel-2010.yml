@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Excel 2010
-  description: Az Excel 2010 a rögzített életciklus-házirendet követi.
+  title: Excel 2010 esetén
+  description: Az Excel 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Home and Student,Mobile,Standard
   ms.openlocfilehash: 1ba0a62a05a1e3fd9d8a0833957ca33f3ba8b4fb
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931604"
-name: Excel 2010
+name: Excel 2010 esetén
 summary: >+
-  Az Excel 2010 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  Az Excel 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: otthoni és iskolai, mobil, standard
+  A következő kiadásokra vonatkozik: Home and Student, Mobile, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/DeployOffice/office-2010-end-support-roadmap)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Otthoni és diák\n* Mobile\n* Standard"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/DeployOffice/office-2010-end-support-roadmap)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Otthoni és diák\n* Mobil\n* Standard"

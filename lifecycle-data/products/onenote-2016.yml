@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: OneNote 2016
-  description: A OneNote 2016 a Rögzített életciklusra vonatkozó szabályzatot követi.
+  title: OneNote 2016 esetén
+  description: A OneNote 2016 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 83108e00815fae4b6a914e47cb25f84822cace1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855774"
-name: OneNote 2016
+name: OneNote 2016 esetén
 summary: >+
-  A OneNote 2016 a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A OneNote 2016 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Linkek \n* [Az Ön OneNote -Microsoft Tech közössége](https://techcommunity.microsoft.com/t5/Office-365-Blog/Your-OneNote/ba-p/954922)\n\n> [!NOTE]\n> Az általános támogatás az ábrán látható módon bővült. Menj ide, hogy többet."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Az Ön OneNote -Microsoft Tech közössége](https://techcommunity.microsoft.com/t5/Office-365-Blog/Your-OneNote/ba-p/954922)\n\n> [!NOTE]\n> Alapvető technikai támogatásunkat az itt látható módon kiterjesztettük. Itt többet is megtudhat."

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Publisher 2003
-  description: A Microsoft Office Publisher 2003 a rögzített életciklus-házirendet követi.
+  description: A Microsoft Office Publisher 2003 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Standard,with Digital Imaging
   ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930346"
 name: Microsoft Office Publisher 2003
 summary: >+
-  A Microsoft Office Publisher 2003 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A Microsoft Office Publisher 2003 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: normál, digitális képalkotás
+  Ez a következő kiadásokra vonatkozik: Standard, Digitális képfeldolgozással
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard\n* Digitális képalkotás"
+content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard\n* Digitális képfeldolgozással"

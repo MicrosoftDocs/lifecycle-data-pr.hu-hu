@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2019
-  description: A Microsoft Office 2019 követi a rögzített életciklus-házirendet.
+  description: A Microsoft Office 2019 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
   ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930383"
 name: Microsoft Office 2019
 summary: >+
-  A Microsoft Office 2019 követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  A Microsoft Office 2019 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra érvényes: otthoni és kisvállalati verzió, otthoni és iskolai verzió, személyes, Professional, Professional, Professional Plus, standard
+  Ez a következő kiadásokra vonatkozik: Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Standard
 
 products:
 - office

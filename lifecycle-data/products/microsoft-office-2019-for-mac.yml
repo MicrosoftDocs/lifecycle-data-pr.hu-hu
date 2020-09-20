@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2019 Mac rendszerhez
-  description: A Mac Microsoft Office 2019 követi a rögzített életciklus-házirendet.
+  title: Mac Microsoft Office 2019
+  description: A Mac Microsoft Office 2019 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Student,Standard
   ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930420"
-name: Microsoft Office 2019 Mac rendszerhez
+name: Mac Microsoft Office 2019
 summary: >+
-  A Mac Microsoft Office 2019 követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  A Mac Microsoft Office 2019 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: oktatási, otthoni és vállalati verzió, otthoni és iskolai verzió, standard
+  A következő kiadásokra vonatkozik: Academic, Home and Business, Home and Student, Standard
 
 products:
 - office

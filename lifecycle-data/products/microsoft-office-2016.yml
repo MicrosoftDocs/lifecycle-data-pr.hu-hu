@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2016
-  description: A Microsoft Office 2016 követi a rögzített életciklus-házirendet.
+  description: A Microsoft Office 2016 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
   ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930494"
 name: Microsoft Office 2016
 summary: >+
-  A Microsoft Office 2016 követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  A Microsoft Office 2016 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra érvényes: otthoni és kisvállalati verzió, otthoni és iskolai verzió, személyes, Professional, Professional Plus, standard
+  A következő kiadásokra vonatkozik: Home and Business, Home and Student, Personal, Professional, Professional Plus, Standard
 
 products:
 - office

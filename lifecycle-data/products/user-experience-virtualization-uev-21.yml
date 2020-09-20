@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Felhasználói élmény virtualizáció (UE-V) 2.1
-  description: A Felhasználói élmény virtualizációs (UE-V) 2.1-es szerződése a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: User Experience Virtualization (UE-V) 2.1
+  description: A User Experience Virtualization (UE-V) 2.1 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 728fb01eddd4b9436e2b907665d75a7cf1256887
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855804"
-name: Felhasználói élmény virtualizáció (UE-V) 2.1
+name: User Experience Virtualization (UE-V) 2.1
 summary: >+
-  A Felhasználói élmény virtualizációs (UE-V) 2.1-es szerződése a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A User Experience Virtualization (UE-V) 2.1 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2015
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)"

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 4. kifejezés
-  description: A 4. kifejezés a rögzített életciklus-házirendet követi.
+  title: Expression 4
+  description: Az Expression 4 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930864"
-name: 4. kifejezés
+name: Expression 4
 summary: >+
-  A 4. kifejezés a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  Az Expression 4 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: tervezés, kódoló, Studio Ultimate, web
+  A következő kiadásokra vonatkozik: Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> A Expression Studio Ultimate 4 támogatásának megszűnése az 2015 október 13-i verziója.\n\n## <a name=\"editions\"></a>Kiadások \n* Design\n* Kódoló\n* Studio Ultimate\n* Web"
+content: "\n\n> [!NOTE]\n> 2015. október 13-án megszűnik az Expression Studio Ultimate 4 általános támogatása.\n\n## <a name=\"editions\"></a>Kiadások \n* Design\n* Encoder\n* Studio Ultimate\n* Web"

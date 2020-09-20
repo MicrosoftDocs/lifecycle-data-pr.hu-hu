@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Power BI-munkaterületi gyűjtemény
-  description: Az Azure Power BI-munkaterületi gyűjtemény a modern életciklus-szabályzatot követi.
+  title: 'Azure Power BI munkaterületcsoport '
+  description: Az Azure Power BI munkaterületcsoport a Modern Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855716"
-name: Azure Power BI-munkaterületi gyűjtemény
+name: 'Azure Power BI munkaterületcsoport '
 summary: >
-  Az Azure Power BI-munkaterületi gyűjtemény a [modern](/lifecycle/policies/modern) életciklus-szabályzatot követi.
+  Az Azure Power BI munkaterületcsoport a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > A támogatás véget ért. Lásd az áttelepítési útmutatót alább.
+  > A támogatás véget ért. Lásd lejjebb az áttelepítési útmutatót.
 products:
 - sql-server
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2016
   endDate: 07/30/2018
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

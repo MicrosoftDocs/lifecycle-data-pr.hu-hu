@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Felhő platform rendszer
-  description: A felhő platform rendszere a rögzített életciklus-házirendet követi.
+  title: Felhő Platform Rendszer
+  description: A Cloud Platform System a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932048"
-name: Felhő platform rendszer
+name: Felhő Platform Rendszer
 summary: >+
-  A felhő platform rendszere a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A Cloud Platform System a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
   A következő kiadásokra vonatkozik: Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> A felhőalapú platform rendszerének támogatása úgy érhető el, hogy minden ügyfél számára elérhető legyen a normál életciklusos áttűnési ütemterv.\n> [!NOTE]\n> A Cloud platform System standard az 2017 szeptember 18-án indult.\n\n## <a name=\"editions\"></a>Kiadások \n* Standard"
+content: "\n\n> [!NOTE]\n> A Cloud Platform System támogatása az ábrán látható módon bővül, hogy minden ügyfél számára biztosítsa a standard életciklus átmenet ütemtervét.\n> [!NOTE]\n> 2017. szeptember 18-án indult a Cloud Platform System Standard.\n\n## <a name=\"editions\"></a>Kiadások \n* Standard"

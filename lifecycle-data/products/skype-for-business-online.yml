@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype Vállalati online verzió
-  description: A Skype Vállalati online verzió a modern életciklusra vonatkozó szabályzatot követi.
+  title: Skype for Business Online
+  description: A Skype for Business Online a Modern Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856103"
-name: Skype Vállalati online verzió
+name: Skype for Business Online
 summary: >
-  A Skype Vállalati online verzió a [modern](/lifecycle/policies/modern) életciklusra vonatkozó szabályzatot követi.
+  A Skype for Business Online a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > A szolgáltatás 2021. július 31-én megszűnik. Lásd alább a migrációs útmutatást.
+  > A szolgáltatás 2021. július 31-én megszűnik. Lásd alább az áttelepítési útmutatót.
 products:
 - office
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2015
   endDate: 07/31/2021
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/MicrosoftTeams/upgrade-start-here)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/MicrosoftTeams/upgrade-start-here)"

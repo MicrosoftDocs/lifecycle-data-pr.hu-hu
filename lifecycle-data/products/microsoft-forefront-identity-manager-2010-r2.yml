@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Identity Manager 2010 R2
-  description: A Microsoft Forefront Identity Manager 2010 R2 a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Microsoft Forefront Identity Manager 2010 R2 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 73bd6dedc5fd3618801bd75b09eda9c7bbfaf460
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856026"
 name: Microsoft Forefront Identity Manager 2010 R2
 summary: >+
-  A Microsoft Forefront Identity Manager 2010 R2 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Microsoft Forefront Identity Manager 2010 R2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2012
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Linkek \n* [Szervizcsomag házirendje](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)"
