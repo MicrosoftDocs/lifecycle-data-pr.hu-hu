@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 R2 műveleti vezető
-  description: A Microsoft System Center 2012 R2 Operations Manager a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Microsoft System Center 2012 R2 Operations Manager
+  description: A Microsoft System Center 2012 R2 Operations Manager a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 57db6fbda015c2bbd55d4ec9621ed6cda6948a56
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855786"
-name: Microsoft System Center 2012 R2 műveleti vezető
+name: Microsoft System Center 2012 R2 Operations Manager
 summary: >+
-  A Microsoft System Center 2012 R2 Operations Manager a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Microsoft System Center 2012 R2 Operations Manager a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Linkek \n* [System Center dokumentáció](/system-center/#pivot=components&panel=components-all)\n* [Rendszerközpont-erőforrások](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [System Center Dokumentáció](/system-center/#pivot=components&panel=components-all)\n* [System Center Erőforrások](https://www.microsoft.com/system-center/resources)"

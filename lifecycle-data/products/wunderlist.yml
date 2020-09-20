@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Wunderlista
-  description: A Wunderlist a rögzített életciklusra vonatkozó irányelvet követi.
+  title: Wunderlist
+  description: A Wunderlist a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855789"
-name: Wunderlista
-summary: "A Wunderlist a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.\n\n\n> [!IMPORTANT]\n> A termék támogatására a beszerzés feltételei vonatkoznak. A termék támogatása véget ért. Lásd az áttelepítési útmutatót alább. \n"
+name: Wunderlist
+summary: "A Wunderlist a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.\n\n\n> [!IMPORTANT]\n> A termék támogatásának feltétele, hogy a terméket be kell szereznie. A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/02/2015
   endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"

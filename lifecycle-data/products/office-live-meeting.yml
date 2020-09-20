@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office Live Meeting
-  description: Az Office Live Meeting a modern életciklus-házirendet követi.
+  title: Office Live Értekezlet
+  description: Az Office Live Meeting a Modern Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928903"
-name: Office Live Meeting
-summary: "Az Office Live Meeting a [modern](/lifecycle/policies/modern) életciklus-házirendet követi.\n\nA következő kiadásokra vonatkozik: Standard\n\n> [!IMPORTANT]\n> A szolgáltatás támogatása megszűnt. Lásd lejjebb az áttelepítési útmutatót. \n"
+name: Office Live Értekezlet
+summary: "Az Office Live Meeting a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.\n\nA következő kiadásokra vonatkozik: Standard\n\n> [!IMPORTANT]\n> A szolgáltatás támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót. \n"
 products:
 - office
 policyType: modern-online

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PowerPoint 2011 for Mac
-  description: A Mac PowerPoint 2011 a Rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Mac PowerPoint 2011
+  description: A Mac PowerPoint 2011 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856142"
-name: PowerPoint 2011 for Mac
+name: Mac PowerPoint 2011
 summary: >+
-  A Mac PowerPoint 2011 a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Mac PowerPoint 2011 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> A Microsoft Office for Mac 2011 általános támogatása az ábrán látható módon bővül, hogy minden ügyfél számára biztosítsa a normál életciklus-átmenet ütemtervét"
+content: "\n\n> [!NOTE]\n> A Mac Microsoft Office 2011 általános támogatása az ábrán látható módon bővül, hogy minden ügyfél számára biztosítsa a standard életciklus átmenet ütemtervét."
