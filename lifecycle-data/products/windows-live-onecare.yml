@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Live OneCare
-  description: A Windows Live OneCare a modern életciklus-házirendet követi.
+  description: A Windows Live OneCare a modern életciklus-szabályzatot követi.
   ms.date: 08/19/2020
   ms.openlocfilehash: f37abdbbca933797a22116b3c1aaf794ac0cd1a2
   ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "902790"
 name: Windows Live OneCare
 summary: >+
-  A Windows Live OneCare a [modern](/lifecycle/policies/modern) életciklus-házirendet követi.
+  Az Windows Live OneCare a [modern](/lifecycle/policies/modern) életciklus-szabályzatot követi.
 
 
 products:

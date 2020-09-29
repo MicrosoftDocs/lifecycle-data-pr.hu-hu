@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Forefront Protection 2010 a SharePointhoz
-  description: A SharePoint Forefront Protection 2010 a rögzített életciklus-házirendet követi.
+  title: Forefront Protection 2010 for SharePoint
+  description: A Forefront Protection 2010 for SharePoint a rögzített életciklus-szabályzatot követi.
   ms.date: 08/21/2020
   ms.openlocfilehash: cb0b92034979bf559cc72ac5d6b6302d3e986f39
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908768"
-name: Forefront Protection 2010 a SharePointhoz
+name: Forefront Protection 2010 for SharePoint
 summary: >+
-  A SharePoint Forefront Protection 2010 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A Forefront Protection 2010 for SharePoint a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Megváltozott a biztonsági termékekkel kapcsolatos ütemterv a Forefront brandben. Ez a szorzat az 2015 december 31-én megszűnt."
+content: "\n\n> [!NOTE]\n> A Forefront márkanév alatt található biztonsági termékek ütemterve megváltozott.  A termék támogatása 2015. december 31-től megszűnik.\n\n\n"

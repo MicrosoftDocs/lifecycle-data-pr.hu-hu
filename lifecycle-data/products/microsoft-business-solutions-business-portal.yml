@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions üzleti portál
-  description: A Microsoft Business Solutions Business portálján a fix életciklusra vonatkozó házirendet követik.
+  title: Microsoft Business Solutions Business Portal
+  description: A Microsoft Business Solutions Business Portal a rögzített életciklus-szabályzatot követi.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904188"
-name: Microsoft Business Solutions üzleti portál
+name: Microsoft Business Solutions Business Portal
 summary: >+
-  A Microsoft Business Solutions Business portálján a [fix](/lifecycle/policies/fixed) életciklusra vonatkozó házirendet követik.
+  A Microsoft Business Solutions Business Portal a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
 
 
 products:
@@ -30,4 +30,4 @@ releases:
 - version: Business Solutions Business Portal 1.2
   startDate: 07/18/2003
   endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> A Microsoft Business Solutions üzleti portál 2,5 csak akkor támogatott, ha a nagy síkság 8,0 vagy a Salamon 6,0 használja."
+content: "\n\n> [!NOTE]\n> A Microsoft Business Solutions Business Portal 2.5 csak akkor támogatott, ha a Great Plains 8.0-val vagy a Solomon 6.0-val használták."

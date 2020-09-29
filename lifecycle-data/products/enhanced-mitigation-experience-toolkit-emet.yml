@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Továbbfejlesztett kockázatcsökkentő élmény eszközkészlet (EMET)
-  description: A továbbfejlesztett kockázatcsökkentő élmény eszközkészlet (EMET) követi a rögzített életciklus-házirendet.
+  title: Enhanced Mitigation Experience Toolkit (EMET)
+  description: Az Enhanced Mitigation Experience Toolkit (EMET) a rögzített életciklus-szabályzatot követi.
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905303"
-name: Továbbfejlesztett kockázatcsökkentő élmény eszközkészlet (EMET)
+name: Enhanced Mitigation Experience Toolkit (EMET)
 summary: >+
-  A továbbfejlesztett kockázatcsökkentő élmény eszközkészlet (EMET) követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  Az Enhanced Mitigation Experience Toolkit (EMET) a [rögzített](/lifecycle/policies/fixed)életciklus-szabályzatot követi.
 
 
 products:

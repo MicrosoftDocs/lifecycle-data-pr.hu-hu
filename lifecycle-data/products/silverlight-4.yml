@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Silverlight 4
-  description: A Silverlight 4 a rögzített életciklus-házirendet követi.
+  description: A Silverlight 4 a rögzített életciklus-szabályzatot követi.
   ms.date: 08/19/2020
   ms.openlocfilehash: 9635d31459c8a470c63cc90e216e4237ce7c6ca1
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904177"
 name: Silverlight 4
 summary: >+
-  A Silverlight 4 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A Silverlight 4 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 04/15/2010
   endDate: 01/08/2013
-content: "\n\n> [!NOTE]\n> A Microsoft legalább 12 hónapja értesítést ad az eszközökhöz tartozó támogatás befejezése előtt."
+content: "\n\n> [!NOTE]\n> A Microsoft az eszközök támogatásának megszűnése előtt legalább 12 hónappal tájékoztatást ad ki."
