@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows CE .NET 4.2
-  description: A Windows CE .NET 4.2 a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Windows CE .NET 4.2 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: dbd86942458df27fd56cf1b799feaff49c954e5d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821622"
 name: Windows CE .NET 4.2
 summary: >
-  A Windows CE .NET 4.2 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Windows CE .NET 4.2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért.
+  > A termék támogatása lejárt.
 products:
 - windows
 policyType: fixed

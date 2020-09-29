@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Plus! Digitális média kiadás
-  description: Microsoft Plus! A Digital Media Edition a rögzített életciklusra vonatkozó irányelvet követi.
+  title: Microsoft Plus! Digital Media Edition
+  description: Microsoft Plus! A Digital Media Edition a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70735dde8da269fd12ebf6dabba3dcdbe33fbe76
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821682"
-name: Microsoft Plus! Digitális média kiadás
+name: Microsoft Plus! Digital Media Edition
 summary: >+
-  Microsoft Plus! A Digital Media Edition a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+  Microsoft Plus! A Digital Media Edition a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:

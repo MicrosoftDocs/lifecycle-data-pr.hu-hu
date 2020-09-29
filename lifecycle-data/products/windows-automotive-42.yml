@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Autóipari 4.2
-  description: A Windows Automotive 4.2 követi a rögzített életciklusra vonatkozó irányelveket.
+  title: Windows Automotive 4.2
+  description: A Windows Automotive 4.2 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: a2671ea93a2852928c59d836ed4ebc8412963b61
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821634"
-name: Windows Autóipari 4.2
+name: Windows Automotive 4.2
 summary: >
-  A Windows Automotive 4.2 követi a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelveket.
+  A Windows Automotive 4.2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > A termék támogatása véget ért.
+  > A termék támogatása lejárt.
 products:
 - windows
 policyType: fixed

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure felhőszolgáltatások
-  description: Az Azure Cloud Services a modern életciklus-szabályzatot követi.
+  title: Azure Cloud Services
+  description: Az Azure Cloud Services a Modern Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822557"
-name: Azure felhőszolgáltatások
+name: Azure Cloud Services
 summary: >+
-  Az Azure Cloud Services a [modern](/lifecycle/policies/modern) életciklus-szabályzatot követi.
+  Az Azure Cloud Services a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/27/2008
-content: "\n## <a name=\"links\"></a>Linkek \n* [Az Azure Vendég operációs rendszer támogatása és a megszüntetési szabályzat adatai](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Információ az Azure Guest OS támogathatósági és kivonási szabályzatáról](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

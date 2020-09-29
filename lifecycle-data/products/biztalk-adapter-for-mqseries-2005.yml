@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: BizTalk adapter MQSeries 2005-hez
-  description: BizTalk adapter MQSeries 2005 követi a rögzített életciklus-szabályzat.
+  title: BizTalk Adapter for MQSeries 2005
+  description: A BizTalk Adapter for MQSeries 2005 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: b38f030ecd18a0709313dc96f4237852115cc896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822556"
-name: BizTalk adapter MQSeries 2005-hez
+name: BizTalk Adapter for MQSeries 2005
 summary: >+
-  BizTalk adapter MQSeries 2005 követi a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzat.
+  A BizTalk Adapter for MQSeries 2005 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:

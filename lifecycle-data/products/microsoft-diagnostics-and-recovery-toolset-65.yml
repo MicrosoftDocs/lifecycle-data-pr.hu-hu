@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft diagnosztikai és helyreállítási eszközkészlet 6.5
-  description: A Microsoft Diagnosztikai és helyreállítási eszközkészlet 6.5 a Rögzített életciklus-szabályzatot követi.
+  title: Microsoft Diagnosztikai és Helyreállítási Eszközkészlet 6.5
+  description: A Microsoft Diagnostics and Recovery Toolset 6.5 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1e9cfdf6271094dc9535df33e253f559501416ba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822291"
-name: Microsoft diagnosztikai és helyreállítási eszközkészlet 6.5
+name: Microsoft Diagnosztikai és Helyreállítási Eszközkészlet 6.5
 summary: >+
-  A Microsoft Diagnosztikai és helyreállítási eszközkészlet 6.5 a [Rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A Microsoft Diagnostics and Recovery Toolset 6.5 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:

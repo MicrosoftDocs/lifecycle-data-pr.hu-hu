@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront Server biztonsági felügyeleti konzol
-  description: A Microsoft Forefront Server security management konzolja a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Microsoft Forefront Server Security Management Console
+  description: A Microsoft Forefront Server Security Management Console a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822278"
-name: Microsoft Forefront Server biztonsági felügyeleti konzol
+name: Microsoft Forefront Server Security Management Console
 summary: >+
-  A Microsoft Forefront Server security management konzolja a rögzített életciklusra [vonatkozó](/lifecycle/policies/fixed) szabályzatot követi.
+  A Microsoft Forefront Server Security Management Console a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
