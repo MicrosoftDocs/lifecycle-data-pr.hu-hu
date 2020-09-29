@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Endpoint Configuration Manager
-  description: A Microsoft Endpoint Configuration Manager a modern életciklus-házirendet követi.
+  description: A Microsoft Endpoint Configuration Manager a modern életciklus-szabályzatot követi.
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934046"
 name: Microsoft Endpoint Configuration Manager
 summary: >
-  A Microsoft Endpoint Configuration Manager a [modern](/lifecycle/policies/modern) életciklus-házirendet követi.
+  A Microsoft Endpoint Configuration Manager a [modern](/lifecycle/policies/modern) életciklus-szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > Az 1910-es verziótól kezdve a Configuration Manager a Microsoft Endpoint Manager részét képezi.
+  > Az 1910-es verziótól kezdődően a Configuration Manager már a Microsoft Endpoint Manager része.
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Karbantartási információk](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Verzió részletei](/mem/configmgr/core/servers/manage/updates#version-details)\n* [A System Center Configuration Manager most a Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Korábbi verziók](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Mi az a Konfigurációkezelő?](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Karbantartási információk](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Verzió részletei](/mem/configmgr/core/servers/manage/updates#version-details)\n* [A System Center Configuration Manager mostantól Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Korábbi verziók](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Mi a Configuration Manager](/mem/configmgr/core/understand/introduction)"

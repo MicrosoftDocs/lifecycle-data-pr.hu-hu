@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Virtual Server 2005
-  description: A Virtual Server 2005 követi a rögzített életciklus-házirendet.
+  description: A Virtual Server 2005 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Enterprise,Management Pack,Standard
   ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937894"
 name: Virtual Server 2005
 summary: >+
-  A Virtual Server 2005 követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  A Virtual Server 2005 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra érvényes: Enterprise, Management Pack, standard
+  A következő kiadásokra vonatkozik: Enterprise, Management Pack, Standard
 
 products:
 - windows

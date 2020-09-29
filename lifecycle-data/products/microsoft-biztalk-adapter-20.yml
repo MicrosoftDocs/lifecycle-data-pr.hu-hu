@@ -1,22 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk adapter 2,0
-  description: A Microsoft BizTalk adapter 2,0 követi a rögzített életciklus-házirendet.
+  title: Microsoft BizTalk adapter 2.0
+  description: A Microsoft BizTalk Adapter 2.0 a rögzített életciklus-szabályzatot követi.
   ms.date: 09/01/2020
   keywords: for MSMQ,for mySAP Business Suite,for SAP
   ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934749"
-name: Microsoft BizTalk adapter 2,0
-summary: >+
-  A Microsoft BizTalk adapter 2,0 követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
-
-
-  Ez a következő kiadásokra érvényes: MSMQ, mySAP Business Suite esetén az SAP-hoz
-
+name: Microsoft BizTalk adapter 2.0
+summary: "A Microsoft BizTalk Adapter 2.0 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.\n\nEz a következő kiadásokra vonatkozik: MSMQ-hoz, mySAP Business Suite csomaghoz, SAP-hoz \n\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -28,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/20/2004
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> A Microsoft BizTalk adapter 2,0 az SAP-hoz kezdési dátuma november 2, 2004. Az MSMQ 2,0-hoz használható Microsoft BizTalk adapter kezdési dátuma december 10., 2004\n\n## <a name=\"editions\"></a>Kiadások \n* MSMQ esetén\n* mySAP Business Suite esetén\n* SAP esetén"
+content: "\n\n> [!NOTE]\n> A Microsoft BizTalk Adapter 2.0 SAP-hoz kezdő dátuma 2004. november 2. Az MSMQ 2.0-ás verzióhoz a Microsoft BizTalk adapter kezdő dátuma 2004. december 10.\n\n## <a name=\"editions\"></a>Kiadások \n* MSMQ-hoz\n* mySAP Business Suite csomaghoz\n* SAP-hoz"
