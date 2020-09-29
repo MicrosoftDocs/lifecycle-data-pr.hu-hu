@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SQL Server Management Stúdió
-  description: Az SQL Server Management Studio a modern életciklus-szabályzatot követi.
+  title: SQL Server Management Studio
+  description: Az SQL Server Management Studio a Modern Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: f75480af28215773c8d23bc06a30408940015a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856138"
-name: SQL Server Management Stúdió
+name: SQL Server Management Studio
 summary: >+
-  Az SQL Server Management Studio a [modern](/lifecycle/policies/modern) életciklus-szabályzatot követi.
+  Az SQL Server Management Studio a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 05/27/2016
-content: "\n## <a name=\"links\"></a>Linkek \n* [Karbantartási információk](/sql/ssms/support-policy?view)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Karbantartási információk](/sql/ssms/support-policy?view)"

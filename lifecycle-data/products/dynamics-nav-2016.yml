@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics NAV 2016
-  description: A Dynamics NAV 2016 a rögzített életciklusra vonatkozó szabályzatot követi.
+  description: A Dynamics NAV 2016 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 042bc3506bd9e3d5166567a509ae9cac61fe6fa9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856059"
 name: Dynamics NAV 2016
 summary: >+
-  A Dynamics NAV 2016 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Dynamics NAV 2016 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:

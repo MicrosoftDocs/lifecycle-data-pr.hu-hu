@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: System Center 2016 Orchestrator
-  description: A System Center 2016 Orchestrator a rögzített életciklus-szabályzatot követi.
+  description: A System Center 2016 Orchestrator a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5725bbb0002c3952fb18ff688be105c808e190b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856195"
 name: System Center 2016 Orchestrator
 summary: >+
-  A System Center 2016 Orchestrator a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A System Center 2016 Orchestrator a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:

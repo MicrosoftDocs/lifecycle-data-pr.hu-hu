@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center 2016 Adatvédelem
-  description: A System Center 2016 Adatvédelmi szabályzata a rögzített életciklusra vonatkozó irányelveket követi.
+  title: System Center 2016 Data Protection
+  description: A System Center 2016 Data Protection a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7b2a2ebb813f79280e3a37ee9346697f601538a4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856136"
-name: System Center 2016 Adatvédelem
+name: System Center 2016 Data Protection
 summary: >+
-  A System Center 2016 Adatvédelmi szabályzata a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelveket követi.
+  A System Center 2016 Data Protection a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/28/2016
   endDate: 01/11/2027
-content: "\n## <a name=\"links\"></a>Linkek \n* [Termékinformáció](/system-center/)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termék információ](/system-center/)"

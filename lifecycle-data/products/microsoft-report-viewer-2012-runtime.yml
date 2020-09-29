@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Report Viewer 2012 futásidejű
-  description: A Microsoft Report Viewer 2012 futásidejű szolgáltatása a Rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Microsoft Report Viewer 2012 Runtime
+  description: A Microsoft Report Viewer 2012 Runtime a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0196fc49180deffdca7cde2bb35c0ab53dcb6c01
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856028"
-name: Microsoft Report Viewer 2012 futásidejű
+name: Microsoft Report Viewer 2012 Runtime
 summary: >+
-  A Microsoft Report Viewer 2012 futásidejű szolgáltatása a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A Microsoft Report Viewer 2012 Runtime a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:

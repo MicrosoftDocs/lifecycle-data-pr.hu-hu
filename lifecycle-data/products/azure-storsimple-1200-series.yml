@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure StorSimple 1200 sorozat
-  description: Az Azure StorSimple 1200 sorozat a rögzített életciklus-szabályzatot követi.
+  title: Azure StorSimple 1200-es Sorozat
+  description: Az Azure StorSimple 1200 Series a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82f3a04f6c89120819c1db952a04ddbd45d4f9c9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855717"
-name: Azure StorSimple 1200 sorozat
+name: Azure StorSimple 1200-es Sorozat
 summary: >+
-  Az Azure StorSimple 1200 sorozat a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  Az Azure StorSimple 1200 Series a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/28/2016
-content: "\n## <a name=\"links\"></a>Linkek \n* [Migrációs útmutató](/azure/storage/files/storage-files-migration-storsimple-1200)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/azure/storage/files/storage-files-migration-storsimple-1200)"

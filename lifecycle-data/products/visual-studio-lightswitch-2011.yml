@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio LightSwitch 2011
-  description: A Visual Studio LightSwitch 2011 a rögzített életciklusra vonatkozó irányelvet követi.
+  description: A Visual Studio LightSwitch 2011 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12d219b05d3e82323d3d5d7b6dae25393afc1afb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855964"
 name: Visual Studio LightSwitch 2011
 summary: >+
-  A Visual Studio LightSwitch 2011 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó irányelvet követi.
+  A Visual Studio LightSwitch 2011 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2011
   endDate: 01/11/2022
-content: "\n## <a name=\"links\"></a>Linkek \n* [LightSwitch (Fénykapcsoló)](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Power Alkalmazások](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> A Visual Studio 2015 a Visual Studio utolsó kiadása, amely tartalmazza a LightSwitch eszközt. Javasoljuk, hogy a Microsoft PowerApps-et használjon minden új alkalmazásfejlesztéshez."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [LightSwitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Power Alkalmazások](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> A Visual Studio 2015 a Visual Studio utolsó verziója, amely tartalmazza a LightSwitch eszközt. Az új alkalmazásfejlesztéseknél a Microsoft PowerApps használatát javasoljuk."

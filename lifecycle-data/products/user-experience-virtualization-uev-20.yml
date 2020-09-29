@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Felhasználói élmény virtualizáció (UE-V) 2.0
-  description: A Felhasználói élmény virtualizációs (UE-V) 2.0 a rögzített életciklusra vonatkozó szabályzatot követi.
+  title: User Experience Virtualization (UE-V) 2.0
+  description: A User Experience Virtualization (UE-V) 2.0 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3841751d17e2cfa1ffb201c687291390831cdb8b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856127"
-name: Felhasználói élmény virtualizáció (UE-V) 2.0
+name: User Experience Virtualization (UE-V) 2.0
 summary: >+
-  A Felhasználói élmény virtualizációs (UE-V) 2.0 a [rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.
+  A User Experience Virtualization (UE-V) 2.0 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
