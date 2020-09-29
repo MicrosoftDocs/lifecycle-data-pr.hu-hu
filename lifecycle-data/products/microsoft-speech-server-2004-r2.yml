@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Speech Server 2004 R2
-  description: A Microsoft Speech Server 2004 R2 rendszer követi a rögzített életciklus-házirendet.
+  description: A Microsoft Speech Server 2004 R2 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: d93a0964531bf4fb6b7019880a39fd9a6e07dfa4
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937043"
 name: Microsoft Speech Server 2004 R2
 summary: >+
-  A Microsoft Speech Server 2004 R2 rendszer követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  A Microsoft Speech Server 2004 R2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
   A következő kiadásokra vonatkozik: Vállalati, Standard

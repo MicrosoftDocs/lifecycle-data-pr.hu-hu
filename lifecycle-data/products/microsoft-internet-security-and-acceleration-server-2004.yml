@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft internetes biztonsági és gyorsítási kiszolgáló 2004
-  description: A Microsoft Internet Security and Acceleration Server 2004 a rögzített életciklus-házirendet követi.
+  title: Microsoft Internet Security and Acceleration Server 2004
+  description: A Microsoft Internet Security and Acceleration Server 2004 a rögzített életciklus-szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933491"
-name: Microsoft internetes biztonsági és gyorsítási kiszolgáló 2004
-summary: "A Microsoft Internet Security and Acceleration Server 2004 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.\n\nA következő kiadásokra vonatkozik: Vállalati, Standard\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. \n"
+name: Microsoft Internet Security and Acceleration Server 2004
+summary: "A Microsoft Internet Security and Acceleration Server 2004 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.\n\nA következő kiadásokra vonatkozik: Vállalati, Standard\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. \n"
 products:
 - microsoft-servers
 policyType: fixed

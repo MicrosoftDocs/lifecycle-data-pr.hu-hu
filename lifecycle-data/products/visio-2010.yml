@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2010
-  description: A Visio 2010 követi a rögzített életciklus-házirendet.
+  description: A Visio 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Premium,Professional,Standard
   ms.openlocfilehash: c716322b214c44ce9cfe9f102d9260a24f2d0877
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937857"
 name: Visio 2010
 summary: >+
-  A Visio 2010 követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  A Visio 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra érvényes: Premium, Professional, standard
+  A következő kiadásokra vonatkozik: Premium, Professional, Standard
 
 products:
 - office
