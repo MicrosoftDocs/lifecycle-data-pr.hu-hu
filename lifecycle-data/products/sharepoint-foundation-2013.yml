@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Foundation 2013
-  description: A SharePoint Foundation 2013 a rögzített életciklus-házirendet követi.
+  description: A SharePoint Foundation 2013 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: f3241162e2d2a4953850015a7b1625b07adfbcbf
   ms.sourcegitcommit: 81b08c37762fa90d8258fe5a26c257089bcc981b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "941079"
 name: SharePoint Foundation 2013
 summary: >+
-  A SharePoint Foundation 2013 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A SharePoint Foundation 2013 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Microsoft SharePoint Foundation 2013 fejlesztői dokumentációja](/sharepoint/dev)\n* [A Microsoft SharePoint Foundation 2013 termékdokumentációja](/sharepoint/sharepoint-server)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Microsoft SharePoint Foundation 2013 fejlesztői dokumentáció](/sharepoint/dev)\n* [Microsoft SharePoint Foundation 2013 termék dokumentáció](/sharepoint/sharepoint-server)"

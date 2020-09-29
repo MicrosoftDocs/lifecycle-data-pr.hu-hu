@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Word 2016
-  description: A Word 2016 a rögzített életciklus-házirendet követi.
+  description: A Word 2016 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 65d33fb18d97798011013ff25eedc82583075734
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938634"
 name: Word 2016
 summary: >+
-  A Word 2016 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A Word 2016 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
   A következő kiadásokra vonatkozik: Standard

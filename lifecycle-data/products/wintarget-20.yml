@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: WinTarget 2,0
-  description: A 2,0 WinTarget követi a rögzített életciklus-házirendet.
+  title: WinTarget 2.0
+  description: A WinTarget 2.0 a rögzített életciklus-szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Advanced,Standard
   ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938745"
-name: WinTarget 2,0
+name: WinTarget 2.0
 summary: >+
-  A 2,0 WinTarget követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  A WinTarget 2.0 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
 
 
-  Ez a következő kiadásokra érvényes: Advanced, standard
+  A következő kiadásokra vonatkozik: Advanced, Standard
 
 products:
 - windows

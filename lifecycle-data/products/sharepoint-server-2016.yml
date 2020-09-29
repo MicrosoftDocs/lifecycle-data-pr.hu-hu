@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Server 2016
-  description: A SharePoint Server 2016 a rögzített életciklus-házirendet követi.
+  description: A SharePoint Server 2016 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: 14f1c2b997bd6d39354b686f28c341218d41abc5
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941735"
 name: SharePoint Server 2016
 summary: >+
-  A SharePoint Server 2016 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A SharePoint Server 2016 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Karbantartási információ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> A [termékek](https://docs.microsoft.com/sharepoint/sharepoint-server) és a [fejlesztői](https://developer.microsoft.com/sharepoint/docs) dokumentáció megtekintése"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Karbantartási információ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> Lásd a [termék-](https://docs.microsoft.com/sharepoint/sharepoint-server) és [fejlesztői](https://developer.microsoft.com/sharepoint/docs) dokumentációt."
