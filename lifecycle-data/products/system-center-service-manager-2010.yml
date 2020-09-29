@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: System Center Service Manager 2010
-  description: A System Center Service Manager 2010 a rögzített életciklus-szabályzatot követi.
+  description: A System Center Service Manager 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 844c0319c76e81e57b895549694a67efddc1bccc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822176"
 name: System Center Service Manager 2010
 summary: >+
-  A System Center Service Manager 2010 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A System Center Service Manager 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:

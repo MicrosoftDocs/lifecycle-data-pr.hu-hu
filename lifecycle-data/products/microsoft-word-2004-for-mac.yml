@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Word 2004 for Mac
-  description: A Microsoft Word 2004 for Mac a Rögzített életciklusra vonatkozó szabályzatot követi.
+  title: Mac Microsoft Word 2004
+  description: A Mac Microsoft Word 2004 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 043ba3e5d96ecd646c431b32b300d1d277ba577d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822200"
-name: Microsoft Word 2004 for Mac
-summary: "A Microsoft Word 2004 for Mac a [Rögzített](/lifecycle/policies/fixed) életciklusra vonatkozó szabályzatot követi.\n\n\n> [!IMPORTANT]\n> A termék támogatása véget ért. \n"
+name: Mac Microsoft Word 2004
+summary: "A Mac Microsoft Word 2004 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.\n\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. \n"
 products:
 - office
 policyType: fixed-mainstream-only
