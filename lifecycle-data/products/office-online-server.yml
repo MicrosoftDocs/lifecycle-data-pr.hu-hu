@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office Online Server
-  description: Az Office Online Server a modern életciklusra vonatkozó szabályzatot követi.
+  title: Office Online Kiszolgáló
+  description: Az Office Online Server a Modern Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 953cd5a923a96f676bc0204fc7c9419e95889496
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855808"
-name: Office Online Server
+name: Office Online Kiszolgáló
 summary: >+
-  Az Office Online Server a [modern](/lifecycle/policies/modern) életciklusra vonatkozó szabályzatot követi.
+  Az Office Online Server a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
 products:

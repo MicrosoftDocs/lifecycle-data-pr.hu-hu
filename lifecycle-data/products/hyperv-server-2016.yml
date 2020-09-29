@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Hyper-V Server 2016
-  description: A Hyper-V Server 2016 a rögzített életciklus-szabályzatot követi.
+  description: A Hyper-V Server 2016 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6f2d6eed9e7780fef8b8e6aba52ee70474f636c7
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855944"
 name: Hyper-V Server 2016
 summary: >+
-  A Hyper-V Server 2016 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
+  A Hyper-V Server 2016 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:

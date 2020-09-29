@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visio online terv 2
-  description: A Visio Online 2-es csomag a modern életciklusra vonatkozó szabályzatot követi.
+  title: Visio Online Plan 2
+  description: A Visio Online Plan 2 a Modern Életciklus Szabályzatot követik.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5320f94b79e36743b0fb70999b363dd7f5466fb6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856015"
-name: Visio online terv 2
+name: Visio Online Plan 2
 summary: >+
-  A Visio Online 2-es csomag a [modern](/lifecycle/policies/modern) életciklusra vonatkozó szabályzatot követi.
+  A Visio Online Plan 2 a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
 products:
