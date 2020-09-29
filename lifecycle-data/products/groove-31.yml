@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Groove 3,1
-  description: A Groove 3,1 a rögzített életciklus-házirendet követi.
+  title: Groove 3.1
+  description: A Groove 3.1 a rögzített életciklus-szabályzatot követi.
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
   ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
   ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "950843"
-name: Groove 3,1
+name: Groove 3.1
 summary: >+
-  A Groove 3,1 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A Groove 3.1 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
 
 
-  Ez a következő kiadásokra érvényes: Enterprise Backup Service, Enterprise Data Bridge, Enterprise Relay Server, hosztolt felügyeleti szolgáltatások, hosztolt továbbító szolgáltatások, Office Project, virtuális Office-fájlmegosztás, virtuális Office Professional, Web Services Development Kit
+  A következő kiadásokra vonatkozik: Enterprise Backup Service, Enterprise Data Bridge, Enterprise Relay Server, Hosted Management Services, Hosted Relay Services, Office Project, Virtual Office File Sharing, Virtual Office Professional, Web Services Development Kit
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2004
   endDate: 04/16/2010
-content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Nagyvállalati biztonsági mentési szolgáltatás\n* Enterprise Data Bridge\n* Nagyvállalati továbbító kiszolgáló\n* Hosztolt kezelési szolgáltatások\n* Hosztolt továbbító szolgáltatások\n* Office Project\n* Virtuális Office-fájlmegosztás\n* Virtuális Office Professional\n* Web Services Development Kit"
+content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise Backup Service\n* Enterprise Data Bridge\n* Enterprise Relay Server\n* Hosted Management Services\n* Hosted Relay Services\n* Office Project\n* Virtual Office File Sharing\n* Virtual Office Professional\n* Web Services Development Kit"

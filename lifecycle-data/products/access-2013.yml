@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Access 2013
-  description: Az Access az 2013 a rögzített életciklus-házirendet követi.
+  description: Az Access 2013 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: e58d73b8c3d5757d5cddded295cc06f773df46d8
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940040"
 name: Access 2013
 summary: >+
-  Az Access az 2013 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  Az Access 2013 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
   A következő kiadásokra vonatkozik: Standard
