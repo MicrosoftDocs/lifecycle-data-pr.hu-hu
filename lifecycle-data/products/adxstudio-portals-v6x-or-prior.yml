@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Adxstudio-portálok v6. x vagy korábbi
-  description: A Adxstudio-portálok v6. x vagy korábbi követi a rögzített életciklus-házirendet.
+  title: Adxstudio Portals v6.x vagy korábbi
+  description: Az Adxstudio Portals v6.x vagy korábbi verzió a rögzített életciklus-szabályzatot követi.
   ms.date: 08/28/2020
   ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924380"
-name: Adxstudio-portálok v6. x vagy korábbi
+name: Adxstudio Portals v6.x vagy korábbi
 summary: >+
-  A Adxstudio-portálok v6. x vagy korábbi követi a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet.
+  Az Adxstudio Portals v6.x vagy korábbi verzió a [rögzített](/lifecycle/policies/fixed)életciklus-szabályzatot követi.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2015
   endDate: 04/12/2016
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Életciklussal kapcsolatos gyakori kérdések – akvizíciók](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> A termékek támogatásának feltételei az akvizíció feltételei, valamint a lejártak."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Az életciklusra vonatkozó gyakori kérdések – Beszerzések](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> A termék támogatása beszerzésének feltételeitől függ, és lejárt."

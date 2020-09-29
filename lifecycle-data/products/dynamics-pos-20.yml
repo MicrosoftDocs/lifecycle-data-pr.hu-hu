@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics POS 2,0
-  description: A Dynamics POS 2,0 a rögzített életciklus-házirendet követi.
+  title: Dynamics POS 2.0
+  description: A Dynamics POS 2.0 a rögzített életciklus-szabályzatot követi.
   ms.date: 08/19/2020
   ms.openlocfilehash: 3d3243b12c58bd8aa66c9dbb674fa5a471a3407e
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "904915"
-name: Dynamics POS 2,0
+name: Dynamics POS 2.0
 summary: >+
-  A Dynamics POS 2,0 a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A Dynamics POS 2.0 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
 
 
 products:

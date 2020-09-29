@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365-elrendezés
-  description: A Dynamics 365 elrendezés követi a modern életciklus-házirendet.
+  title: Dynamics 365 Layout
+  description: A Dynamics 365 Layout a Modern Életciklus Szabályzatot követi.
   ms.date: 08/12/2020
   ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891845"
-name: Dynamics 365-elrendezés
+name: Dynamics 365 Layout
 summary: >+
-  A Dynamics 365 elrendezés követi a [modern](/lifecycle/policies/modern) életciklus-házirendet.
+  A Dynamics 365 Layout a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Linkek \n* [Elrendezés és távoli segítség](/dynamics365/mixed-reality/layout/faq)\n* [A Dynamics 365-elrendezés áttérésének bejelentése](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Elrendezés és távsegéd](/dynamics365/mixed-reality/layout/faq)\n* [A Dynamics 365 Layout áttérésének bejelentése](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Edge
-  description: A Microsoft Edge követi a modern életciklus-házirendet.
+  description: A Microsoft Edge a modern életciklus szabályzatot követi.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2d9e751a4612eaa04e995711449c2c2851b5db72
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905875"
 name: Microsoft Edge
 summary: >
-  A Microsoft Edge követi a [modern](/lifecycle/policies/modern) életciklus-házirendet.
+  A Microsoft Edge a [modern](/lifecycle/policies/modern) életciklus szabályzatot követi.
 
 
 
   > [!IMPORTANT]
 
-  > Felhívjuk a figyelmét arra, hogy a szorzat korábbi verziója március 9-én ér véget a 2021. További információért  [olvassa el ezt a](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) témakört.
+  > Ezúton tájékoztatjuk, hogy a termék régebbi verziójának támogatása 2021. március 9. után nem elérhető. További részletek   [itt](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) találhatók.
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -26,4 +26,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/15/2020
-content: "\n## <a name=\"links\"></a>Linkek \n* [Microsoft Edge által támogatott operációs rendszerek](/deployedge/microsoft-edge-supported-operating-systems)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Microsoft Edge által támogatott operációs rendszerek](/deployedge/microsoft-edge-supported-operating-systems)"

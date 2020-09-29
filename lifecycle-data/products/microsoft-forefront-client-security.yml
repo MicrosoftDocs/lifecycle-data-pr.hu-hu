@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Client Security
-  description: A Microsoft Forefront Client Security a rögzített életciklus-házirendet követi.
+  description: A Microsoft Forefront Client Security a rögzített életciklus-szabályzatot követi.
   ms.date: 08/28/2020
   ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924258"
 name: Microsoft Forefront Client Security
 summary: >+
-  A Microsoft Forefront Client Security a [rögzített](/lifecycle/policies/fixed) életciklus-házirendet követi.
+  A Microsoft Forefront Client Security a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Végpont-védelem a System Center alkalmazásban](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> A Forefront Client Security megszűnt a július 14., 2015. Az antimalware-és antispyware-definíciók frissítései a továbbiakban nem lesznek elérhetők a termékek verziójának támogatása után. Kérjük, értékelje ki a System Center Endpoint Protectiont csereként."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> 2015. július 14-től megszűnt a Forefront Client Security. A kártevőirtó és kémprogram-elhárító definíciós frissítések a termékverzió támogatásának megszűnését követően már nem lesznek elérhetők. Kérjük, értékelje ki a System Center Endpoint Protection-t helyettesítőként."

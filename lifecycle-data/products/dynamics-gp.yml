@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics GP
-  description: A Dynamics GP a modern életciklus-szabályzatot követi.
+  description: A Dynamics GP a Modern Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2eb777e87a54e4dd08f495ac1f08ac4adf83a6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869957"
 name: Dynamics GP
 summary: >+
-  A Dynamics GP a [modern](/lifecycle/policies/modern) életciklus-szabályzatot követi.
+  A Dynamics GP a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/07/2019
   endDate: 01/11/2028
-content: "\n## <a name=\"links\"></a>Linkek \n* [A Microsoft Dynamics 365 ütemterve](https://aka.ms/businessappsreleasenotes)\n* [Karbantartási információk](/dynamics-gp/terms/lifecycle)"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Microsoft Dynamics 365 ütemterve](https://aka.ms/businessappsreleasenotes)\n* [Karbantartási információk](/dynamics-gp/terms/lifecycle)"
