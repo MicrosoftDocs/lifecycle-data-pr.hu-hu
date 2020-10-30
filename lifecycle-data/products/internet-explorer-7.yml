@@ -2,13 +2,14 @@
 metadata:
   title: Internet Explorer 7
   description: Az Internet Explorer 7 a Komponens Életciklus Szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 10/05/2020
+  keywords: 
+  ms.openlocfilehash: e9a0e815b920011e15e4da8e58158c45e7971cd0
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "822370"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162669"
 name: Internet Explorer 7
 summary: >+
   Az Internet Explorer 7 a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
@@ -19,7 +20,8 @@ products:
 policyType: component
 supportDates:
   start: 10/18/2006
+  end: 10/10/2023
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://www.microsoft.com/itpro/microsoft-edge)\n* [Gyakori kérdések az Internet Explorer életciklus szabályzatáról](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 2016. január 12-től csak a támogatott operációs rendszerekhez elérhető Internet Explorer legújabb verziója kap technikai támogatást és biztonsági frissítéseket."
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Gyakori kérdések az Internet Explorer életciklus szabályzatáról](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Az Internet Explorer 7 a Windows Embedded Compact 7 és a Windows Embedded Compact 2013 egyik összetevője, és ugyanazt az életciklust követi. \n> [!NOTE]\n> 2016. január 12-től csak a támogatott operációs rendszerekhez elérhető Internet Explorer legújabb verziója kap technikai támogatást és biztonsági frissítéseket."
