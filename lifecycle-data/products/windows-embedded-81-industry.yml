@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Életciklus GYIK – Windows termékek](https://support.microsoft.co/help/18581)\n* [Windows Embedded 8.1 GYIK](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise\n* Pro\n* Tesztcélú telepítés"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Életciklus GYIK – Windows termékek](https://support.microsoft.co/help/18581)\n* [Windows Embedded 8.1 GYIK](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise\n* Pro\n* Sideloading"
