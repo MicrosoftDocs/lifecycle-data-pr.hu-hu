@@ -15,7 +15,7 @@ summary: >+
   Az SQL Server 2014 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Üzleti intelligencia, Developer, Enterprise, Enterprise Core, Express, Standard, Web
+  A következő kiadásokra vonatkozik: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standard, Web
 
 products:
 - sql-server
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Üzleti intelligencia\n* Developer\n* Enterprise\n* Enterprise Core\n* Expressz\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"

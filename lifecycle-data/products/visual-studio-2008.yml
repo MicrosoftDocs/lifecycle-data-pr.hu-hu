@@ -15,7 +15,7 @@ summary: >+
   A Visual Studio 2008 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Összes, Pro w/MSDN Premium, Professional, Professional w/MSDN , Team Suite, Team terheléstesztelő ügynök, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
+  A következő kiadásokra vonatkozik: Összes, Pro w/MSDN Premium, Professional, Professional w/MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tartalmazza a Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express és Visual Studio Team System kiadásokat\n\n## <a name=\"editions\"></a>Kiadások \n* Minden\n* Pro w/MSDN Prémium\n* Professional\n* Professional w/MSDN \n* Team Suite\n* Team terheléstesztelő ügynök\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tartalmazza a Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express és Visual Studio Team System kiadásokat\n\n## <a name=\"editions\"></a>Kiadások \n* Összes\n* Pro w/MSDN Premium\n* Professional\n* Professional w/MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

@@ -15,7 +15,7 @@ summary: >
   A Windows Mobile 2003 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Pocket PC-re, okostelefonokra, Second Edition szoftver Pocket PC Telefonhoz, Second Edition szoftver okostelefonhoz
+  Ez a következő kiadásokra vonatkozik: for Pocket PC, for Smartphones, Second Edition software for Pocket PC Phone, Second Edition software for Smartphone
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Pocket PC-re\n* okostelefonokra\n* Second Edition szoftver Pocket PC telefonra\n* Second Edition szoftver okostelefonra"
+content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* for Pocket PC\n* for Smartphones\n* Second Edition software for Pocket PC Phone\n* Second Edition software for Smartphone"

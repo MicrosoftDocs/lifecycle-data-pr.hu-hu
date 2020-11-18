@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> A termék támogatása megszűnt. Lásd alább az áttelepítési útmutatót.\n\n## <a name=\"editions\"></a>Kiadások \n* 32 Bit\n* 64 Bit\n* Basic\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Munkacsoport"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> A termék támogatása megszűnt. Lásd alább az áttelepítési útmutatót.\n\n## <a name=\"editions\"></a>Kiadások \n* 32 Bit\n* 64 Bit\n* Basic\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"

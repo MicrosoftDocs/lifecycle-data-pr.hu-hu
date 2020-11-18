@@ -15,7 +15,7 @@ summary: >+
   A Office XP a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Developer, Professional, Ellenőrző eszközök, Standard, webösszetevők
+  A következő kiadásokra vonatkozik: Developer, Professional, Proofing Tools, Standard, Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Developer\n* Professional\n* Ellenőrző eszközök\n* Standard\n* Webösszetevők"
+content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Developer\n* Professional\n* Proofing Tools\n* Standard\n* Web Components"

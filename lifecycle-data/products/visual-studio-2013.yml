@@ -15,7 +15,7 @@ summary: >+
   A Visual Studio 2013 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Agents, összes, Community, Express for Web, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modellező SDK, Multibyte MFC Library, Premium, Professional, Kiadáskezelés, Távirányító eszközök, SDK, Rendszerhéj (Integrált), Rendszerhéj (Izolált), Team Explorer, Test Professional, Ultimate, Visual C++ Újra terjeszthető csomag, Webeszközök bővítményei
+  A következő kiadásokra vonatkozik: Agents, összes, Community, Express for Web, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Karbantartási információk](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Minden\n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Modellező SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Kiadáskezelés\n* Távirányító eszközök\n* SDK\n* Rendszerhéj (Integrált)\n* Rendszerhéj (Izolált)\n* Team Explorer\n* Test Professional\n* Ultimate\n* A Visual C++ Terjeszthető\n* Webeszközök bővítményei"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Karbantartási információk](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Agents\n* Összes\n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

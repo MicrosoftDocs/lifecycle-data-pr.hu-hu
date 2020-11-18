@@ -15,7 +15,7 @@ summary: >
   A Visual Studio Team System 2008 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Összes, Architecture, Database, Development, Team Explorer, Team terheléstesztelő ügynök, TFS
+  A következő kiadásokra vonatkozik: Összes, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Áttelepítési útmutató](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Minden\n* Architecture\n* Adatbázis\n* Fejlesztés\n* Team Explorer\n* Team terheléstesztelő ügynök\n* TFS"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Áttelepítési útmutató](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Összes\n* Architecture\n* Adatbázis\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"

@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
-  description: A Microsoft Application Virtualization Hosting 4.6 Windows Asztali számítógépekre a Rögzített Életciklus Szabályzatot követi.
+  description: A Microsoft Application Virtualization Hosting 4.6 for Windows Desktops a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
   ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "935452"
 name: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
 summary: >+
-  A Microsoft Application Virtualization Hosting 4.6 Windows Asztali számítógépekre a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
+  A Microsoft Application Virtualization Hosting 4.6 for Windows Desktops a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Windows asztali gépekre
+  Ez a következő kiadásokra vonatkozik: for Windows Desktops
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termék- és áttelepítési információk](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mivel az App-V 4.6 ügyfél az App-V 4.5 Servert használja, az App-V 4.5 Server továbbra is támogatott lesz az App-V 4.6 életciklus dátumainak megfelelően, ha azt a támogatott App-V 4.6 ügyféllel használja.\n\n## <a name=\"editions\"></a>Kiadások \n* Windows asztali számítógépek esetén"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termék- és áttelepítési információk](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mivel az App-V 4.6 ügyfél az App-V 4.5 Servert használja, az App-V 4.5 Server továbbra is támogatott lesz az App-V 4.6 életciklus dátumainak megfelelően, ha azt a támogatott App-V 4.6 ügyféllel használja.\n\n## <a name=\"editions\"></a>Kiadások \n* for Windows Desktops"

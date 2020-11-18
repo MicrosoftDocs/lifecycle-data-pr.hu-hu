@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.5 Windows asztali gépekre
-  description: A Microsoft Application Virtualization Hosting 4.5 Windows asztali gépekre a Rögzített Életciklus Szabályzatot követi.
+  title: Microsoft Application Virtualization Hosting 4.5 for Windows Desktops
+  description: A Microsoft Application Virtualization Hosting 4.5 for Windows Desktops a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
   ms.openlocfilehash: 50fe924f5e1b5968a41beea54c1cc30d5df28434
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935489"
-name: Microsoft Application Virtualization Hosting 4.5 Windows asztali gépekre
+name: Microsoft Application Virtualization Hosting 4.5 for Windows Desktops
 summary: >
-  A Microsoft Application Virtualization Hosting 4.5 Windows asztali gépekre a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
+  A Microsoft Application Virtualization Hosting 4.5 for Windows Desktops a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Windows asztali gépekre
+  Ez a következő kiadásokra vonatkozik: for Windows Desktops
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termék- és áttelepítési információk](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Windows asztali számítógépek esetén"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termék- és áttelepítési információk](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* for Windows Desktops"
