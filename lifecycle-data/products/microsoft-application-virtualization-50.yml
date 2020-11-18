@@ -15,7 +15,7 @@ summary: >+
   A Microsoft Application Virtualization 5.0 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Távoli asztali szolgáltatásokra, Terminál szolgáltatásokra, Windows asztali számítógépekre
+  Ez a következő kiadásokra vonatkozik: for Remote Desktop Services, for Terminal Services, for Windows Desktops
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termékinformációk](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* távoli asztali szolgáltatásokhoz\n* Terminál szolgáltatásokra\n* Windows asztali számítógépek esetén"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termékinformációk](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* for Remote Desktop Services\n* for Terminal Services\n* for Windows Desktops"

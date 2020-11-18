@@ -15,7 +15,7 @@ summary: >+
   A Microsoft Connected Services Framework 3.0 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Számlázás standard üzleti esemény, rendeléskezelés standard üzleti esemény, kiszolgáló, standard, standard kiszolgáló standard üzleti eseményekkel
+  A következő kiadásokra vonatkozik: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server with Standard Business Events
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Számlázás standard üzleti esemény\n* Rendeléskezelés standard üzleti esemény\n* Kiszolgáló\n* Standard\n* Standard kiszolgáló standard üzleti eseményekkel"
+content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* Server\n* Standard\n* Standard Server with Standard Business Events"

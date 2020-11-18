@@ -15,7 +15,7 @@ summary: >+
   A Microsoft Lync Server 2013 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Enterprise, Állandó csevegő szoftverfejlesztő készlet, Telefon, SDK, Standard
+  A következő kiadásokra vonatkozik: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termékinformációk](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> A Lync Server 2010 és a Lync Server 2013 támogatja a Lync Phone Edition alkalmazást. A Lync Phone Edition támogatási dátuma két évvel meghosszabbodott, hogy igazodjon a Lync Server 2013 életciklusához.\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise\n* Állandó csevegő szoftverfejlesztő készlet\n* Telefon\n* SDK\n* Standard"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termékinformációk](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> A Lync Server 2010 és a Lync Server 2013 támogatja a Lync Phone Edition alkalmazást. A Lync Phone Edition támogatási dátuma két évvel meghosszabbodott, hogy igazodjon a Lync Server 2013 életciklusához.\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise\n* Persistent Chat Software Development Kit\n* Phone\n* SDK\n* Standard"

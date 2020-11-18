@@ -15,7 +15,7 @@ summary: >+
   A Dynamics 365 for Talent a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Előkészítés
+  A következő kiadásokra vonatkozik: Onboard
 
 products:
 - dynamics
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Rendszer követelmények](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Áttelepítési útmutató](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> A Bevezetés és Előkészítés alkalmazások 2022. február 2-án megszűnnek.  2020. február 1-jén a Core HR Dynamics 365 Human Resources néven újra lett indítva, további információkért lásd az áttelepítési útmutatót.\n\n## <a name=\"editions\"></a>Kiadások \n* Előkészítés"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Rendszerkövetelmények](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Áttelepítési útmutató](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Az Attract és az Onboard alkalmazások 2022. február 2-án megszűnnek.  2020. február 1-jén a Core HR Dynamics 365 Human Resources néven újra lett indítva, további információkért lásd az áttelepítési útmutatót.\n\n## <a name=\"editions\"></a>Kiadások \n* Onboard"

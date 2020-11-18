@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001779"
 name: Microsoft Office Communications Server 2007 R2
-summary: "A Microsoft Office Communications Server 2007 R2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.\n\nA következő kiadásokra vonatkozik: Összes alkalmazható, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. Lásd az áttelepítési útmutatót. \n"
+summary: "A Microsoft Office Communications Server 2007 R2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.\n\nA következő kiadásokra vonatkozik: Minden megfelelő kiadásra, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. Lásd az áttelepítési útmutatót. \n"
 products:
 - office
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> A 2009.09.28-án kiadott XMPP Gateway.\n\n## <a name=\"editions\"></a>Kiadások \n* Összes alkalmazható\n* Enterprise\n* XMPP Gateway"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> A 2009.09.28-án kiadott XMPP Gateway.\n\n## <a name=\"editions\"></a>Kiadások \n* Minden megfelelő kiadásra\n* Enterprise\n* XMPP Gateway"

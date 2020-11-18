@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2008 R2 párhuzamos adatraktár
-  description: A Microsoft SQL Server 2008 R2 párhuzamos adatraktár a Rögzített Életciklus Szabályzatot követi.
+  title: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
+  description: A Microsoft SQL Server 2008 R2 Parallel Data Warehouse a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
@@ -9,9 +9,9 @@ metadata:
   ms.contentlocale: hu-HU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821905"
-name: Microsoft SQL Server 2008 R2 párhuzamos adatraktár
+name: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
 summary: >+
-  A Microsoft SQL Server 2008 R2 párhuzamos adatraktár a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
+  A Microsoft SQL Server 2008 R2 Parallel Data Warehouse a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:

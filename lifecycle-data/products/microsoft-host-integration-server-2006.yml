@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933787"
 name: Microsoft Host Integration Server 2006
-summary: "A Microsoft Host Integration Server 2006 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.\n\nA következő kiadásokra vonatkozik: Fejlesztői, Standard\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót. \n"
+summary: "A Microsoft Host Integration Server 2006 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.\n\nA következő kiadásokra vonatkozik: Developer, Standard\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót. \n"
 products:
 - microsoft-servers
 policyType: fixed

@@ -35,4 +35,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Kiszolgáló Frissítési információ](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Basic\n* Basic 32-Bit\n* Basic 64-bit\n* Basic Embedded\n* Basic Embedded 32-bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Munkacsoport"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Kiszolgáló Frissítési információ](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Basic\n* Basic 32-Bit\n* Basic 64-bit\n* Basic Embedded\n* Basic Embedded 32-bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"

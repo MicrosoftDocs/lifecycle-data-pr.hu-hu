@@ -15,7 +15,7 @@ summary: >+
   A Microsoft Office 2003 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Basic, Professional, Professional Enterprise, Kisvállalati, Standard, Diák és tanár, Webösszetevők
+  A következő kiadásokra vonatkozik: Basic, Professional, Professional Enterprise, Small Business, Standard, Student and Teacher, Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Basic\n* Professional\n* Professional Enterprise\n* Kisvállalati\n* Standard\n* Diák és tanár\n* Webösszetevők"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Basic\n* Professional\n* Professional Enterprise\n* Small Business\n* Standard\n* Student and Teacher\n* Web Components"

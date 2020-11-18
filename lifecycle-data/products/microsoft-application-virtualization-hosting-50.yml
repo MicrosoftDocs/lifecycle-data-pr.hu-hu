@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 5.0 Windows asztali gépekre
+  title: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops
   description: A Microsoft Application Virtualization Hosting 5.0 for Windows Desktops a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: hu-HU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935378"
-name: Microsoft Application Virtualization Hosting 5.0 Windows asztali gépekre
+name: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops
 summary: >+
   A Microsoft Application Virtualization Hosting 5.0 for Windows Desktops a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Windows asztali gépekre
+  Ez a következő kiadásokra vonatkozik: for Windows Desktops
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termékinformációk](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Windows asztali számítógépek esetén"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termékinformációk](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* for Windows Desktops"

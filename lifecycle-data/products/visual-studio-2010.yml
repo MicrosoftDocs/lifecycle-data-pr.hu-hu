@@ -15,7 +15,7 @@ summary: >+
   A Visual Studio 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Agents, Összes, ASP .NET MVC 4, Express, F# 2.0 Futtatókörnyezet, Lab Management, Teljesítményfokozó eszközök, Premium, Professional, Professional w/MSDN, PSM, Távoli hibakereső, SDK, Shell (Integrált), Shell (Izolált), Team Agents, Team Explorer, Test Professional, Eszközök az Irodai Rendszerhez 4.0 Futtatókörnyezet, Ultimate, Ultimate az MSDN-nel, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+  A következő kiadásokra vonatkozik: Agents, Összes, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Minden\n* ASP .NET MVC 4\n* Expressz\n* F# 2.0 Futtatókörnyezet\n* Lab Management\n* Teljesítménynövelő eszközök\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Távoli Hibakereső\n* SDK\n* Rendszerhéj (Integrált)\n* Rendszerhéj (Izolált)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Eszközök az Office System 4.0 futtatókörnyezetéhez\n* Ultimate\n* Ultimate az MSDN-nel\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Vizualizáció és modellezés SDK"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Agents\n* Összes\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performance Tools\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Remote Debugger\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools for Office System 4.0 Runtime\n* Ultimate\n* Ultimate with MSDNl\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

@@ -15,7 +15,7 @@ summary: >
   A Windows XP a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Otthoni, Professional, Professional Beágyazott Rendszerekhez, Professional x64, Indító
+  A következő kiadásokra vonatkozik: Home, Professional, Professional for Embedded Systems, Professional x64, Starter
 
 
   > [!IMPORTANT]
@@ -44,4 +44,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A Microsoft Windows XP Professional x64 Edition kezdő dátuma 2005. április 24.\n\n## <a name=\"editions\"></a>Kiadások \n* Otthoni verzió\n* Professional\n* Professional Beágyazott Rendszerekhez\n* Professional x64\n* Indító"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A Microsoft Windows XP Professional x64 Edition kezdő dátuma 2005. április 24.\n\n## <a name=\"editions\"></a>Kiadások \n* Home\n* Professional\n* Professional for Embedded Systems\n* Professional x64\n* Starter"

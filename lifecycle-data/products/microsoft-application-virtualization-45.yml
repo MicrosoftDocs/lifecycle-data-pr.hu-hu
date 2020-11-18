@@ -15,7 +15,7 @@ summary: >
   A Microsoft Application Virtualization 4.5 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  Ez a következő kiadásokra vonatkozik: Terminal Services, Windows asztali számítógépekre
+  Ez a következő kiadásokra vonatkozik: for Terminal Services, for Windows Desktops
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mivel az App-V 4.6 ügyfél az App-V 4.5 Servert használja, az App-V 4.5 Server továbbra is támogatott lesz az App-V 4.6 életciklus dátumainak megfelelően, ha azt a támogatott App-V 4.6 ügyféllel használja.\n\n## <a name=\"editions\"></a>Kiadások \n* Terminál szolgáltatásokra\n* Windows asztali számítógépek esetén"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mivel az App-V 4.6 ügyfél az App-V 4.5 Servert használja, az App-V 4.5 Server továbbra is támogatott lesz az App-V 4.6 életciklus dátumainak megfelelően, ha azt a támogatott App-V 4.6 ügyféllel használja.\n\n## <a name=\"editions\"></a>Kiadások \n* for Terminal Services\n* for Windows Desktops"

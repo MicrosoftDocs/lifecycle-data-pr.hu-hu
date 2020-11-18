@@ -15,7 +15,7 @@ summary: >+
   A Visual Studio 2012 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Ügynökök, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Eszközök, Premium, Professional, Távirányító eszközök, Rendszerhéj (Integrált), Rendszerhéj (Izolált), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Terjeszthető, Webeszközök Bővítményei
+  A következő kiadásokra vonatkozik: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Visual Studio termék életciklus és karbantartás](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Community 2013\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure eszközök\n* Premium\n* Professional\n* Távirányító eszközök\n* Rendszerhéj (Integrált)\n* Rendszerhéj (Izolált)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* A Visual C++ Terjeszthető\n* Webeszközök bővítményei"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Visual Studio termék életciklus és karbantartás](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Agents\n* Community 2013\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Remote Tools\n* Shell (Integrated)\n* Shell (Isolated)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"
