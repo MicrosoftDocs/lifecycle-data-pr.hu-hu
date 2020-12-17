@@ -2,20 +2,20 @@
 metadata:
   title: Visual Studio 2019
   description: A Visual Studio 2019 a Rögzített Életciklus Szabályzatot követi.
-  ms.date: 09/01/2020
-  keywords: Agents,Build Tools,Community,Enterprise,ESGH,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSGH,PSM,Remote Tools,Team Explorer,Visual C++ Redistributable
-  ms.openlocfilehash: 944f1805bb73b6937043cdb30b72b59732fe5e1c
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 12/08/2020
+  keywords: 
+  ms.openlocfilehash: b0c62a885196785982c3d308a9088d4baee93e7a
+  ms.sourcegitcommit: 3ab84f41d3282b710920b60cd302c8c52d9c6808
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937302"
+  ms.lasthandoff: 12/09/2020
+  ms.locfileid: "1338276"
 name: Visual Studio 2019
 summary: >+
   A Visual Studio 2019 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Agents, Build eszközök, Community, Enterprise, ESGH Mac-re, IntelliTrace Különálló Collector, Teljesítményfokozó eszközök, Professional, PSGH, PSM, Távirányító eszközök, Team Explorer, Visual C++ Újraterjeszthető csomag
+  A következő kiadásokra vonatkozik: Agents, Buildkészítő eszközök, Community, Enterprise, Mac-re, IntelliTrace Különálló Collector, teljesítménynövelő eszközök, Professional, Távirányító eszközök, Team Explorer, Visual C++ Újra terjeszthető csomag
 
 products:
 - vs
@@ -25,10 +25,13 @@ supportDates:
   end: 04/09/2024
   extendedEnd: 04/10/2029
 releases:
+- version: Version 16.7
+  startDate: 08/05/2020
+  endDate: 04/10/2029
 - version: Version 16.4
   startDate: 12/03/2019
-  endDate: 04/10/2029
+  endDate: 10/12/2021
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Bejelentés](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Karbantartási információk](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Buildkészítő eszközök\n* Community\n* Enterprise\n* ESGH\n* Mac-re\n* IntelliTrace Különálló Collector\n* Teljesítménynövelő eszközök\n* Professional\n* PSGH\n* PSM\n* Távirányító eszközök\n* Team Explorer\n* A Visual C++ Terjeszthető"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Visual Studio blogbejegyzések](https://devblogs.microsoft.com/visualstudio/)\n* [Karbantartási információk](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019 letöltési lapja](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 kibocsátási megjegyzések](/visualstudio/releases/2019/release-notes)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Ügynökök\n* Buildkészítő eszközök\n* Community\n* Enterprise\n* Mac-re\n* IntelliTrace Különálló Collector\n* Teljesítménynövelő eszközök\n* Professional\n* Távirányító eszközök\n* Team Explorer\n* A Visual C++ Terjeszthető"
