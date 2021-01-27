@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Azure Virtual Machine (klasszikus) (megerősítés az Azure-ral a közzététel előtt – nincs befejezési dátum a dátumrácson)
-  description: A Microsoft Azure Virtual Machine (klasszikus) (megerősítés az Azure-ral közzététel előtt - nincs befejezési dátum a dátumrácson) a modern életciklus-szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Microsoft Azure virtuális gép (klasszikus)
+  description: A Microsoft Azure virtuális gép (klasszikus) a Modern Életciklus Szabályzatot követi.
+  ms.date: 01/21/2021
+  keywords: 
+  ms.openlocfilehash: 0e575c15aa31b8d3147bfbca806bf0c90db48731
+  ms.sourcegitcommit: b565a66121b149da703e6b457e86868768499385
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856042"
-name: Microsoft Azure Virtual Machine (klasszikus) (megerősítés az Azure-ral a közzététel előtt – nincs befejezési dátum a dátumrácson)
+  ms.lasthandoff: 01/21/2021
+  ms.locfileid: "1416318"
+name: Microsoft Azure virtuális gép (klasszikus)
 summary: >+
-  A Microsoft Azure Virtual Machine (klasszikus) (megerősítés az Azure-ral a közzététel előtt - nincs befejezési dátum a dátumrácson) a [modern](/lifecycle/policies/modern) életciklus-szabályzatot követi.
+  A Microsoft Azure Virtual Machine (classic) a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
 
 
 products:
