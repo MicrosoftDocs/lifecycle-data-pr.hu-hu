@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 Enterprise and Education
   description: A Windows 10 Enterprise and Education a Modern Életciklus Szabályzatot követi.
-  ms.date: 10/09/2020
+  ms.date: 02/12/2021
   keywords: 
-  ms.openlocfilehash: aafaec4e3b02f433224ea51446b8c18f4bd0c031
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 84edf77fb54cb13cb21b8a8ef6643267a3872af2
+  ms.sourcegitcommit: b85a6ac35e0af0e17a9ae767927273508a4f31f6
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162521"
+  ms.lasthandoff: 02/14/2021
+  ms.locfileid: "1449222"
 name: Windows 10 Enterprise and Education
 summary: >
   A Windows 10 Enterprise and Education a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
@@ -21,6 +21,8 @@ summary: >
   > [!IMPORTANT]
 
   > 2025. október 14-ig a Microsoft továbbra is legalább egy Windows 10 féléves csatornát támogat.
+
+  Az alábbi táblázat az eddig kiadott verziókat tükrözi.
 products:
 - windows
 policyType: modern-on-prem
@@ -61,4 +63,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Windows, mint szolgáltatás (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Termék információ](/windows/windows-10/)\n* [Életciklus GYIK – Windows termékek](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Hacsak nem történik halasztás, a Windows 10 féléves csatorna funkciójának ezt követő frissítései az Alapvető technikai támogatás közzétett záró dátuma előtt telepíthetők.\n\n## <a name=\"editions\"></a>Kiadások \n* Oktatás\n* Enterprise"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Windows, mint szolgáltatás (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home és Pro](/lifecycle/products/windows-10-home-and-pro)\n* [Termék információ](/windows/windows-10/)\n* [Életciklus GYIK – Windows termékek](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Hacsak nem történik halasztás, a Windows 10 féléves csatorna funkciójának ezt követő frissítései az Alapvető technikai támogatás közzétett záró dátuma előtt telepíthetők.\n\n## <a name=\"editions\"></a>Kiadások \n* Oktatás\n* Enterprise"
