@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Edge WebView2
+  description: A Microsoft Edge WebView2 a Modern életciklus szabályzatot követi.
+  ms.date: 03/31/2021
+  keywords: 
+  ms.openlocfilehash: dda674ccf381dcb320c21bed9557c3724c102f15
+  ms.sourcegitcommit: ad4eb78cca397d384372a10fc71519bebd93c1b8
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 04/01/2021
+  ms.locfileid: "1538159"
+name: Microsoft Edge WebView2
+summary: >+
+  A Microsoft Edge WebView2 a [Modern](/lifecycle/policies/modern) életciklus szabályzatot követi.
+
+
+products:
+- microsoft-edge
+policyType: modern-online
+supportDates:
+  start: 10/19/2020
+releases:
+- version: Original Release
+  startDate: 10/19/2020
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [WebView2 terjesztés](/microsoft-edge/webview2/concepts/distribution)\n\n> [!NOTE]\n> A WebView2 ugyanazt az életciklust követi, mint a [Microsoft Edge](https://docs.microsoft.com/lifecycle/products/microsoft-edge)."
