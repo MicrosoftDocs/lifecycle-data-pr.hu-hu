@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server 2019
   description: A Windows Server 2019 a Rögzített Életciklus Szabályzatot követi.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,Standard
-  ms.openlocfilehash: 8967355f6556b020b48bca6259870c05be45f09e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/09/2021
+  keywords: 
+  ms.openlocfilehash: dbba3f3d791a3646dc46974ddf37f64c83207bed
+  ms.sourcegitcommit: 4e981a76c3185e8691faa3033ff05c685bba0999
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939337"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255330"
 name: Windows Server 2019
 summary: >+
   A Windows Server 2019 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
+
   A következő kiadásokra vonatkozik: Datacenter, Essentials, Standard
+
+
 
 products:
 - windows
@@ -28,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Termékinformációk](/windows-server/get-started-19/whats-new-19)\n* [Frissítés a Windows Server 2019 rendelkezésre állásáról](https://aka.ms/WSRelaunchBlog)\n* [Életciklus GYIK – Windows termékek](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 2018. november 13-án újra kiadták a Windows Server 2019 és a Windows Server 1809-es verzióját. A támogatási dátumok ennek megfelelően módosultak.\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter\n* Alapverzió\n* Standard"
+content: "\n\n## <a name=\"links\"></a>Hivatkozások \n* [Termékinformációk](/windows-server/get-started-19/whats-new-19)\n* [Frissítés a Windows Server 2019 rendelkezésre állásáról](https://aka.ms/WSRelaunchBlog)\n* [Életciklus GYIK – Windows termékek](/lifecycle/faq/windows)\n* [Windows-tároló – az alapként szolgáló lemezkép biztosításának életciklusai.](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> A Windows Server 2019 rendszerrel kiadott tárolók ugyanazokat az életciklus dátumokat követik.\n> [!NOTE]\n> 2018. november 13-án újra kiadták a Windows Server 2019 és a Windows Server 1809-es verzióját. A támogatási dátumok ennek megfelelően módosultak.\n\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter\n* Alapverzió\n* Standard"
