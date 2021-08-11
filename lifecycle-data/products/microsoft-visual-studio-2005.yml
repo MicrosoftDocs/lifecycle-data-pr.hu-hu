@@ -4,18 +4,18 @@ metadata:
   description: A Microsoft Visual Studio 2005 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Professional,Standard,Standard Edition academic license,Team Edition for Database Professionals,Team Edition for Software Architects,Team Edition for Software Developers,Team Edition for Software Testers,Team Suite,Team Test Load Agent,Tools for the Microsoft Office System,VB Express,Visual C# Express,Visual C++ Express,Visual J# Express,Visual Web Developer Express
-  ms.openlocfilehash: 40a88454af5c829ab424be8f9ea26f8866af6013
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 2b5560fa619516cdf2603d970e8eeb7e86b38ca9c6663d2092ad6ad04256a4fb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937598"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497886"
 name: Microsoft Visual Studio 2005
 summary: >+
   A Microsoft Visual Studio 2005 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-  A következő kiadásokra vonatkozik: Professional, Standard, Standard Edition academic license, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools for the Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+  A következő kiadásokra vonatkozik: Professional, Standard, Standard Edition akadémiai licenc, Team Edition adatbázis szakembereknek, Team Edition szoftver tervezőknek, Team Edition szoftver fejlesztőknek, Team Edition szoftver tesztelőknek, Team Suite, Team terheléstesztelő ügynök, Microsoft Office System eszközök, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual J# támogatási információk](https://msdn.microsoft.com/vstudio/bb188593)\n* [Visual Studio termék információ](https://www.VisualStudio.com)\n\n> [!NOTE]\n> A termék támogatása lejárt. Lásd alább az áttelepítési útmutatót.\n> [!NOTE]\n> A Microsoft Visual Studio 2005 Team Edition for Database Professionals 2007. március 2-án került kiadásra.\n\n## <a name=\"editions\"></a>Kiadások \n* Professional\n* Standard\n* Standard Edition academic license\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Tools for the Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual J# támogatási információk](https://msdn.microsoft.com/vstudio/bb188593)\n* [Visual Studio termék információ](https://www.VisualStudio.com)\n\n> [!NOTE]\n> A termék támogatása lejárt. Lásd alább az áttelepítési útmutatót.\n> [!NOTE]\n> A Microsoft Visual Studio 2005 Team Edition Adatbázis szakemberek részére 2007. március 2-án került kiadásra.\n\n## <a name=\"editions\"></a>Kiadások \n* Professional\n* Standard\n* Standard Edition akadémiai licenc\n* Team Edition Adatbázis szakemberek részére\n* Team Edition Szoftver tervezőknek\n* Team Edition Szoftver fejlesztőknek\n* Team Edition Szoftver tesztelőknek\n* Team Suite\n* Team terheléstesztelő ügynök\n* Microsoft Office System eszközök\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
