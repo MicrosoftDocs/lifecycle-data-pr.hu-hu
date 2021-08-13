@@ -4,28 +4,30 @@ metadata:
   description: A SharePoint Designer 2013 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/10/2020
   keywords: Designer
-  ms.openlocfilehash: 158c0dee37ae297e6ef3c14e3c74ab1996eaad21
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001133"
 name: SharePoint Designer 2013
-summary: >+
+summary: |+
   A SharePoint Designer 2013 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
-
 
   A következő kiadásokra vonatkozik: Designer
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Támogatási részletek](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> A Microsoft SharePoint Designer 2013 támogatása a látható módon van kiterjesztve el a SharePoint Server 2016-tal való kompatibilitás biztosítása érdekében.\n\n## <a name=\"editions\"></a>Kiadások \n* Designer (Tervező)"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/14/2015
+content: |
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Támogatási részletek](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
+
+  > [!NOTE]
+  > A Microsoft SharePoint Designer 2013 támogatása a látható módon van kiterjesztve el a SharePoint Server 2016-tal való kompatibilitás biztosítása érdekében.
+
+  ## <a name="editions"></a>Kiadások 
+  * Designer (Tervező)

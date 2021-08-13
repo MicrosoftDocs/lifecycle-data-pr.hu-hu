@@ -3,25 +3,25 @@ metadata:
   title: Softgrid terminálkiszolgálóhoz (MDOP)
   description: A Softgrid terminálkiszolgálóhoz (MDOP) a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821648"
 name: Softgrid terminálkiszolgálóhoz (MDOP)
-summary: >+
+summary: |+
   A Softgrid terminálkiszolgálóhoz (MDOP) a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/01/2007
   end: 01/12/2010
 releases:
-- version: Original Release
-  startDate: 01/01/2007
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Az életciklusra vonatkozó gyakori kérdések – Általános](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> A korábban nem támogatott verziók kizárva. A termék támogatásának feltétele, hogy a terméket be kell szereznie."
+  - version: Original Release
+    startDate: 01/01/2007
+    endDate: 01/12/2010
+content: |+
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Az életciklusra vonatkozó gyakori kérdések – Általános](/lifecycle/faq/general-lifecycle)
+
+  > [!NOTE]
+  > A korábban nem támogatott verziók kizárva. A termék támogatásának feltétele, hogy a terméket be kell szereznie.

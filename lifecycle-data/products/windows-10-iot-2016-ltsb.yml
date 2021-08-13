@@ -4,28 +4,30 @@ metadata:
   description: A Windows 10 IoT 2016 LTSB a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: fc19a4917f270b8c1c774c8e62b504dec47ef5ce
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938264"
 name: Windows 10 IoT 2016 LTSB
-summary: >+
+summary: |+
   A Windows 10 IoT 2016 LTSB a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
-
 
   A következő kiadásokra vonatkozik: Enterprise
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 08/02/2016
   end: 10/12/2021
   extendedEnd: 10/13/2026
 releases:
-- version: Original Release
-  startDate: 08/02/2016
-  endDate: 10/13/2026
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [A Windows, mint szolgáltatás (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC GYIK](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10 októberi frissítés (1809-es verzió) újbóli kiadás](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise"
+  - version: Original Release
+    startDate: 08/02/2016
+    endDate: 10/13/2026
+content: |
+
+  ## <a name="links"></a>Hivatkozások 
+  * [A Windows, mint szolgáltatás (WaaS)](/windows/deployment/update/waas-quick-start)
+  * [Windows 10 LTSC GYIK](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)
+  * [Windows 10 októberi frissítés (1809-es verzió) újbóli kiadás](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)
+
+
+  ## <a name="editions"></a>Kiadások 
+  * Enterprise

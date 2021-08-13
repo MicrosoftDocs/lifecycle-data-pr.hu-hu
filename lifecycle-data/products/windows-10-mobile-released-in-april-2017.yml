@@ -1,31 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Mobile, megjelent 2017. áprilisban
+  title: 'Windows 10 Mobile, megjelent 2017. áprilisban'
   description: A 2017 áprilisában kiadott Windows 10 Mobile a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d0342a513e9223085885577a70a595292c7b43ce
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870036"
-name: Windows 10 Mobile, megjelent 2017. áprilisban
-summary: >
+name: 'Windows 10 Mobile, megjelent 2017. áprilisban'
+summary: |
   A 2017 áprilisában kiadott Windows 10 Mobile a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-
   > [!IMPORTANT]
-
   > A termék támogatása lejárt.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 04/25/2017
   end: 06/11/2019
 releases:
-- version: Original Release
-  startDate: 04/25/2017
-  endDate: 06/11/2019
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Az eszköz operációs rendszer életciklus gyakori kérdései](/lifecycle/faq/device-operating-systems)\n* [A Windows 10 Mobile támogatás megszűnik 2019. december 10-én](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 04/25/2017
+    endDate: 06/11/2019
+content: |+
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Az eszköz operációs rendszer életciklus gyakori kérdései](/lifecycle/faq/device-operating-systems)
+  * [A Windows 10 Mobile támogatás megszűnik 2019. december 10-én](/lifecycle/announcements/windows-10-mobile-end-of-support)
