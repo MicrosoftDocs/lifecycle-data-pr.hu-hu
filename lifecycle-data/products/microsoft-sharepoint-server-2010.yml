@@ -3,35 +3,43 @@ metadata:
   title: Microsoft SharePoint Server 2010
   description: A Microsoft SharePoint Server 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
-  keywords: Access Services,All applicable,Excel Services,Performance Point Services
-  ms.openlocfilehash: 02a1a5085dbd39b7379b0e71f69300095cfa54da
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941562"
+  keywords: 'Access Services,All applicable,Excel Services,Performance Point Services'
 name: Microsoft SharePoint Server 2010
-summary: >+
+summary: |+
   A Microsoft SharePoint Server 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
-
 
   A következő kiadásokra vonatkozik: Access Services, Összes alkalmazható, Excel Services, Performance Point Services
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/28/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Támogatási bővítmény](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Áttelepítési útmutató](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Microsoft SharePoint Server 2010 fejlesztői dokumentáció](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Microsoft SharePoint Server 2010 termékdokumentációja](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))\n\n> [!NOTE]\n> A termék végső támogatási dátuma 2020. október 13-áról 2021. április 13-ára tolódott ki.\n\n## <a name=\"editions\"></a>Kiadások \n* Access Services\n* Összes alkalmazható\n* Excel Services\n* Performance Point Services"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/28/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Támogatási bővítmény](https://aka.ms/SharePoint/server/2010/supportextension)
+  * [Áttelepítési útmutató](/office365/enterprise/upgrade-from-sharepoint-2010)
+  * [Microsoft SharePoint Server 2010 fejlesztői dokumentáció](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))
+  * [Microsoft SharePoint Server 2010 termékdokumentációja](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))
+
+  > [!NOTE]
+  > A termék végső támogatási dátuma 2020. október 13-áról 2021. április 13-ára tolódott ki.
+
+  ## <a name="editions"></a>Kiadások 
+  * Access Services
+  * Összes alkalmazható
+  * Excel Services
+  * Performance Point Services

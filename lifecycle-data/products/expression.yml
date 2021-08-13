@@ -3,24 +3,34 @@ metadata:
   title: Expression
   description: Az Expression a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
-  keywords: Blend,Design,Encoder,Studio
-  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936229"
+  keywords: 'Blend,Design,Encoder,Studio'
 name: Expression
-summary: "Az Expression a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.\n\nA következő kiadásokra vonatkozik: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. \n"
+summary: |
+  Az Expression a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
+
+  A következő kiadásokra vonatkozik: Blend, Design, Encoder, Studio
+
+  > [!IMPORTANT]
+  > A termék támogatása lejárt. 
 products:
-- expression
+  - expression
 policyType: fixed
 supportDates:
   start: 07/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 07/27/2007
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Az Expression Blend kezdő dátuma 2007. július 13. \n\n## <a name=\"editions\"></a>Kiadások \n* Blend\n* Design\n* Encoder\n* Studio"
+  - version: Original Release
+    startDate: 07/27/2007
+    endDate: 10/10/2017
+content: |
+
+
+  > [!NOTE]
+  > Az Expression Blend kezdő dátuma 2007. július 13. 
+
+  ## <a name="editions"></a>Kiadások 
+  * Blend
+  * Design
+  * Encoder
+  * Studio

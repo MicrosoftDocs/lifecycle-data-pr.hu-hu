@@ -3,23 +3,22 @@ metadata:
   title: Microsoft Internet Information Services 7.5
   description: A Microsoft Internet Information Services 7.5 a Komponens Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 22b88b7209f8aea2ae47d7486d5c946008768d76
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "822645"
 name: Microsoft Internet Information Services 7.5
-summary: >+
+summary: |+
   A Microsoft Internet Information Services 7.5 a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/22/2009
 releases:
-- version: Original Release
-  startDate: 10/22/2009
-content: "> [!TIP]\n> Ezt a kiadást komponensnek nevezzük, amely közismert szülőtermékének, a Windows 7-nek és a Windows Server 2008 R2nek a támogatási életciklusát követi.\n\n## <a name=\"links\"></a>Hivatkozások \n* [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)"
+  - version: Original Release
+    startDate: 10/22/2009
+content: |+
+  > [!TIP]
+  > Ezt a kiadást komponensnek nevezzük, amely közismert szülőtermékének, a Windows 7-nek és a Windows Server 2008 R2nek a támogatási életciklusát követi.
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)
