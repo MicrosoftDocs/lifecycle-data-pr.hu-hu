@@ -3,32 +3,34 @@ metadata:
   title: Microsoft System Center Mobile Device Manager 2008
   description: A Microsoft System Center Mobile Device Manager 2008 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/10/2020
-  keywords: All applicable,wSQL
-  ms.openlocfilehash: 88d4e4ed5265017faf066b03c192121e6319034c
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001429"
+  keywords: 'All applicable,wSQL'
 name: Microsoft System Center Mobile Device Manager 2008
-summary: >+
+summary: |+
   A Microsoft System Center Mobile Device Manager 2008 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
-
-  Ez a következő kiadásokra vonatkozik: Minden megfelelő kiadásra, wSQL
+  Ez a következő kiadásokra vonatkozik: Összes alkalmazható, wSQL
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 05/14/2008
   end: 07/09/2013
   extendedEnd: 07/10/2018
 releases:
-- version: Service Pack 1
-  startDate: 12/15/2008
-  endDate: 07/10/2018
-- version: Original Release
-  startDate: 05/14/2008
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Minden megfelelő kiadásra\n* wSQL"
+  - version: Service Pack 1
+    startDate: 12/15/2008
+    endDate: 07/10/2018
+  - version: Original Release
+    startDate: 05/14/2008
+    endDate: 01/12/2010
+content: |
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Áttelepítési útmutató](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)
+  * [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Kiadások 
+  * Összes alkalmazható
+  * wSQL

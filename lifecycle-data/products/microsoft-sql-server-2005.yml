@@ -3,45 +3,57 @@ metadata:
   title: Microsoft SQL Server 2005
   description: A Microsoft SQL Server 2005 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
-  keywords: Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup
-  ms.openlocfilehash: ca451e6716bf5aed78c86dd83737d59a46a8203d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929754"
+  keywords: 'Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup'
 name: Microsoft SQL Server 2005
-summary: >
+summary: |
   A Microsoft SQL Server 2005 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
-
 
   A következő kiadásokra vonatkozik: Kompakt, Fejlesztői, Beágyazott, Enterprise, Enterprise Itanium-alapú rendszerekhez, Enterprise X64, Express, Express speciális szolgáltatásokkal, Standard, Standard Itanium-alapú rendszerekhez, Standard X64, Workgroup
 
-
   > [!IMPORTANT]
-
   > A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót.
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 01/14/2006
   end: 04/12/2011
   extendedEnd: 04/12/2016
 releases:
-- version: Service Pack 4
-  startDate: 12/13/2010
-  endDate: 04/12/2016
-- version: Service Pack 3
-  startDate: 12/15/2008
-  endDate: 01/10/2012
-- version: Service Pack 2
-  startDate: 02/19/2007
-  endDate: 01/12/2010
-- version: Service Pack 1
-  startDate: 04/18/2006
-  endDate: 04/08/2008
-- version: Original Release
-  startDate: 01/14/2006
-  endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> A Microsoft SQL Server 2005 Compact Edition 2007. február 19-én került kiadásra.\n\n## <a name=\"editions\"></a>Kiadások \n* Kompakt\n* Developer\n* Embedded\n* Enterprise\n* Enterprise Itanium-alapú rendszerekhez\n* Enterprise X64\n* Expressz\n* Expressz Speciális Szolgáltatásokkal\n* Standard\n* Standard Itanium-alapú rendszerekhez\n* Standard X64\n* Munkacsoport"
+  - version: Service Pack 4
+    startDate: 12/13/2010
+    endDate: 04/12/2016
+  - version: Service Pack 3
+    startDate: 12/15/2008
+    endDate: 01/10/2012
+  - version: Service Pack 2
+    startDate: 02/19/2007
+    endDate: 01/12/2010
+  - version: Service Pack 1
+    startDate: 04/18/2006
+    endDate: 04/08/2008
+  - version: Original Release
+    startDate: 01/14/2006
+    endDate: 07/10/2007
+content: |
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Áttelepítési útmutató](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
+  * [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > A Microsoft SQL Server 2005 Compact Edition 2007. február 19-én került kiadásra.
+
+  ## <a name="editions"></a>Kiadások 
+  * Kompakt
+  * Developer
+  * Embedded
+  * Enterprise
+  * Enterprise Itanium-alapú rendszerekhez
+  * Enterprise X64
+  * Expressz
+  * Expressz Speciális Szolgáltatásokkal
+  * Standard
+  * Standard Itanium-alapú rendszerekhez
+  * Standard X64
+  * Munkacsoport

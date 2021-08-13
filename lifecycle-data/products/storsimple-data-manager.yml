@@ -3,25 +3,19 @@ metadata:
   title: StorSimple Adatkezelő
   description: A StorSimple Data Manager a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cca889145816fcf7bde921df52a32be61a97a54d
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870024"
 name: StorSimple Adatkezelő
-summary: >+
+summary: |+
   A StorSimple Data Manager a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
-- azure
+  - azure
 policyType: fixed
 supportDates:
   start: 01/18/2018
   end: 07/01/2020
   extendedEnd: 12/31/2022
 releases:
-- version: Original Release
-  startDate: 01/18/2018
-content: ''
+  - version: Original Release
+    startDate: 01/18/2018
+content: |+
