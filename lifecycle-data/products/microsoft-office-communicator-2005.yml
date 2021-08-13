@@ -4,23 +4,28 @@ metadata:
   description: A Microsoft Office Communicator 2005 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936266"
 name: Microsoft Office Communicator 2005
-summary: "A Microsoft Office Communicator 2005 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.\n\nA következő kiadásokra vonatkozik: Standard\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. \n"
+summary: |
+  A Microsoft Office Communicator 2005 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
+
+  A következő kiadásokra vonatkozik: Standard
+
+  > [!IMPORTANT]
+  > A termék támogatása lejárt. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 08/13/2005
   end: 10/12/2010
   extendedEnd: 10/13/2015
 releases:
-- version: Original Release
-  startDate: 08/13/2005
-  endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard"
+  - version: Original Release
+    startDate: 08/13/2005
+    endDate: 10/13/2015
+content: |
+
+
+
+  ## <a name="editions"></a>Kiadások 
+  * Standard

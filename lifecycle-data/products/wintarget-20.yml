@@ -3,28 +3,29 @@ metadata:
   title: WinTarget 2.0
   description: A WinTarget 2.0 a rögzített életciklus-szabályzatot követi.
   ms.date: 09/01/2020
-  keywords: Advanced,Standard
-  ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938745"
+  keywords: 'Advanced,Standard'
 name: WinTarget 2.0
-summary: >+
+summary: |+
   A WinTarget 2.0 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
-
 
   A következő kiadásokra vonatkozik: Advanced, Standard
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/07/2006
   end: 01/08/2008
 releases:
-- version: Original Release
-  startDate: 03/07/2006
-  endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> A termék támogatásának feltétele, hogy a terméket be kell szereznie.\n\n## <a name=\"editions\"></a>Kiadások \n* Speciális\n* Standard"
+  - version: Original Release
+    startDate: 03/07/2006
+    endDate: 01/08/2008
+content: |
+
+
+  > [!NOTE]
+  > A termék támogatásának feltétele, hogy a terméket be kell szereznie.
+
+  ## <a name="editions"></a>Kiadások 
+  * Speciális
+  * Standard

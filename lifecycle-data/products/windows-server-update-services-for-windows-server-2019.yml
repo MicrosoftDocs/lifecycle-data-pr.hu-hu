@@ -3,24 +3,24 @@ metadata:
   title: Windows Server Update Services Windows Server 2019-re
   description: A Windows Server Update Services Windows Server 2019-re a Komponens Életciklus Szabályzatot követik.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9ef2f54a3fe3a1de1d28984b691c0b1ed189d9db
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821630"
 name: Windows Server Update Services Windows Server 2019-re
-summary: >+
+summary: |+
   A Windows Server Update Services Windows Server 2019-re a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követik.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 03/04/2019
 releases:
-- version: Original Release
-  startDate: 03/04/2019
-  endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Windows Server 2019](/lifecycle/products/windows-server-2019)\n\n> [!NOTE]\n> Ez az összetevő követi származtató terméke, a Windows Server 2019 életciklusát."
+  - version: Original Release
+    startDate: 03/04/2019
+    endDate: 01/09/2029
+content: |+
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Windows Server 2019](/lifecycle/products/windows-server-2019)
+
+  > [!NOTE]
+  > Ez az összetevő követi származtató terméke, a Windows Server 2019 életciklusát.

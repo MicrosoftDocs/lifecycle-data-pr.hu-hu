@@ -1,31 +1,35 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Workflow Manager 1.0
+  title: Munkafolyamat Kezelő 1.0
   description: A Workflow Manager 1.0 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/10/2020
-  keywords: 
-  ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
-  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002694"
-name: Workflow Manager 1.0
-summary: >+
+  keywords: null
+name: Munkafolyamat Kezelő 1.0
+summary: |+
   A Workflow Manager 1.0 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
-
 
   A következő kiadásokra vonatkozik: Client, Standard
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/18/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [SharePoint 2016 karbantartási információ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013 karbantartási információ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Ha a Workflow Manager a SharePoint Server 2016 vagy a SharePoint Server 2013 komponense, akkor a rendszer támogatja azt a Sharepoint Server verzió támogatási dátumának lejárta szerint.\n\n## <a name=\"editions\"></a>Kiadások \n* Client\n* Standard"
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>Hivatkozások 
+  * [SharePoint 2016 karbantartási információ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
+  * [SharePoint 2013 karbantartási információ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
+
+  > [!NOTE]
+  > Ha a Munkafolyamat kezelő a SharePoint Server 2016 vagy a SharePoint Server 2013 összetevője, akkor a rendszer támogatja azt a Sharepoint Server verzió támogatási dátumának lejárta szerint.
+
+  ## <a name="editions"></a>Kiadások 
+  * Ügyfél
+  * Standard
