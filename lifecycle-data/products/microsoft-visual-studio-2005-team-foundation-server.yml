@@ -3,29 +3,30 @@ metadata:
   title: Visual Studio Team Foundation Server 2005
   description: A Visual Studio Team Foundation Server 2005 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 881badd8c2a2954697d7a63f329250f4a07b9581
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821669"
 name: Visual Studio Team Foundation Server 2005
-summary: >+
+summary: |+
   A Visual Studio Team Foundation Server 2005 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 06/17/2006
   end: 07/12/2011
   extendedEnd: 07/12/2016
 releases:
-- version: Service Pack 1
-  startDate: 12/14/2006
-  endDate: 07/12/2016
-- version: Original Release
-  startDate: 06/17/2006
-  endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n* [Áttelepítési útmutató](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> A termék támogatása lejárt. Lásd alább az áttelepítési útmutatót."
+  - version: Service Pack 1
+    startDate: 12/14/2006
+    endDate: 07/12/2016
+  - version: Original Release
+    startDate: 06/17/2006
+    endDate: 01/08/2008
+content: |+
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)
+  * [Áttelepítési útmutató](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)
+
+  > [!NOTE]
+  > A termék támogatása lejárt. Lásd alább az áttelepítési útmutatót.
