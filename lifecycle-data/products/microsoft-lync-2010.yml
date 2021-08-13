@@ -3,29 +3,30 @@ metadata:
   title: Microsoft Lync 2010
   description: A Microsoft Lync 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 10/20/2020
-  keywords: 
-  ms.openlocfilehash: a9bb16d3231175342172806518fbae8913450493
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162817"
+  keywords: null
 name: Microsoft Lync 2010
-summary: >+
+summary: |+
   A Microsoft Lync 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
-
 
   A következő kiadásokra vonatkozik: Attendant, Attendee, Group Chat, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/25/2011
   end: 04/12/2016
   extendedEnd: 04/13/2021
 releases:
-- version: Original Release
-  startDate: 01/25/2011
-  endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Kiadások \n* Segítő\n* Résztvevő\n* Csoportos csevegés\n* Standard"
+  - version: Original Release
+    startDate: 01/25/2011
+    endDate: 04/13/2021
+content: |
+
+
+
+  ## <a name="editions"></a>Kiadások 
+  * Segítő
+  * Résztvevő
+  * Csoportos csevegés
+  * Standard

@@ -4,23 +4,17 @@ metadata:
   description: A Dynamics 365 Projekt Műveletek a Modern Életciklus Szabályzatot követik.
   ms.date: 09/10/2020
   keywords: ''
-  ms.openlocfilehash: f78704486878a0f99f545e5361fb7805df1a802a
-  ms.sourcegitcommit: e8e7ddcfb056dfe647ccf1dbab03a51078f77d53
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 10/05/2020
-  ms.locfileid: "1050154"
 name: Dynamics 365 Projekt műveletek
-summary: >+
+summary: |+
   A Dynamics 365 Projekt Műveletek a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követik.
 
 
 products:
-- dynamics
+  - dynamics
 policyType: modern-online
 supportDates:
   start: 10/01/2020
 releases:
-- version: Original Release
-  startDate: 10/01/2020
-content: ''
+  - version: Original Release
+    startDate: 10/01/2020
+content: |+
