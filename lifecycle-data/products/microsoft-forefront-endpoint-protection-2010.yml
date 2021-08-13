@@ -3,30 +3,29 @@ metadata:
   title: Microsoft Forefront Endpoint Protection 2010
   description: A Microsoft Forefront Endpoint Protection 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856025"
 name: Microsoft Forefront Endpoint Protection 2010
-summary: >
+summary: |
   A Microsoft Forefront Endpoint Protection 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
-
   > [!IMPORTANT]
-
   > A támogatás véget ért. Lásd lejjebb az áttelepítési útmutatót.
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/31/2011
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 03/31/2011
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Karbantartási információk](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Az ügyfeleknek naprakésznek kell lenniük a vírusírtó platform legújabb frissítésével, hogy teljes mértékben támogathatók legyenek. A Forefront Endpoint Protection 2010-re ugyanaz az életciklus házirend vonatkozik, mint a System Center Configuration Manager 2007-re, mind az általános, mind a kiterjesztett támogatás esetében."
+  - version: Original Release
+    startDate: 03/31/2011
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Áttelepítési útmutató](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)
+  * [Karbantartási információk](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)
+
+  > [!NOTE]
+  > Az ügyfeleknek naprakésznek kell lenniük a vírusírtó platform legújabb frissítésével, hogy teljes mértékben támogathatók legyenek. A Forefront Endpoint Protection 2010-re ugyanaz az életciklus házirend vonatkozik, mint a System Center Configuration Manager 2007-re, mind az általános, mind a kiterjesztett támogatás esetében.
