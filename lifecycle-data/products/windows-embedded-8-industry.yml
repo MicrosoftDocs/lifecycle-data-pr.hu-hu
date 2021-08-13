@@ -3,33 +3,33 @@ metadata:
   title: Windows Embedded 8 Industry
   description: A Windows Embedded 8 Industry a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/10/2020
-  keywords: Enterprise,Pro
-  ms.openlocfilehash: d14babf394a315b631da1b0d71baa96088efa14d
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002158"
+  keywords: 'Enterprise,Pro'
 name: Windows Embedded 8 Industry
-summary: >
+summary: |
   A Windows Embedded 8 Industry a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
-
 
   Ez a következő kiadásokra vonatkozik: Enterprise, Pro
 
-
   > [!IMPORTANT]
-
   > Az ügyfeleknek át kell térniük a Windows 8.1-re, hogy továbbra is támogatottak maradjanak.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 06/24/2013
   end: 01/12/2016
   extendedEnd: 01/12/2016
 releases:
-- version: Original Release
-  startDate: 06/24/2013
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Életciklus GYIK – Windows termékek](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Enterprise\n* Pro"
+  - version: Original Release
+    startDate: 06/24/2013
+    endDate: 01/12/2016
+content: |
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Áttelepítési útmutató](https://www.microsoft.com/download/details.aspx?id=40279)
+  * [Életciklus GYIK – Windows termékek](/lifecycle/faq/windows)
+
+
+  ## <a name="editions"></a>Kiadások 
+  * Enterprise
+  * Pro

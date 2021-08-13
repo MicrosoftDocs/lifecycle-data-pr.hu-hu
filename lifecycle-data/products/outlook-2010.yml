@@ -3,29 +3,31 @@ metadata:
   title: Outlook 2010
   description: Az Outlook 2010 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
-  keywords: Standard,with Business Contact Manager
-  ms.openlocfilehash: ce67d67737e2a942507d26d8d1bd308697a58144
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "928829"
+  keywords: 'Standard,with Business Contact Manager'
 name: Outlook 2010
-summary: >+
+summary: |+
   Az Outlook 2010 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
-
 
   Ez a következő kiadásokra vonatkozik: Standard, Business Contact Manager-rel
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/DeployOffice/office-2010-end-support-roadmap)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard\n* Business Contact Manager-rel"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 10/13/2020
+content: |
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Áttelepítési útmutató](/DeployOffice/office-2010-end-support-roadmap)
+  * [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Kiadások 
+  * Standard
+  * Business Contact Manager-rel
