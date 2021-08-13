@@ -3,36 +3,53 @@ metadata:
   title: Windows Server 2008 R2
   description: A Windows Server 2008 R2 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 04/23/2021
-  keywords: 
-  ms.openlocfilehash: 46aa19023778be7f5a94f58f76ba81119e32c6b7
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029878"
+  keywords: null
 name: Windows Server 2008 R2
-summary: "A Windows Server 2008 R2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.\n\nA következő kiadásokra vonatkozik: Datacenter, Enterprise, HPC Edition, Itanium-alapú rendszerek, Standard, Web\n\n> [!IMPORTANT]\n> A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót. \n"
+summary: |
+  A Windows Server 2008 R2 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
+
+  A következő kiadásokra vonatkozik: Datacenter, Enterprise, HPC Edition, Itanium-alapú rendszerek, Standard, Web
+
+  > [!IMPORTANT]
+  > A termék támogatása lejárt. Lásd lejjebb az áttelepítési útmutatót. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Extended Security Update Year 3
-  startDate: 01/11/2022
-  endDate: 01/10/2023
-- version: Extended Security Update Year 2
-  startDate: 01/12/2021
-  endDate: 01/11/2022
-- version: Extended Security Update Year 1
-  startDate: 01/14/2020
-  endDate: 01/12/2021
-- version: Service Pack 1
-  startDate: 02/22/2011
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 10/22/2009
-  endDate: 04/09/2013
-content: "> [!TIP]\n> *A termék Datacenter, Standard, Enterprise és Embedded kiadásához a támogatás végétől további három évig kiterjesztett biztonsági frissítések (ESU) érhetők el speciális mennyiségi licencprogramokkal. További tudnivalókért vegye fel a kapcsolatot Microsoft partnerével vagy fiók csoportjával. \n\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://aka.ms/AA1ovn4)\n* [Kiszolgáló Frissítési információ](/windows-server/upgrade/upgrade-overview)\n* [A Kiterjesztett biztonsági frissítési program (ESU)](/lifecycle/faq/extended-security-updates)\n* [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter\n* Enterprise\n* HPC kiadás\n* Itanium-alapú rendszerek\n* Standard\n* Web"
+  - version: Extended Security Update Year 3
+    startDate: 01/11/2022
+    endDate: 01/10/2023
+  - version: Extended Security Update Year 2
+    startDate: 01/12/2021
+    endDate: 01/11/2022
+  - version: Extended Security Update Year 1
+    startDate: 01/14/2020
+    endDate: 01/12/2021
+  - version: Service Pack 1
+    startDate: 02/22/2011
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 10/22/2009
+    endDate: 04/09/2013
+content: |
+  > [!TIP]
+  > *A termék Datacenter, Standard, Enterprise és Embedded kiadásához a támogatás végétől további három évig kiterjesztett biztonsági frissítések (ESU) érhetők el speciális mennyiségi licencprogramokkal. További tudnivalókért vegye fel a kapcsolatot Microsoft partnerével vagy fiók csoportjával. 
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Áttelepítési útmutató](https://aka.ms/AA1ovn4)
+  * [Kiszolgáló Frissítési információ](/windows-server/upgrade/upgrade-overview)
+  * [A Kiterjesztett biztonsági frissítési program (ESU)](/lifecycle/faq/extended-security-updates)
+  * [Szervizcsomag-szabályzat](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Kiadások 
+  * Datacenter
+  * Enterprise
+  * HPC kiadás
+  * Itanium-alapú rendszerek
+  * Standard
+  * Web

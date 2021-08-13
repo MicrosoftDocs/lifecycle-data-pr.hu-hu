@@ -3,29 +3,31 @@ metadata:
   title: Windows Storage Server 2016
   description: A Windows Storage Server 2016 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/01/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938967"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2016
-summary: >+
+summary: |+
   A Windows Storage Server 2016 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
-
 
   Ez a következő kiadásokra vonatkozik: Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/15/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Életciklus GYIK – Windows termékek](/lifecycle/faq/windows)\n* [Termékinformációk](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard\n* Munkacsoport"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |
+
+  ## <a name="links"></a>Hivatkozások 
+  * [Életciklus GYIK – Windows termékek](/lifecycle/faq/windows)
+  * [Termékinformációk](/windows-server/storage/whats-new-in-storage)
+
+
+  ## <a name="editions"></a>Kiadások 
+  * Standard
+  * Munkacsoport

@@ -3,26 +3,26 @@ metadata:
   title: Windows Azure Pack (Windows Server 2016-on)
   description: A Windows Azure Pack csomag (Windows Server 2016-on) a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855747"
 name: Windows Azure Pack (Windows Server 2016-on)
-summary: >+
+summary: |+
   A Windows Azure Pack csomag (Windows Server 2016-on) a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/12/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/12/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [További információ](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> A Windows Server Windows Azure Pack csomagja egy hibrid felhő alapú megoldás, amely a Windows Azure technológiákat az adatközpontba irányítja. Lehetővé teszi, hogy a Microsoft ügyfelek gazdag, önkiszolgáló, több bérlős felhőt kínáljanak az adatközpont hardverén további költségek nélkül."
+  - version: Original Release
+    startDate: 10/12/2016
+    endDate: 01/12/2027
+content: |+
+
+  ## <a name="links"></a>Hivatkozások 
+  * [További információ](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
+
+  > [!NOTE]
+  > A Windows Server Windows Azure Pack csomagja egy hibrid felhő alapú megoldás, amely a Windows Azure technológiákat az adatközpontba irányítja. Lehetővé teszi, hogy a Microsoft ügyfelek gazdag, önkiszolgáló, több bérlős felhőt kínáljanak az adatközpont hardverén további költségek nélkül.
