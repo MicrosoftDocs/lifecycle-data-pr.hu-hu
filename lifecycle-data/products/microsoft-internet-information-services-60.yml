@@ -3,23 +3,21 @@ metadata:
   title: Microsoft Internet Information Services 6.0
   description: A Microsoft Internet Information Services 6.0 a Komponens Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9fa80841324fc24ce8644f57af455c1a512c817f
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "822271"
 name: Microsoft Internet Information Services 6.0
-summary: >+
+summary: |+
   A Microsoft Internet Information Services 6.0 a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 05/28/2003
 releases:
-- version: Original Release
-  startDate: 05/28/2003
-content: "\n\n> [!NOTE]\n> Ez a kiadás Komponens néven ismert, amely közismert szülő termékének, a Windows Server 2003-nak a Támogatási Életciklusát követi."
+  - version: Original Release
+    startDate: 05/28/2003
+content: |+
+
+
+  > [!NOTE]
+  > Ez a kiadás Komponens néven ismert, amely közismert szülő termékének, a Windows Server 2003-nak a Támogatási Életciklusát követi.

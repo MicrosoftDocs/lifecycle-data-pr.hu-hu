@@ -3,29 +3,22 @@ metadata:
   title: Microsoft Antigen
   description: A Microsoft Antigen a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/10/2020
-  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
-  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001984"
+  keywords: '9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager'
 name: Microsoft Antigen
-summary: >+
+summary: |+
   A Microsoft Antigen a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
-
 
   A következő kiadásokra vonatkozik: 9.0 az Exchange-hez, Enterprise Manager 9.0, az SMTP Gateways-hez, Spam Manager
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/17/2006
   end: 04/08/2014
   extendedEnd: 12/31/2015
 releases:
-- version: Original Release
-  startDate: 07/17/2006
-  endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> A Forefront márkanév alatt található biztonsági termékek ütemterve megváltozott. A termék támogatása 2015. december 31-től megszűnik.\n\n## <a name=\"editions\"></a>Kiadások \n* 9.0 az Exchange-hez\n* Enterprise Manager 9.0\n* az SMTP Gateways-hez\n* Spam Manager\n"
+  - version: Original Release
+    startDate: 07/17/2006
+    endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> A Forefront márkanév alatt található biztonsági termékek ütemterve megváltozott.\_A termék támogatása 2015. december 31-től megszűnik.\n\n## <a name=\"editions\"></a>Kiadások \n* 9.0 az Exchange-hez\n* Enterprise Manager 9.0\n* az SMTP Gateways-hez\n* Spam Manager\n"
