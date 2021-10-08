@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2022
+  description: A Windows Server IoT 2022 a Rögzített Életciklus Szabályzatot követi.
+  ms.date: 09/30/2021
+  keywords: 
+  ms.openlocfilehash: 88410d389a0328a58d5df7cd5b20e279318fe968
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508071"
+name: Windows Server IoT 2022
+summary: >+
+  A Windows Server IoT 2022 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
+
+
+
+  Ez a következő kiadásokra vonatkozik: Datacenter, Standard, Storage Standard, Storage Workgroup, Telecommunications
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/18/2021
+  end: 10/13/2026
+  extendedEnd: 10/14/2031
+releases:
+- version: Original Release
+  startDate: 08/18/2021
+  endDate: 10/14/2031
+content: "\n\n## <a name=\"links\"></a>Hivatkozások \n* [Életciklus GYIK – Windows termékek](/lifecycle/faq/windows)\n\n\n> [!NOTE]\n> A Microsoft Edge a [Modern Életciklus Szabályzatot](https://docs.microsoft.com/lifecycle/policies/modern) követi. A böngésző frissítésének és támogatásának mikéntjéről a [Microsoft Edge életciklus dokumentációjában](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) tájékozódhat.\n\n\n## <a name=\"editions\"></a>Kiadások \n* Datacenter\n* Standard\n* Storage Standard\n* Storage Workgroup\n* Telekommunikáció"
