@@ -2,53 +2,39 @@
 metadata:
   title: Visual Studio 2012
   description: A Visual Studio 2012 a Rögzített Életciklus Szabályzatot követi.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509179"
 name: Visual Studio 2012
-summary: |+
+summary: >+
   A Visual Studio 2012 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
-  A következő kiadásokra vonatkozik: Ügynökök, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Eszközök, Premium, Professional, Távirányító eszközök, Rendszerhéj (Integrált), Rendszerhéj (Izolált), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Terjeszthető, Webeszközök Bővítményei
+
+
+  A következő kiadásokra vonatkozik: Express for Web, Express for Windows Desktop, Premium, Professional, Team Explorer, Ultimate
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-  - version: Update 5
-    startDate: 08/21/2015
-    endDate: 01/10/2023
-  - version: Update 4
-    startDate: 11/12/2013
-    endDate: 10/08/2019
-  - version: Original Release
-    startDate: 10/31/2012
-    endDate: 01/10/2023
-content: |
-
-  ## <a name="links"></a>Hivatkozások 
-  * [A Visual Studio termék életciklus és karbantartás](/visualstudio/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Kiadások 
-  * Ügynökök
-  * Community 2013
-  * Express for Web
-  * Express for Windows 8
-  * Express for Windows Desktop
-  * IntelliTrace Collector
-  * Microsoft Azure eszközök
-  * Premium
-  * Professional
-  * Távirányító eszközök
-  * Rendszerhéj (Integrált)
-  * Rendszerhéj (Izolált)
-  * SQL Server Data Tools
-  * Team Explorer
-  * Test Professional 2013
-  * Ultimate
-  * A Visual C++ Terjeszthető
-  * Webeszközök bővítményei
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizinformációk a Visual Studio régebbi verzióihoz](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Service Pack Szabályzat](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> A következő komponensek Visual Studio 2012 verzióit a Visual Studio 2012 életciklusának részeként szállítjuk és támogatjuk: Agents, IntelliTrace Collector, Microsoft Azure Tools, Remote Tools, SDK, Shell (integrált), Shell (izolált), SQL Server Data Tools, Team Explorer, Visual C++ Redistributable, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Kiadások \n* Express for Web\n* Express for Windows Desktop\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"

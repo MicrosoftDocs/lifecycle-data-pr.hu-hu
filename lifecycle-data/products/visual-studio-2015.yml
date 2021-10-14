@@ -2,50 +2,36 @@
 metadata:
   title: Visual Studio 2015
   description: A Visual Studio 2015 a Rögzített Életciklus Szabályzatot követi.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 492f0646827d31ba0f4c2906f64915c2b22dffc0
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509290"
 name: Visual Studio 2015
-summary: |+
+summary: >+
   A Visual Studio 2015 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
-  A következő kiadásokra vonatkozik: Agents, Community, Enterprise, ESM, Express for Web, Express Windows 10-re, Express a Windows Desktop-ra, Modellező SDK, Professional, PSM, Kiadáskezelés, Távirányító eszközök, SDK, Shell (Integrált), Shell (Izolált), Test Professional, TPS, Visual C++ Újraterjeszthető csomag
+
+
+  A következő kiadásokra vonatkozik: Community, Enterprise, Express for Web, Express for Windows 10, Express for Windows Desktop, Professional, Release Management, Test Professional
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 07/20/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-  - version: Update 3
-    startDate: 06/27/2016
-    endDate: 10/14/2025
-  - version: Original Release
-    startDate: 07/20/2015
-    endDate: 10/14/2025
-content: |
-
-  ## <a name="links"></a>Hivatkozások 
-  * [Karbantartási információk](https://www.visualstudio.com/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Kiadások 
-  * Ügynökök
-  * Community
-  * Enterprise
-  * ESM
-  * Express for Web
-  * Express Windows 10-re
-  * Express for Windows Desktop
-  * Modellező SDK
-  * Professional
-  * PSM
-  * Kiadáskezelés
-  * Távirányító eszközök
-  * SDK
-  * Rendszerhéj (Integrált)
-  * Rendszerhéj (Izolált)
-  * Test Professional
-  * TPS
-  * A Visual C++ Terjeszthető
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n\n## <a name=\"links\"></a>Hivatkozások \n* [Szervizinformációk a Visual Studio régebbi verzióihoz](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n* [Service Pack Szabályzat](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> A következő komponensek Visual Studio 2015 verzióit a Visual Studio 2015 életciklusának részeként szállítjuk és támogatjuk: Agents, ESM, Modelling SDK, PSM, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), TPS, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Kiadások \n* Community\n* Enterprise\n* Express for Web\n* Express Windows 10-re\n* Express for Windows Desktop\n* Professional\n* Kiadáskezelés\n* Test Professional"

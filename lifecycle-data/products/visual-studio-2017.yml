@@ -2,48 +2,36 @@
 metadata:
   title: Visual Studio 2017
   description: A Visual Studio 2017 a Rögzített Életciklus Szabályzatot követi.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable'
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 1026f138c847797213d0bb84b3df630e5c338f99
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509216"
 name: Visual Studio 2017
-summary: |+
+summary: >+
   A Visual Studio 2017 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
-  A következő kiadásokra vonatkozik: Agents, Build eszközök, Community, Enterprise, ESM, Ügyfél visszajelzés, Mac-re, IntelliTrace Különálló Collector, Teljesítményfokozó eszközök, Professional, PSM, Távirányító eszközök, Team Explorer, Test Professional, Visual C++ Újraterjeszthető csomag
+
+
+  A következő kiadásokra vonatkozik: Community, Enterprise, Professional, Test Professional
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 03/07/2017
   end: 04/12/2022
   extendedEnd: 04/13/2027
 releases:
-  - version: Version 15.9
-    startDate: 11/13/2018
-    endDate: 04/13/2027
-  - version: Version 15.0
-    startDate: 03/07/2017
-    endDate: 01/14/2020
-content: |
-
-  ## <a name="links"></a>Hivatkozások 
-  * [Bejelentés](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)
-  * [Karbantartási információk](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)
-
-
-  ## <a name="editions"></a>Kiadások 
-  * Ügynökök
-  * Buildkészítő eszközök
-  * Community
-  * Enterprise
-  * ESM
-  * Ügyfél visszajelzés
-  * Mac-re
-  * IntelliTrace Különálló Collector
-  * Teljesítménynövelő eszközök
-  * Professional
-  * PSM
-  * Távirányító eszközök
-  * Team Explorer
-  * Test Professional
-  * A Visual C++ Terjeszthető
+- version: Version 15.9
+  startDate: 11/13/2018
+  endDate: 04/13/2027
+- version: Version 15.0
+  startDate: 03/07/2017
+  endDate: 01/14/2020
+content: "\n\n## <a name=\"links\"></a>Hivatkozások \n* [Visual Studio blogbejegyzések](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Karbantartási információk](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n* [Visual Studio 2017letöltési lapja](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202017)\n* [Visual Studio 2017 kibocsátási megjegyzések](/visualstudio/releasenotes/vs2017-relnotes)\n\n\n> [!NOTE]\n> A következő komponensek Visual Studio 2017verzióit a Visual Studio 2017 életciklusának részeként szállítjuk és támogatjuk: Agents, Build Tools, ESM, Feedback Client, IntelliTrace Standalone Collector, Performance Tools, PSM, Remote Tools, Team Explorer, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Kiadások \n* Community\n* Enterprise\n* Professional\n* Test Professional"

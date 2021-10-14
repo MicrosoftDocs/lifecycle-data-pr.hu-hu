@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Outlook 2021
+  description: Az Outlook 2021 a Modern Életciklus Szabályzatot követi.
+  ms.date: 09/28/2021
+  keywords: 
+  ms.openlocfilehash: a060702cdcbeb36df8eba6941222a1a3a98c5775
+  ms.sourcegitcommit: e5d59c39c897b10be431516305a87c93e41433af
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509791"
+name: Outlook 2021
+summary: >+
+  Az Outlook 2021 a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
+
+
+
+  Ez a következő kiadásokra vonatkozik: Standard, Standard Mac-re
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/05/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 10/05/2021
+  endDate: 10/13/2026
+content: "\n\n\n\n\n\n## <a name=\"editions\"></a>Kiadások \n* Standard\n* Standard Mac-re"
