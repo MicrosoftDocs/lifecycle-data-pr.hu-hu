@@ -2,14 +2,14 @@
 metadata:
   title: Internet Explorer 11
   description: Az Internet Explorer 11 a Komponens Életciklus Szabályzatot követi.
-  ms.date: 05/18/2021
-  keywords: 
-  ms.openlocfilehash: 3224f71b4a69cb311899809b385069ab7e3664274146044d9d624e29d3cde008
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 11/03/2021
+  keywords: IE
+  ms.openlocfilehash: 395b45e3032265adf245359b254cbf5426bbd182
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2519753"
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560002"
 name: Internet Explorer 11
 summary: >+
   Az Internet Explorer 11 a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
@@ -30,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer/Edge életciklussal kapcsolatos GYIK](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Az Internet Explorer által támogatott operációs rendszerek](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [A Microsoft Edge által támogatott operációs rendszerek](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Lehetséges, hogy az Internet Explorer egyes verziói az operációs rendszer legfrissebb lejárati idején túl is támogatottak lesznek, amikor kiterjesztett biztonsági frissítések (ESU) elérhetőek. [Ide](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) kattintva láthatja az ESU-kat felkínáló termékek listáját."
+content: "\n\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Internet Explorer/Edge életciklussal kapcsolatos GYIK](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Az Internet Explorer által támogatott operációs rendszerek](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [A Microsoft Edge által támogatott operációs rendszerek](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Lehetséges, hogy az Internet Explorer egyes verziói az operációs rendszer legfrissebb lejárati idején túl is támogatottak lesznek, amikor kiterjesztett biztonsági frissítések (ESU) elérhetőek. [Ide](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) kattintva láthatja az ESU-kat felkínáló termékek listáját."
