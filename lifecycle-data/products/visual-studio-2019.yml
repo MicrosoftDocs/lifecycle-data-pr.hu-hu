@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2019
   description: A Visual Studio 2019 a Rögzített Életciklus Szabályzatot követi.
-  ms.date: 09/20/2021
+  ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: e23223d9d0a238c2d9784b25ab84a2195705951c
-  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.openlocfilehash: 0f9b64cda589aef8e2cee22444c63d61d955e158
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 09/21/2021
-  ms.locfileid: "3460607"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546711"
 name: Visual Studio 2019
 summary: >+
   A Visual Studio 2019 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
@@ -43,4 +43,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n\n## <a name=\"links\"></a>Hivatkozások \n* [Visual Studio blogbejegyzések](https://devblogs.microsoft.com/visualstudio/)\n* [Karbantartási információk](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019 letöltési lapja](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 kibocsátási megjegyzések](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> A következő komponensek Visual Studio 2019 verzióit a Visual Studio 2019 életciklusának részeként szállítjuk és támogatjuk: Agents, Buildkészítő eszközök, Community, Enterprise, IntelliTrace Különálló Collector, teljesítménynövelő eszközök, távirányító eszközök, Team Explorer és Visual C++ újraterjeszthető csomag.\n\n\n## <a name=\"editions\"></a>Kiadások \n* Community\n* Enterprise\n* Professional"
+content: "\n\n## <a name=\"links\"></a>Hivatkozások \n* [Visual Studio blogbejegyzések](https://devblogs.microsoft.com/visualstudio/)\n* [Támogatás és életciklus-információ](/visualstudio/releases/2019/servicing-vs2019)\n* [Visual Studio 2019 letöltési lapja](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 kibocsátási megjegyzések](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> A következő komponensek Visual Studio 2019 verzióit a Visual Studio 2019 életciklusának részeként szállítjuk és támogatjuk: Agents, Buildkészítő eszközök, IntelliTrace Standalone Collector, teljesítménynövelő eszközök, távirányító eszközök, Team Explorer és Visual C++ újraterjeszthető csomag.\n\n\n## <a name=\"editions\"></a>Kiadások \n* Community\n* Enterprise\n* Professional"

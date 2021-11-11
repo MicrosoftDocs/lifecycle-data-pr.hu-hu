@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Active Directory (AD) Connect
+  description: Az Azure Active Directory (AD) Connect a Modern Életciklus Szabályzatot követi.
+  ms.date: 11/02/2021
+  keywords: AD Connect,AD Sync
+  ms.openlocfilehash: ab854d18a930222cbf10394b623b57c7b660c2b4
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560344"
+name: Azure Active Directory (AD) Connect
+summary: >+
+  Az Azure Directory (AD) Connect a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követi.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > 2022. augusztus 31-én az Azure Active Directory (Azure AD) Connect 1.x verziói kivezetésre kerülnek, mert SQL Server 2012 már nem támogatott összetevőket tartalmaznak. Kérjük, frissítsen az [Azure AD Connect 2.x-es](https://www.microsoft.com/download/details.aspx?id=47594) verziójára vagy az [Azure AD Connect felhőszinkronizálás](https://docs.microsoft.com/azure/active-directory/cloud-sync/what-is-cloud-sync) legfrissebb kiadására.
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 09/01/2014
+releases:
+- version: Version 2.x
+  startDate: 09/30/2021
+- version: Version 1.x
+  startDate: 09/01/2014
+  endDate: 08/31/2022
+content: "\n\n## <a name=\"links\"></a>Hivatkozások \n* [Karbantartási információk](/azure/active-directory/hybrid/reference-connect-version-history)\n* [Azure AD Connect felhőalapú szinkronizálás](/azure/active-directory/cloud-sync/what-is-cloud-sync)\n* [Azure AD Connect v2.0](/azure/active-directory/hybrid/whatis-azure-ad-connect-v2)\n\n\n> [!NOTE]\n> Az eredetileg 2014 szeptemberében megjelent Azure AD Sync neve Azure AD Connectre módosult 2015. júniusban, az 1.0.8641.0-s verziótól kezdve."
