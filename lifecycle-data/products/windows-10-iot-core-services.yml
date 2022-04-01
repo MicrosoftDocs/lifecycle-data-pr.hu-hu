@@ -1,25 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT Core szolgáltatások
-  description: A Windows 10 IoT Core szolgáltatások a Modern Életciklus Szabályzatot követik.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9ce995e2110cb5a94a92622cdc747914de4fb23a3802b0c1c67339e697794100
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  title: Windows 10 IoT Core Services
+  description: A Windows 10 IoT Core Services a Modern Életciklus Szabályzatot követik.
+  ms.date: 2022/03/08
+  keywords: 
+  ms.openlocfilehash: 6d8584eb944598b1ebf73a2db262cf4fbcffc5dd
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2497479"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4130431"
 name: Windows 10 IoT Core szolgáltatások
 summary: >+
-  A Windows 10 IoT Core szolgáltatások a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követik.
+  A Windows 10 IoT Core Services a [Modern](/lifecycle/policies/modern) Életciklus Szabályzatot követik.
+
+
+
 
 
 products:
 - windows
 policyType: modern-online
 supportDates:
-  start: 11/13/2018
+  start: 2018-11-13T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Windows 10 IoT Core szolgáltatások](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> A Windows 10 IoT Core szolgáltatások egy előfizetéses szolgáltatás, amely szoftvertámogatást nyújt, beleértve az Eszközfrissítési központtal történő frissítés vezérlést és a megnövelt biztonságot az Eszközállapot-igazolással, mindaddig ameddig a Windows 10 IoT Core szoftver támogatott verzióját futtatja."
+  startDate: 2018-11-13T00:00:00.000-08:00
+content: "> [!TIP]\n> Ezt a terméket a [Windows 10 IoT 2019 LTSC](https://docs.microsoft.com/lifecycle/products/windows-10-iot-2019-ltsc) támogatja.\n\n\n## <a name=\"links\"></a>Hivatkozások \n* [Windows 10 IoT Core Services áttekintés](http://aka.ms/IoTCoreServices)\n\n\n> [!NOTE]\n> A Windows 10 IoT Core Services egy támogatási előfizetés, amely a [Windows 10 IoT Core](https://docs.microsoft.com/lifecycle/products/windows-10-iot-core) támogatott verzióival érhető el."

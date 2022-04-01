@@ -3,24 +3,23 @@ metadata:
   title: Internet Explorer 9
   description: Az Internet Explorer 9 a Komponens Életciklus Szabályzatot követi.
   ms.date: 08/12/2020
+  ms.openlocfilehash: f61f077fd1b92fb7ef960ad2fa68e6ac1ebdb88c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154370"
 name: Internet Explorer 9
-summary: |+
+summary: >+
   Az Internet Explorer 9 a [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 03/15/2011
+  start: 2011-03-15T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 03/15/2011
-content: |+
-
-  ## <a name="links"></a>Hivatkozások 
-  * [Áttelepítési útmutató](https://www.microsoft.com/itpro/microsoft-edge)
-  * [Gyakori kérdések az Internet Explorer életciklus szabályzatáról](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > 2016. január 12-től csak a támogatott operációs rendszerekhez elérhető Internet Explorer legújabb verziója kap technikai támogatást és biztonsági frissítéseket.
+- version: Original Release
+  startDate: 2011-03-15T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](https://www.microsoft.com/itpro/microsoft-edge)\n* [Gyakori kérdések az Internet Explorer életciklus szabályzatáról](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 2016. január 12-től csak a támogatott operációs rendszerekhez elérhető Internet Explorer legújabb verziója kap technikai támogatást és biztonsági frissítéseket."

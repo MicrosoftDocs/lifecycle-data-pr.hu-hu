@@ -1,13 +1,13 @@
 ---
 title: Termékek, melyeknek a támogatása 2016-ben megszűnik
 description: Nézze meg, melyik termék kerül kivezetésre, illetve mely termékek támogatása szűnik meg vagy kerül át az általános támogatásból a kiterjesztett támogatásba 2016-ben.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028164"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117555"
 ---
 # <a name="products-ending-support-in-2016"></a>Termékek, melyeknek 2016-ben megszűnik a támogatása
 
@@ -20,13 +20,6 @@ Ha bármilyen kérdése van egy termék támogatásával kapcsolatban, forduljon
 
 
 
-## <a name="release-end-of-servicing"></a>A szolgáltatás megszüntetésének engedélyezése
-
-A következő, a [Modern Irányelvek](/lifecycle/policies/modern) által szabályozott termékek támogatása 2016-ban megszűnik.
-
-| Termék | A karbantartás vége |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, 1511-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2016. december 8., csütörtök |
 
 
 ## <a name="products-reaching-end-of-support"></a>A termékek támogatásának megszűnése

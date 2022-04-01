@@ -1,13 +1,13 @@
 ---
 title: Termékek, melyeknek a támogatása 2021-ben megszűnik
 description: Nézze meg, melyik termék kerül kivezetésre, illetve mely termékek támogatása szűnik meg vagy kerül át az általános támogatásból a kiterjesztett támogatásba 2021-ben.
-ms.date: 11/03/2021
-ms.openlocfilehash: a3404257f04c2f022e648e067f78204a220bd3fc
-ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+ms.date: 01/14/2022
+ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "4029250"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117481"
 ---
 # <a name="products-ending-support-in-2021"></a>Termékek, melyeknek 2021-ben megszűnik a támogatása
 
@@ -24,7 +24,7 @@ A következő, a [Modern irányelv](/lifecycle/policies/modern) által szabály
 
 | Termék | Kivezetés |
 | --- | --- |
-| [Azure Information Protection-ügyfél](/lifecycle/products/azure-information-protection-client?branch=live)<br> | 2021. március 31. |
+| [Azure Information Protection klasszikus ügyfél](/lifecycle/products/azure-information-protection-classic-client?branch=live)<br> | 2021. március 31. |
 | [Azure Dev Spaces](/lifecycle/products/azure-dev-spaces?branch=live)<br> | 2021. május 15., szombat |
 | [Skype Vállalati online verzió](/lifecycle/products/skype-for-business-online?branch=live)<br> | 2021. július 31., szombat |
 | [Dynamics 365 Layout](/lifecycle/products/dynamics-365-layout?branch=live)<br> | 2021. december 31., péntek |
@@ -39,7 +39,7 @@ A következő, a [Modern Irányelvek](/lifecycle/policies/modern) által szabál
 | [Microsoft Endpoint Configuration Manager, 1906-os verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021. január 26., kedd |
 | [Dynamics 365 Business Central helyszíni (Modern irányelvek), 2019-es kiadás, 2 hullám, 15.x verzió](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2021. április 13 |
 | [Windows 10 Enterprise and Education, 1803-as verzió](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise and Education, 1809-es verzió](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, 1909-es verzió](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, 1803-as verzió](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, 1809-es verzió](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, 1909-as verzió](/lifecycle/products/windows-server?branch=live)<br> | 2021. május 11., kedd |
-| [Microsoft Endpoint Configuration Manager, 1910-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021. május 29., szombat |
+| [Microsoft Endpoint Configuration Manager, 1511-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, 1910-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021. május 29., szombat |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 2021. augusztus 21., szombat |
 | [Microsoft Endpoint Configuration Manager, 2002-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021. október 1., péntek |
 | [Dynamics 365 Business Central helyszíni (Modern irányelvek), 2020-as kiadás, 1 hullám, 16.x verzió](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2021. október 12 |

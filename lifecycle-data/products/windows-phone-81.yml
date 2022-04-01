@@ -3,27 +3,29 @@ metadata:
   title: Windows Phone 8.1
   description: A Windows Phone 8.1 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 29084ce2a70a665cf844ba45a7704878133677b2
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4117999"
 name: Windows Phone 8.1
-summary: |
+summary: >
   A Windows Phone 8.1 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
+
   > [!IMPORTANT]
+
   > A termék támogatása lejárt.
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 06/24/2014
-  end: 07/11/2017
+  start: 2014-06-24T00:00:00.000-08:00
+  end: 2017-07-11T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 06/24/2014
-    endDate: 07/11/2017
-content: |+
-
-  ## <a name="links"></a>Hivatkozások 
-  * [Windows Phone 8.1 GYIK](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
-
-  > [!NOTE]
-  > A Microsoft az életciklus kezdő dátumát követő minimum 36 hónapig elérhetővé teszi az operációs rendszer frissítéseit, beleértve a biztonsági frissítéseket is. Ezek a frissítések növekményesek lesznek, és minden frissítés az azt megelőző frissítésre épül. Az ügyfeleknek telepíteniük kell miden egyes frissítést, hogy továbbra is támogatottak maradjanak. A növekményes frissítések terjesztését a mobilszolgáltató vagy a telefon gyártója szabályozhatja, akitől a telefont vásárolta, és a telepítéshez az szükséges, hogy a telefon valamilyen előzetes frissítéssel rendelkezzen. A frissítések elérhetősége országonként, régiónként és hardverképességenként is eltérő lesz.
+- version: Original Release
+  startDate: 2014-06-24T00:00:00.000-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Windows Phone 8.1 GYIK](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> A Microsoft az életciklus kezdő dátumát követő minimum 36 hónapig elérhetővé teszi az operációs rendszer frissítéseit, beleértve a biztonsági frissítéseket is. Ezek a frissítések növekményesek lesznek, és minden frissítés az azt megelőző frissítésre épül. Az ügyfeleknek telepíteniük kell miden egyes frissítést, hogy továbbra is támogatottak maradjanak. A növekményes frissítések terjesztését a mobilszolgáltató vagy a telefon gyártója szabályozhatja, akitől a telefont vásárolta, és a telepítéshez az szükséges, hogy a telefon valamilyen előzetes frissítéssel rendelkezzen. A frissítések elérhetősége országonként, régiónként és hardverképességenként is eltérő lesz."

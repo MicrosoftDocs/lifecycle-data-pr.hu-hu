@@ -3,32 +3,29 @@ metadata:
   title: Windows Storage Server 2012
   description: A Windows Storage Server 2012 a Rögzített Életciklus Szabályzatot követi.
   ms.date: 09/10/2020
-  keywords: 'Standard,Workgroup'
+  keywords: Standard,Workgroup
+  ms.openlocfilehash: a436619b2d23e1f93b02a5eae463ab59cfd1c182
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134353"
 name: Windows Storage Server 2012
-summary: |+
+summary: >+
   A Windows Storage Server 2012 a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
+
 
   Ez a következő kiadásokra vonatkozik: Standard, Workgroup
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 10/30/2012
-  end: 10/09/2018
-  extendedEnd: 10/10/2023
+  start: 2012-10-30T00:00:00.000-08:00
+  end: 2018-10-09T22:59:59.999-08:00
+  extendedEnd: 2023-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/30/2012
-    endDate: 10/10/2023
-content: |
-
-  ## <a name="links"></a>Hivatkozások 
-  * [Áttelepítési útmutató](/windows-server/upgrade/upgrade-2012-to-2016)
-
-  > [!NOTE]
-  > A termék általános és kiterjesztett támogatása bővült, hogy az ügyfelek számára a standard életciklus átmenet ütemtervét biztosítsa.
-
-  ## <a name="editions"></a>Kiadások 
-  * Standard
-  * Munkacsoport
+- version: Original Release
+  startDate: 2012-10-30T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Hivatkozások \n* [Áttelepítési útmutató](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> A termék általános és kiterjesztett támogatása bővült, hogy az ügyfelek számára a standard életciklus átmenet ütemtervét biztosítsa.\n\n## <a name=\"editions\"></a>Kiadások \n* Standard\n* Munkacsoport"

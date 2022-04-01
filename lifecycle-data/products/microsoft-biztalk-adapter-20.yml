@@ -3,31 +3,24 @@ metadata:
   title: Microsoft BizTalk adapter 2.0
   description: A Microsoft BizTalk Adapter 2.0 a rögzített életciklus-szabályzatot követi.
   ms.date: 09/01/2020
-  keywords: 'for MSMQ,for mySAP Business Suite,for SAP'
+  keywords: for MSMQ,for mySAP Business Suite,for SAP
+  ms.openlocfilehash: d2f3bdb14e06bdc94859a7fe1127b1bdb1444d77
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4153741"
 name: Microsoft BizTalk adapter 2.0
-summary: |+
-  A Microsoft BizTalk Adapter 2.0 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.
-
-  Ez a következő kiadásokra vonatkozik: MSMQ-hoz, mySAP Business Suite csomaghoz, SAP-hoz 
-
+summary: "A Microsoft BizTalk Adapter 2.0 a [rögzített](/lifecycle/policies/fixed) életciklus-szabályzatot követi.\n\nEz a következő kiadásokra vonatkozik: MSMQ-hoz, mySAP Business Suite csomaghoz, SAP-hoz \n\n"
 products:
-  - microsoft-servers
+- microsoft-servers
 policyType: fixed
 supportDates:
-  start: 10/20/2004
-  end: 01/12/2010
-  extendedEnd: 01/13/2015
+  start: 2004-10-20T00:00:00.000-08:00
+  end: 2010-01-12T22:59:59.999-08:00
+  extendedEnd: 2015-01-13T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/20/2004
-    endDate: 01/13/2015
-content: |
-
-
-  > [!NOTE]
-  > A Microsoft BizTalk Adapter 2.0 SAP-hoz kezdő dátuma 2004. november 2. Az MSMQ 2.0-ás verzióhoz a Microsoft BizTalk adapter kezdő dátuma 2004. december 10.
-
-  ## <a name="editions"></a>Kiadások 
-  * MSMQ-hoz
-  * mySAP Business Suite csomaghoz
-  * SAP-hoz
+- version: Original Release
+  startDate: 2004-10-20T00:00:00.000-08:00
+  endDate: 2015-01-13T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> A Microsoft BizTalk Adapter 2.0 SAP-hoz kezdő dátuma 2004. november 2. Az MSMQ 2.0-ás verzióhoz a Microsoft BizTalk adapter kezdő dátuma 2004. december 10.\n\n## <a name=\"editions\"></a>Kiadások \n* MSMQ-hoz\n* mySAP Business Suite csomaghoz\n* SAP-hoz"

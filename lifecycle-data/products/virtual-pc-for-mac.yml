@@ -3,23 +3,25 @@ metadata:
   title: Virtual PC for Mac
   description: A Virtual PC for Mac a Rögzített Életciklus Szabályzatot követi.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 001a8a7f9854b5160bfa8afca63c1d90ade3710c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4124178"
 name: Virtual PC for Mac
-summary: |+
+summary: >+
   A Virtual PC for Mac a [Rögzített](/lifecycle/policies/fixed) Életciklus Szabályzatot követi.
 
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 11/12/2003
-  end: 04/13/2010
+  start: 2003-11-12T00:00:00.000-08:00
+  end: 2010-04-13T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/12/2003
-    endDate: 01/13/2009
-content: |+
-
-
-  > [!NOTE]
-  > A csomagban az 5.01-es verzió, 5.02-es verzió, 5.03-as verzió, 5.04-es verzió, 6.01-es verzió, 6.02-es verzió, 6.1-es verzió, 6.1.1-es verzió frissítés, 7-es verzió, 7.01-es verzió szerepel
+- version: Original Release
+  startDate: 2003-11-12T00:00:00.000-08:00
+  endDate: 2009-01-13T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> A csomagban az 5.01-es verzió, 5.02-es verzió, 5.03-as verzió, 5.04-es verzió, 6.01-es verzió, 6.02-es verzió, 6.1-es verzió, 6.1.1-es verzió frissítés, 7-es verzió, 7.01-es verzió szerepel"
