@@ -1,13 +1,13 @@
 ---
 title: Termékek, melyeknek a támogatása 2020-ben megszűnik
 description: Nézze meg melyik termék lesz kivezetve, vagy mely termék támogatása fog megszűnni, vagy átkerülni az alapvető technikai támogatásból a bővített támogatásba 2020-ban.
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117592"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518196"
 ---
 # <a name="products-ending-support-in-2020"></a>Termékek, melyeknek 2020-ben megszűnik a támogatása
 
@@ -38,7 +38,7 @@ A következő, a [Modern Irányelvek](/lifecycle/policies/modern) által szabál
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, 1806-os verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2020. január 31., péntek |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 2020. március 3., kedd |
-| [PowerShell, PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | 2020. szeptember 4., péntek |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | 2020. szeptember 4., péntek |
 | [Microsoft Endpoint Configuration Manager, 1902-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2020. szeptember 27., vasárnap |
 | [Visio Szolgáltatások a SharePointban (Microsoft 365-ben)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | 2020. szeptember 30., szerda |
 | [Windows 10 Enterprise and Education, 1709-es verzió](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, 1709-es verzió](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2020. október 13.  |

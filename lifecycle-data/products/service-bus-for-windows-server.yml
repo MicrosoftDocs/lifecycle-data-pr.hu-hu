@@ -2,22 +2,26 @@
 metadata:
   title: Service Bus Windows Server rendszerhez
   description: A Windows Server Service Bus a Komponens Életciklus Szabályzatot követi.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d94e7c188c7164e0f7be80bc8eca33c3ede0edf
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/03/24
+  keywords: 
+  ms.openlocfilehash: c8a4ac8dc6f815bcc7b2a8caeb9d42bb1bf2aa7e
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: hu-HU
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147636"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518825"
 name: Service Bus Windows Server rendszerhez
-summary: >
+summary: >+
   A Windows Server Service Bus az [Komponens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Életciklus Szabályzatot követi.
+
+
 
 
 
   > [!IMPORTANT]
 
-  > Ha a Service Bus 1.1 a SharePoint Server 2016 vagy a SharePoint Server 2013 összetevője, a rendszer támogatja a megfelelő SharePoint Server verzió támogatási dátumának lejárta szerint.
+  > A Service Bus 1.1 a SharePoint Server Subscription Edition, a SharePoint Server 2019, a SharePoint Server 2016 és a SharePoint Server 2013 összetevője, és származtató terméke életciklusát követi.
+
 products:
 - windows
 policyType: component
