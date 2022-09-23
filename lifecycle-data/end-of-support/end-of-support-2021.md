@@ -1,13 +1,13 @@
 ---
 title: Termékek, melyeknek a támogatása 2021-ben megszűnik
 description: Nézze meg, melyik termék kerül kivezetésre, illetve mely termékek támogatása szűnik meg vagy kerül át az általános támogatásból a kiterjesztett támogatásba 2021-ben.
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117481"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520835"
 ---
 # <a name="products-ending-support-in-2021"></a>Termékek, melyeknek 2021-ben megszűnik a támogatása
 
@@ -37,12 +37,12 @@ A következő, a [Modern Irányelvek](/lifecycle/policies/modern) által szabál
 | Termék | A karbantartás vége |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, 1906-os verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021. január 26., kedd |
+| [Azure IoT Edge, 1.0-ás verzió](/lifecycle/products/azure-iot-edge?branch=live)<br> | 2021. február 1., hétfő |
 | [Dynamics 365 Business Central helyszíni (Modern irányelvek), 2019-es kiadás, 2 hullám, 15.x verzió](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2021. április 13 |
 | [Windows 10 Enterprise and Education, 1803-as verzió](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise and Education, 1809-es verzió](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, 1909-es verzió](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, 1803-as verzió](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, 1809-es verzió](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, 1909-as verzió](/lifecycle/products/windows-server?branch=live)<br> | 2021. május 11., kedd |
-| [Microsoft Endpoint Configuration Manager, 1511-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, 1910-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021. május 29., szombat |
+| [Microsoft Endpoint Configuration Manager, 1910-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021. május 29., szombat |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 2021. augusztus 21., szombat |
 | [Microsoft Endpoint Configuration Manager, 2002-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021. október 1., péntek |
-| [Dynamics 365 Business Central helyszíni (Modern irányelvek), 2020-as kiadás, 1 hullám, 16.x verzió](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2021. október 12 |
 | [Windows 10 Enterprise and Education, 2004-es verzió](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, 2004-es verzió](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, 2004-es verzió](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, 2004-es verzió](/lifecycle/products/windows-server?branch=live)<br> | 2021. december 14., kedd |
 
 
