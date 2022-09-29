@@ -1,13 +1,13 @@
 ---
 title: Termékek, melyeknek a támogatása 2023-ben megszűnik
 description: Nézze meg, melyik termék kerül kivezetésre, illetve mely termékek támogatása szűnik meg vagy kerül át az általános támogatásból a kiterjesztett támogatásba 2023-ben.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521061"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526869"
 ---
 # <a name="products-ending-support-in-2023"></a>Termékek, melyeknek 2023-ben megszűnik a támogatása
 
@@ -36,13 +36,12 @@ A következő, a [Modern Irányelvek](/lifecycle/policies/modern) által szabál
 | Termék | A karbantartás vége |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, 2107-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023. február 2., csütörtök |
-| [Microsoft Endpoint Configuration Manager, 2207-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023. február 12., vasárnap |
 | [Dynamics 365 Business Central helyszíni, (Modern irányelvek) 2021-as kiadás, 2 hullám, 19.x verzió](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2023. április 12., szerda |
 | [Windows 10 Enterprise and Education, 20H2 verzió](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, 20H2 verzió](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2023. május 9., kedd |
 | [Microsoft Endpoint Configuration Manager, 2111-es verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023. június 1., csütörtök |
 | [Windows 10 Home and Pro, 21H2 verzió](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | 2023. június 13., kedd |
 | [Microsoft Endpoint Configuration Manager, 2203-as verzió](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023. október 6., péntek |
-| [Dynamics 365 Business Central helyszíni (Modern irányelvek), 2022-es kiadás, 1 hullám, 20.x verzió](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home and Pro (21H2-es verzió), eredeti kiadás (21H2-es verzió)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 2023. október 10. |
+| [Dynamics 365 Business Central helyszíni (Modern irányelvek), 2022-es kiadás, 1 hullám, 20.x verzió](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home and Pro, 21H2 verzió](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 2023. október 10. |
 
 
 ## <a name="products-reaching-end-of-support"></a>A termékek támogatásának megszűnése
